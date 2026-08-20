@@ -3,6 +3,7 @@
     <string name="about_app_name">O Motywach</string>
     <string name="about_version_update">"Co nowego?"</string>
     <string name="accessibiliy_description_content_comment">Komentarz</string>
+    <string name="account_user_phone_show">Konto: %s</string>
     <string name="ad_begin_to_download_tip">Rozpoczynanie pobierania…</string>
     <string name="ad_begin_to_install_tip">Instalacja…</string>
     <string name="ad_close">Zamknięto tę reklamę</string>
@@ -28,7 +29,7 @@
     <string name="ai_dialog_support_type_confirm">Wypróbuj</string>
     <string name="ai_dialog_support_type_title">Nowe typy obrazów</string>
     <string name="ai_direct_check">Wyświetl</string>
-    <string name="ai_estimated_two_three_minutes" formatted="false">Zajmie to %d–%d minuty</string>
+    <string formatted="false" name="ai_estimated_two_three_minutes">Zajmie to %d–%d minuty</string>
     <string name="ai_generate_content_fail_message">Ta treść może naruszać zasady Xiaomi. Wybierz nowe zdjęcia.</string>
     <string name="ai_generate_loading">Generowanie tapety…</string>
     <string name="ai_generate_message">Jeśli wygenerujesz dynamiczną tapetę, zmiany dodane do statycznej wersji tapety nie zostaną zapisane. Wygenerować?</string>
@@ -79,8 +80,8 @@
     <string name="ai_pet_tips_network_exception_title">Błąd sieci</string>
     <string name="ai_pet_violated_limit">Wiele naruszeń zasad</string>
     <string name="ai_pet_waiting_in_line_please_wait">Jesteś w kolejce. Czekaj…</string>
-    <string name="ai_recorded_information">Informacje dot. rejestracji</string>3
     <string name="ai_read_the_privacy_policy">&lt;Data>Zanim przejdziesz dalej, przeczytaj i zaakceptuj warunki &lt;a href=\"%1$s\">Umowy użytkownika&lt;/a> i &lt;a href=\"%2$s\">Polityki prywatności&lt;/a>.&lt;/Data></string>
+    <string name="ai_recorded_information">Informacje dot. rejestracji</string>
     <string name="ai_select_images_smaller_than_one_hundred">Wybierz obraz mniejszy niż %d MB i spróbuj ponownie.</string>
     <string name="ai_select_message">Wybierz zdjęcie, na którym obiekt jest wyraźnie widoczny.</string>
     <string name="ai_select_title">Nie udało się wygenerować</string>
@@ -167,7 +168,9 @@
     <string name="apply_wallpaper_warning_when_use_super_wallpaper">Aby nadal używać Supertapet, zaktualizuj je do najnowszej wersji.</string>
     <string name="apply_warning_get_device_dialog_message">Aby móc używać pobranych treści, zezwól tej funkcji na dostęp do Twojego ID urządzenia. Możesz nadać to uprawnienie w Ustawieniach > Prywatność.</string>
     <string name="apply_warning_tip_get_device_status">Najpierw zezwól tej aplikacji na dostęp do Twojego ID urządzenia w menu Moje konto > Ustawienia.</string>
+    <string name="attention_list">Moi obserwowani</string>
     <string name="audition_ringtone">Odtwórz</string>
+    <string name="author_already_attention">Obserwujesz</string>
     <string name="author_attention">Śledź</string>
     <string name="author_attention_success">Śledzisz</string>
     <string name="author_dialog_message">Czy na pewno chcesz przestać obserwować to konto?</string>
@@ -366,6 +369,7 @@ Dotknij ekranu i wybierz opcję Zgadzam się, aby korzystać z niego normalnie."
     <string name="font_compat_dialog_title">Problemy z kompatybilnością</string>
     <string name="font_compat_dialog_trial_confirm">Wypróbuj</string>
     <string name="font_compat_dialog_trial_content">Niektóre aplikacje mogą nie wspierać innych czcionek niż domyślne. Ten problem być może zostanie rozwiązany przez aktualizację systemu. Czy chcesz wypróbować tę czcionkę?</string>
+    <string name="font_glass_effect_disabled">Nie można zastosować efektów szkła na tej tapecie</string>
     <string name="font_pad_setting_charge_font">Płatne</string>
     <string name="font_pad_setting_find_more_title">Więcej czcionek</string>
     <string name="font_pad_setting_free_font">Darmowe</string>
@@ -374,8 +378,8 @@ Dotknij ekranu i wybierz opcję Zgadzam się, aby korzystać z niego normalnie."
     <string name="font_trial_end_purchase">Kup czcionkę</string>
     <string name="forbid_transparent_wallpaper_by_second_space">Najpierw zastosuj przezroczystą tapetę w Pierwszej przestrzeni.</string>
     <string name="forbid_video_wallpaper_by_second_space">Najpierw zastosuj dynamiczną tapetę w Pierwszej przestrzeni.</string>
-    <string name="format_month_day_style_interactive_pets">d.MM</string>
     <string name="format_month_day_style2">d.MM</string>
+    <string name="format_month_day_style_interactive_pets">d.MM</string>
     <string name="format_month_day_week">EEEE, d MMMM</string>
     <string name="format_week_day_style2">EE d</string>
     <string name="gallery_wallpaper">Tapety Blokady</string>
@@ -443,6 +447,22 @@ Ten plik nie ma dźwięku. Inne osoby będą słyszeć ich domyślny dzwonek w t
     <string name="install_gallery_title">Zainstaluj Galerię</string>
     <string name="item_resource_audio_optional_color_ring">Dzwonek</string>
     <string name="item_resource_audio_optional_phone_ring">Dzwonek połączenia</string>
+    <string name="kg_allinone_drag_bottom">Przeciągnij dolną część zegara, aby dostosować jego wysokość</string>
+    <string name="kg_allinone_drag_corner">Przeciągnij prawy dolny róg zegara, aby zmienić jego rozmiar</string>
+    <string name="kg_allinone_font_type_MiSans_RC">MiSans (heiti)</string>
+    <string name="kg_allinone_font_type_MiSans_Rounded">MiSans (zaokrąglona)</string>
+    <string name="kg_allinone_font_type_MiSans_Square">MiSans (kwadratowa)</string>
+    <string name="kg_allinone_font_type_MiSerif">Czcionka szeryfowa</string>
+    <string name="kg_allinone_hollow_not_support_current_font">Ta czcionka nie obsługuje stylów konturu</string>
+    <string name="kg_allinone_hollow_not_support_current_style">Obecny styl, rozmiar i grubość czcionki nie obsługują stylów konturu</string>
+    <string name="kg_allinone_hollow_style_both">Godziny i minuty: Kontur</string>
+    <string name="kg_allinone_hollow_style_hour">Godziny: Kontur. Minuty: Jednolity</string>
+    <string name="kg_allinone_hollow_style_minute">Godziny: Jednolity. Minuty: Kontur</string>
+    <string name="kg_allinone_hollow_style_none">Godziny i minuty: Jednolity</string>
+    <string name="kg_allinone_hollow_style_title">Styl konturu</string>
+    <string name="kg_allinone_transparency_name">Przezroczystość zegara</string>
+    <string name="kg_allinone_transparency_title">Przezroczystość</string>
+    <string name="kg_allinone_weight_title">Grubość czcionki</string>
     <string name="kg_apply_dialog_desktop_preview">Podgląd Ekranu głównego</string>
     <string name="kg_apply_to_all_alert_dialog_title">Zastosować tę tapetę również na Ekranie głównym?</string>
     <string name="kg_apply_to_aod_alert_dialog_negative_text">Nie, dzięki</string>
@@ -454,8 +474,8 @@ Ten plik nie ma dźwięku. Inne osoby będą słyszeć ich domyślny dzwonek w t
     <string name="kg_classic_font_type_misans_slim">Mi Sans narrow</string>
     <string name="kg_classic_font_type_misans_square">Kwadrat</string>
     <string name="kg_classic_font_type_wide_black_bold">Czcionka szeroka, pogrubiona</string>
-    <string name="kg_classic_item_lunar_year">Rok (tradycyjny chiński kalendarz)</string>
     <string name="kg_classic_item_lunar_date1">Kalendarz chiński</string>
+    <string name="kg_classic_item_lunar_year">Rok (tradycyjny chiński kalendarz)</string>
     <string name="kg_classic_plus_clock_type_centered_horizontally">Poziomo, wyrównanie do środka</string>
     <string name="kg_classic_plus_clock_type_centered_vertically">Pionowo, wyrównanie do środka</string>
     <string name="kg_dialog_ai_blocking_for_resolution_too_small">Rozdzielczość tapety musi wynosić co najmniej %1$d×%2$d px</string>
@@ -487,6 +507,7 @@ Ten plik nie ma dźwięku. Inne osoby będą słyszeć ich domyślny dzwonek w t
     <string name="kg_editor_history_mine">Moje zestawy</string>
     <string name="kg_effects_not_support_gallery_tip">Nie można ustawić efektów, korzystając z pokazu slajdów</string>
     <string name="kg_effects_tip_desc">Efekt głębi ostrości nie może być łączony z filtrami. Użycie jednej z tych opcji wyłączy drugą.</string>
+    <string name="kg_effects_tip_not_support_glass_filter">Szklany zegar nie obsługuje efektów</string>
     <string name="kg_font_filter_color_customize">Kolor niestandardowy</string>
     <string name="kg_font_filter_color_default">Kolor domyślny</string>
     <string name="kg_font_filter_color_grey">Szary</string>
@@ -502,6 +523,8 @@ Ten plik nie ma dźwięku. Inne osoby będą słyszeć ich domyślny dzwonek w t
     <string name="kg_font_filter_color_pale_red">Czerwony</string>
     <string name="kg_font_filter_color_pale_yellow">Żółty</string>
     <string name="kg_font_filter_color_white">Biały</string>
+    <string name="kg_font_filter_group_label_BlurObscure">Rozmycie i łączenie</string>
+    <string name="kg_font_filter_group_label_glass">Szkło</string>
     <string name="kg_font_filter_object_label_primary">Podstawowe</string>
     <string name="kg_font_filter_object_label_secondary">Dodatkowe</string>
     <string name="kg_function_button_text_ai_generate">Generowanie SI</string>
@@ -545,10 +568,15 @@ Ten plik nie ma dźwięku. Inne osoby będą słyszeć ich domyślny dzwonek w t
     <string name="kg_talkback_double_tap_to_activate">Dwukrotnie dotknij, aby aktywować</string>
     <string name="kg_talkback_off">Wyłączony</string>
     <string name="kg_talkback_on">Włączony</string>
+    <string name="kg_talkback_slide_up_or_down">Przesuń w górę lub w dół, aby dostosować</string>
+    <string name="kg_template_description_car">Tam, gdzie technologia spotyka się z pięknem: doświadcz prędkości przyszłości przy każdym odblokowaniu.</string>
     <string name="kg_template_description_eastern_art">Współczesna interpretacja wschodnich motywów wykorzystująca klasyczną symetrię krzyżową, charakterystyczny układ pionowy i kaligraficzną ekspresję</string>
+    <string name="kg_template_description_magazine_natural">Styl zegara, który łączy naturę z wielowarstwowymi efektami wizualnymi, tworząc wyrafinowany i wyrazisty wygląd</string>
     <string name="kg_template_description_rhombus">Czas jest ważny. Wykorzystaj go.</string>
     <string name="kg_template_title_Ultra_longtime_a_talkback">Duży zegar A</string>
     <string name="kg_template_title_Ultra_longtime_b_talkback">Duży zegar B</string>
+    <string name="kg_template_title_Ultra_longtime_c_talkback">Duży zegar C</string>
+    <string name="kg_template_title_Ultra_longtime_d_talkback">Duży zegar D</string>
     <string name="kg_template_title_classic_max_talkback">Klasyczny Ekran blokady MAX</string>
     <string name="kg_template_title_eastern_a_three_talkback">Estetyka Wschodu A, trzy wiersze</string>
     <string name="kg_template_title_eastern_a_two_talkback">Estetyka Wschodu A, dwa wiersze</string>
@@ -560,6 +588,7 @@ Ten plik nie ma dźwięku. Inne osoby będą słyszeć ich domyślny dzwonek w t
     <string name="kg_template_title_magazine_b_talkback">Magazyn B</string>
     <string name="kg_template_title_magazine_c_one_talkback">Magazyn C, kontur</string>
     <string name="kg_template_title_magazine_c_three_talkback">Magazyn C, trzy linie</string>
+    <string name="kg_template_title_magazine_natural">Motyw natury</string>
     <string name="kg_template_title_pets">Zwierzęta</string>
     <string name="kg_template_title_pets_bichondog_talkback">Bichon frisé</string>
     <string name="kg_template_title_pets_blackfacesheep_talkback">Owca</string>
@@ -629,10 +658,12 @@ Dotknij, aby go wyłączyć."</string>
     <string name="long_click_can_hide_resource">Dotknij i przytrzymaj, aby ukryć elementy</string>
     <string name="loop_video_wallpaper">Zapętlij dynamiczne tapety</string>
     <string name="maml_config_select_image">Wybierz obraz</string>
+    <string name="mashup_sound">Miks natury</string>
+    <string name="me_followings">Obserwujesz</string>
+    <string name="me_phone_number_label">Konto Xiaomi: %1$s</string>
     <string name="messaging_apply_success">Zastosowano pomyślnie</string>
     <string name="mine_tab_not_login">Zaloguj się, aby wyświetlić elementy.
 Aby się zalogować, dotknij tutaj."</string>
-    <string name="mashup_sound">Miks natury</string>
     <string name="mine_tab_title_favorite">Ulubione</string>
     <string name="mine_tab_title_like">Polubienia</string>
     <string name="mine_tab_title_local">Lokalne</string>
@@ -703,6 +734,7 @@ d.MM."</string>
     <string name="multi_sim_mms_ringtone_settings_dialog_message">Dzwonek będzie zastosowany dla obydwu kart SIM.</string>
     <string name="multi_sim_ringtone_settings_dialog_message">Dzwonek będzie zastosowany dla obydwu kart SIM.</string>
     <string name="multiwindow_no_support_icon">"Nie można zmienić ikon podczas korzystania z Dzielonego ekranu"</string>
+    <string name="my_attention_title">Moi obserwowani</string>
     <string name="my_rear_screen_style">Mój tylny wyświetlacz</string>
     <string name="need_to_open_application_permission_desc">Aby móc dowiedzieć się, jakie aplikacje są kompatybilne z przezroczystymi tapetami, najpierw zezwól aplikacji Motywy na dostęp do listy zainstalowanych aplikacji.</string>
     <string name="need_to_open_permission">Wymagane uprawnienia</string>
@@ -837,7 +869,7 @@ Za każdym razem, gdy będziesz używać elementów przechowywanych na tym urzą
     <string name="privacy_phone_logoff_service_content">Rezygnacja z usług Motywów</string>
     <string name="privacy_phone_logoff_theme_content_3">%d. Wszystkie motywy, tapety, dynamiczne tapety, czcionki, ikony i dzwonki pobrane na to urządzenie.</string>
     <string name="privacy_phone_logoff_theme_content_4">%d. Wszystkie rekordy historii wyszukiwania, preferencje dot. uprawnień, ustawienia i elementy z pamięci podręcznej wygenerowane na tym urządzeniu.</string>
-    <string name="privacy_phone_logoff_theme_service_detail_content_1" formatted="false">"%d. Zanim przejdziesz dalej, upewnij się, że masz prawo do rezygnacji z usług.
+    <string formatted="false" name="privacy_phone_logoff_theme_service_detail_content_1">"%d. Zanim przejdziesz dalej, upewnij się, że masz prawo do rezygnacji z usług.
 %2$d. Zrezygnowanie z usług Motywów nie wpłynie na korzystanie z innych produktów Xiaomi.
 %3$d. Rezygnacja z usług jest nieodwracalna. Zanim przejdziesz dalej, wykonaj kopię ważnych danych, ponieważ mogą one zostać permanentnie usunięte. Pamiętaj, że po rezygnacji z usług nie będzie można cofnąć tej decyzji. Po rezygnacji z usług następujące dane zostaną permanentnie usunięte bądź zanonimizowane (z wyjątkiem sytuacji, w których przepisy ustawowe i wykonawcze lub organy regulacyjne wymagają inaczej):"</string>
     <string name="privacy_phone_logoff_theme_service_detail_content_2">"Wszystkie zamówienia (włącznie z płatnymi) utworzone z urządzeń Xiaomi. Nie będzie można już używać zakupionych elementów.
@@ -855,7 +887,7 @@ Wszystkie elementy personalizacji używane obecnie na tym urządzeniu. Przywróc
     <string name="privacy_phone_read_theme_privacy_policy"><Data>"Potwierdzam, że przeczytano i zaakceptowano warunki \"&lt;font color=\"#8E92B0\">&lt;/color>&lt;a href=\"%1$s\">Stanowiska dot. wycofania zgody na warunki Polityki prywatności Motywów&lt;/a>&lt;/font>\"."</Data></string>
     <string name="privacy_phone_revoke_agree_content_3">%d. Wszystkie motywy, tapety, dynamiczne tapety, czcionki, ikony i dzwonki pobrane na to urządzenie.</string>
     <string name="privacy_phone_revoke_agree_content_4">%d. Wszystkie rekordy historii wyszukiwania, preferencje dot. uprawnień, ustawienia i elementy z pamięci podręcznej wygenerowane na tym urządzeniu.</string>
-    <string name="privacy_phone_revoke_agree_detail_content_1" formatted="false">"%1$d. Zanim przejdziesz dalej, upewnij się, że masz prawo do wycofania zgody.
+    <string formatted="false" name="privacy_phone_revoke_agree_detail_content_1">"%1$d. Zanim przejdziesz dalej, upewnij się, że masz prawo do wycofania zgody.
 %2$d. Wycofanie przez Ciebie zgody na warunki Polityki prywatności Motywów nie wpłynie na korzystanie z innych usług Xiaomi.
 %d. Wycofanie zgody jest nieodwracalne. Zanim przejdziesz dalej, wykonaj kopię ważnych danych, ponieważ mogą one zostać permanentnie usunięte. Pamiętaj, że po wycofaniu zgody nie będzie można cofnąć tej decyzji. Po wycofaniu zgody następujące dane zostaną permanentnie usunięte bądź zanonimizowane (z wyjątkiem sytuacji, w których przepisy ustawowe i wykonawcze lub organy regulacyjne wymagają inaczej):"</string>
     <string name="privacy_phone_revoke_agree_detail_content_2">"Wszystkie zamówienia (włącznie z płatnymi) utworzone na urządzeniach Xiaomi w trakcie korzystania ze swojego konta Xiaomi. Nie będzie można już używać zakupionych przez Ciebie elementów.
@@ -985,6 +1017,7 @@ Dostępne są zupełnie nowe style."</string>
     <string name="resource_delete_font_title">Usuń czcionki</string>
     <string name="resource_delete_icon_title">Usuń ikony</string>
     <string name="resource_delete_ring_title">Usuń dzwonki</string>
+    <string name="resource_delete_title">Usuń %1$d zasobów</string>
     <string name="resource_delete_wallpaper_title">Usuń tapety</string>
     <string name="resource_detail_description_pic_text">%1$d ikon</string>
     <string name="resource_detail_jump_to_online_title">Pobierz</string>
@@ -1143,6 +1176,7 @@ Dostępne są zupełnie nowe style."</string>
     <string name="system_cta_runtime_perm_desc_storage_pad">W celu zapisywania pobranych elementów na urządzeniu</string>
     <string name="system_precust">Systemowe</string>
     <string name="tag_ad">Reklama</string>
+    <string name="talkback_image">Obraz</string>
     <string name="task_already_exist">Zadanie już istnieje</string>
     <string name="the_video_not_supported_setting_call_show_please_reselect">\"Profil wideo dla połączeń przychodzących\" nie wspiera tego formatu wideo. Wybierz inny film.</string>
     <string name="theme_apply_audio_dialog_item_alarm">Alarmy</string>

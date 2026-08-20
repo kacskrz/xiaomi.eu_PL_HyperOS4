@@ -197,6 +197,7 @@
     <string name="password_detail_security_weak_suggest_title">Zmień to hasło</string>
     <string name="password_detail_security_weak_tip_des">To hasło jest łatwe do odgadnięcia. Zmień je jak najszybciej.</string>
     <string name="password_detail_security_weak_tip_title">Hasło jest zbyt słabe</string>
+    <string name="password_detail_toast_copy_failed">Nie udało się skopiować</string>
     <string name="password_detail_toast_delete_failed">Nie udało się usunąć</string>
     <string name="password_detail_toast_encrypted_cannot_null">Najpierw wprowadź hasło</string>
     <string name="password_detail_toast_save_failed">Nie udało się zapisać</string>

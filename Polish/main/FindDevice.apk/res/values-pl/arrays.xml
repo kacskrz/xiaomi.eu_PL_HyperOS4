@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string-array name="privacy_dialog_finddevice_runtime_perm_desc_new">
-        <item>W celu zlokalizowania urządzenia i włączenia Trybu zgubienia</item>
-        <item>W celu zlokalizowania tego urządzenia, gdy nie jest ono połączone z Internetem</item>
-        <item>W celu uzyskania numeru telefonu po to, aby zlokalizować to urządzenie, gdy nie jest ono połączone z Internetem</item>
-        <item>W celu pomocy osobie, która znajdzie urządzenie, w kontakcie z Tobą, gdy włączony jest Tryb zgubienia</item>
-    </string-array>
-</resources>

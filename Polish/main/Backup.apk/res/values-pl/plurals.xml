@@ -8,16 +8,6 @@
         <item quantity="other">%d plików systemowych</item>
         <item quantity="one">%d plik systemowy</item>
     </plurals>
-    <plurals name="data_item_count_pair">
-        <item quantity="other">%1$d/%2$d elementów</item>
-        <item quantity="few">%1$d/%2$d elementy</item>
-        <item quantity="one">%1$d/%2$d element</item>
-    </plurals>
-    <plurals name="local_main_backup_manage_summary">
-        <item quantity="other">%1$s kopii (%2$s)</item>
-        <item quantity="one">%1$s kopia (%2$s)</item>
-        <item quantity="few">%1$s kopie (%2$s)</item>
-    </plurals>
     <plurals name="miuix_appcompat_items_selected">
         <item quantity="other">Wybrano %d elementów</item>
         <item quantity="one">Wybrano %d element</item>
@@ -41,13 +31,5 @@
         <item quantity="one">"%d element, "</item>
         <item quantity="few">"%d elementy, "</item>
         <item quantity="many">"%d elementów, "</item>
-    </plurals>
-    <plurals name="trans_time_format_hours">
-        <item quantity="other">%d godz.</item>
-        <item quantity="one">%d godz.</item>
-    </plurals>
-    <plurals name="trans_time_format_minute">
-        <item quantity="other">%d min</item>
-        <item quantity="one">%d min</item>
     </plurals>
 </resources>

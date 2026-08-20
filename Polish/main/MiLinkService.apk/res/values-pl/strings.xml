@@ -5,15 +5,23 @@
     <string name="appcirculate_toast_high_temperature">Poczekaj, aż urządzenie ostygnie</string>
     <string name="appcirculate_toast_loading">Przełączanie na inne urządzenie…</string>
     <string name="audio_record_des">W celu przesyłania dźwięku z urządzenia do zewnętrznych monitorów</string>
+    <string name="camera_a11y_action_enter">Wejdź w kamerę</string>
+    <string name="camera_a11y_action_fullscreen">Pełny ekran</string>
+    <string name="camera_a11y_action_play_pause">Wstrzymaj lub odtwórz</string>
+    <string name="camera_a11y_action_switch_lens">Zmień obiektyw</string>
+    <string name="camera_category_name">Kamery</string>
+    <string name="camera_count_tip">Wszystkie kamery</string>
     <string name="camera_island_connected_title">Używanie współdzielonego aparatu</string>
     <string name="camera_island_disconnected_title">Rozłączono ze Współdzielonym aparatem</string>
     <string name="camera_new_title">Współdzielony aparat</string>
+    <string name="check_device_list">Wyświetl wspierane urządzenia</string>
     <string name="circulate_camera_glasses_back_to_box_title_err_310">Najpierw rozłącz głośniki telewizora</string>
     <string name="circulate_card_tv_device_sync">Interakcja urządzeń Xiaomi</string>
     <string name="circulate_cta_premission_sound_title">Nagrywanie dźwięku</string>
     <string name="circulate_cta_premission_wlan_subtitle_china">W celu przesyłania elementów i łączenia urządzeń przez Wi-Fi</string>
     <string name="circulate_cta_premission_wlan_title">Włączanie i wyłączanie Wi-Fi</string>
     <string name="circulate_cta_user_agreement">Zanim przejdziesz dalej, przeczytaj i zaakceptuj warunki &lt;txt href=\"%1$s\">Umowy użytkownika&lt;/txt> oraz &lt;txt href=\"%2$s\">Polityki prywatności&lt;/txt> Xiaomi.</string>
+    <string name="circulate_header_mijia">Inteligentne urządzenia</string>
     <string name="circulate_headset_control_audio_effect_off">Wyłącz dźwięk przestrzenny</string>
     <string name="circulate_headset_control_audio_find_earphone_wearing_info_content">Dźwięk będzie odtwarzany z dużą głośnością. Jeśli używasz słuchawek, kontynuacja tego działania może zaszkodzić Twojemu słuchowi. Zanim przejdziesz dalej, zdejmij je.</string>
     <string name="circulate_headset_control_battery_right">P</string>
@@ -31,15 +39,32 @@
     <string name="circulate_network_connect_failed_pad_pc_not_supported">To urządzenie nie jest wspierane. Sprawdź, czy model urządzenia lub wersja systemu spełniają wymagania. Możesz również wyświetlić pomoc.</string>
     <string name="circulate_network_share_launcher_pad_tips">Upewnij się, że włączono tę funkcję w Ustawieniach > Łączność na Twoim tablecie Xiaomi.</string>
     <string name="circulate_network_share_launcher_phone_tips">Upewnij się, że włączono tę funkcję w Ustawieniach > Łączność na Twoim telefonie Xiaomi.</string>
+    <string name="circulate_pad_synergy_subtitle">Połączono</string>
     <string name="circulate_public_device_title_format">%2$s (%1$s)</string>
     <string name="circulate_ringfind_button_hint_stop">Zatrzymaj dźwięk</string>
+    <string name="circulate_synergy_camera_car">Korzystanie z kamery pojazdu</string>
+    <string name="circulate_synergy_camera_pad">Tablet używa aparatu telefonu</string>
+    <string name="circulate_synergy_camera_pc">Komputer używa aparatu telefonu</string>
+    <string name="circulate_synergy_camera_phone">Korzystanie z aparatu telefonu</string>
+    <string name="circulate_synergy_cast_tv">Przesyłanie ekranu</string>
+    <string name="circulate_synergy_cellular_car">Korzystanie z hotspotu pojazdu</string>
+    <string name="circulate_synergy_cellular_phone">Korzystanie z danych mobilnych telefonu</string>
+    <string name="circulate_synergy_desktop">Używanie Ekranu głównego+</string>
+    <string name="circulate_synergy_km_pc">Udostępnianie klawiatury i myszy komputerowi</string>
+    <string name="circulate_synergy_music_playing">Odtwarzanie</string>
+    <string name="circulate_synergy_telephone">Odbieranie połączenia</string>
     <string name="connect_settings_base">Interakcja urządzeń Xiaomi</string>
     <string name="connect_settings_category_connected_devices">Zarządzaj połączonymi urządzeniami</string>
     <string name="connect_settings_connect_permission">Interakcja urządzeń Xiaomi i uprawnienia</string>
     <string name="connect_settings_connection_service">Interakcja urządzeń Xiaomi</string>
+    <string name="connect_settings_corp_phone_close_toast">Nie udało się wyłączyć. Spróbuj ponownie, gdy rozmowa się zakończy.</string>
+    <string name="connect_settings_corp_phone_device_category">Dostępne urządzenia</string>
+    <string name="connect_settings_corp_phone_not_found_summary">Upewnij się, że tablet lub komputer są w pobliżu, znajdują się w tej samej sieci i są zalogowane na to samo konto Xiaomi. Dotknij \"Odśwież\", aby spróbować ponownie.</string>
+    <string name="connect_settings_corp_phone_searching_summary">Upewnij się, że tablet lub komputer są w pobliżu, znajdują się w tej samej sieci i są zalogowane na to samo konto Xiaomi</string>
     <string name="connect_settings_general_category_share_camera">Zezwól na korzystanie z funkcji „Współdzielony aparat” na tych urządzeniach</string>
     <string name="connect_settings_general_summary_corp_phone_pad">Odbieraj połączenia z pobliskich telefonów na tabletach zalogowanych na Twoje konto Xiaomi</string>
     <string name="connect_settings_general_summary_corp_phone_phone">Odbieraj połączenia na pbliskich tabletach lub komputerach zalogowanych na Twoje konto Xiaomi</string>
+    <string name="connect_settings_general_summary_corp_phone_phone_v2">Odbierz połączenia przychodzące na to urządzenie na tablecie lub komputerze zalogowanym na to samo konto Xiaomi</string>
     <string name="connect_settings_general_summary_relay_app">"Używaj tej samej aplikacji na urządzeniach zalogowanych na Twoje konto Xiaomi.
 Działa na telefonach, tabletach i komputerach."</string>
     <string name="connect_settings_general_summary_share_camera">Użyj aparatu Twojego telefonu, aby dostosować kąt nagrywania podczas wideorozmów lub streamowania na pobliskich tabletach i komputerach zalogowanych na Twoje konto Xiaomi</string>
@@ -50,10 +75,22 @@ Działa na telefonach, tabletach i komputerach."</string>
     <string name="connect_settings_general_summary_share_notification_phone">"Pokazuj ważne powiadomienia z telefonu na pobliskich telewizorach, tabletach i komputerach zalogowanych na Twoje konto Xiaomi.
 Działa z aplikacjami do dostarczania jedzenia i przewozu osób na telewizorach, a także alertami o słabej baterii na tabletach i komputerach."</string>
     <string name="connect_settings_general_summary_share_notification_phone_global">Pokaż powiadomienia o słabej baterii telefonu na pobliskim tablecie zalogowanym na to samo konto</string>
+    <string name="connect_settings_mi_share_tap_share">Dotknij, aby udostępnić</string>
+    <string name="connect_settings_not_found_device_title">Nie znaleziono dostępnych urządzeń</string>
     <string name="connect_settings_privacy_policy">Polityka prywatności</string>
+    <string name="connect_settings_searching_device_title">Odnajdywanie Twoich urządzeń</string>
     <string name="connect_settings_share_camera">Współdzielony aparat</string>
     <string name="connect_settings_share_launcher_sub_feature_macbook_summary_unlock">Użyj swojego odcisku palca lub hasła na swoim Macu, aby odblokować swój telefon i aplikacje</string>
+    <string name="connect_settings_share_launcher_sub_feature_micar_summary_unlock_v2">Użyj kamery pojazdu Xiaomi, aby rozpoznać Twoją twarz i odblokować telefon Xiaomi</string>
     <string name="connect_settings_share_notification_local_device_title">Odbieraj powiadomienia z %1$s</string>
+    <string name="connect_settings_share_notification_local_low_battery_summary">Pokazuj alerty o niskim poziomie baterii z telefonu Xiaomi na tym urządzeniu</string>
+    <string name="connect_settings_share_notification_local_low_battery_title">Alerty o niskim poziomie baterii</string>
+    <string name="connect_settings_share_notification_other_important">Dodatkowe opcje synchronizacji</string>
+    <string name="connect_settings_share_notification_other_important_summary">Pokazuj alerty o niskim poziomie baterii z telefonu Xiaomi na tabletach i komputerach Xiaomi, a także alerty dot. dostaw jedzenia i przejazdów na telewizorach Xiaomi.</string>
+    <string name="connect_settings_share_notification_other_important_title">Synchronizuj z tabletami, komputerami i telewizorami Xiaomi</string>
+    <string name="connect_settings_share_notification_pad_local">Pokazuj powiadomienia z tego urządzenia na tablecie Xiaomi</string>
+    <string name="connect_settings_share_notification_pad_mi_device_summary">Wyświetlaj powiadomienia aplikacji z telefonu Xiaomi na tym urządzeniu. Wybierz powiadomienia, które mają być synchronizowane, na telefonie w Ustawieniach > Łączność > Powiadomienia między urządzeniami.</string>
+    <string name="connect_settings_share_notification_pad_mi_device_title">Powiadomienia aplikacji</string>
     <string name="connect_settings_share_notification_receive_tab_search_summary_china">Upewnij się, że oba urządzenia są zalogowane na to samo konto i połączone z tą samą siecią, lub że Bluetooth i Wi-Fi są włączone na obu urządzeniach.</string>
     <string name="connect_settings_share_notification_receive_tab_search_summary_global">Upewnij się, że oba urządzenia są zalogowane na to samo konto i połączone z tą samą siecią, lub że Bluetooth i Wi-Fi są włączone na obu urządzeniach.</string>
     <string name="connect_settings_share_notification_receive_tab_searching_title">Wyszukiwanie urządzenia…</string>
@@ -64,15 +101,21 @@ Działa z aplikacjami do dostarczania jedzenia i przewozu osób na telewizorach,
     <string name="connect_settings_share_notification_receive_tab_summary_v2_global">"• Gdy to urządzenie jest połączone z siecią, można na nim wyświetlać powiadomienia z innego zablokowanego telefonu Xiaomi zalogowanego na to samo konto.
 • Gdy urządzenia zalogowane na to samo konto są w pobliżu i mają włączone Bluetooth oraz Wi-Fi, można odpowiadać na powiadomienia z innych urządzeń bezpośrednio na tym urządzeniu."</string>
     <string name="connect_settings_share_notification_receive_tab_unsubscribe_title">\"Synchronizacja powiadomień\" jest wyłączona dla %1$s</string>
+    <string name="connect_settings_share_notification_send_tab_device_category_v3">Dostępne urządzenia</string>
+    <string name="connect_settings_share_notification_send_tab_not_found_device_summary">Upewnij się, że wykonano instrukcje powyżej. Dotknij opcji \"Odśwież\", aby spróbować ponownie.</string>
     <string name="connect_settings_share_notification_send_tab_summary">"Wyświetlaj powiadomienia z tego urządzenia na telefonach, tabletach lub telewizorach zalogowanych na to samo konto.
 *Wspierane funkcje: Telefony mogą wyświetlać połączenia, wiadomości i powiadomienia z aplikacji; telewizory mogą wyświetlać powiadomienia o dostawie i zamówieniach; tablety i komputery mogą wyświetlać powiadomienia o niskim poziomie baterii z Twojego telefonu."</string>
     <string name="connect_settings_share_notification_send_tab_summary_v2">"• Gdy to urządzenie jest zablokowane, jego powiadomienia można wyświetlić na telefonach, tabletach, komputerach lub telewizorach zalogowanych na to samo konto.
 • Na telefonach można zobaczyć powiadomienia dot. połączeń, wiadomości i aplikacji, na telewizorach - o dostawie jedzenia i zamówieniach, na tabletach i komputerach - o niskim poziomie baterii."</string>
+    <string name="connect_settings_share_notification_send_tab_summary_v3">"Powiadomienia z tego urządzenia mogą być synchronizowane i wyświetlane na innych urządzeniach zalogowanych na to samo konto Xiaomi.
+• Synchronizacja z telefonem: Oba urządzenia powinny być zalogowane na to samo konto Xiaomi i połączone z siecią.
+• Synchronizacja z tabletem: Tablet powinien znajdować się w pobliżu, być zalogowany na to samo konto Xiaomi i połączony z tą samą siecią, lub używać Ekranu głównego+."</string>
     <string name="connect_settings_summary_corp_phone">Odbieraj połączenia na tabletach lub komputerach w pobliżu zalogowanych na Twoje konto Xiaomi</string>
     <string name="connect_settings_summary_v2_china"><Data>Automatycznie odnajduj urządzenia w pobliżu zalogowane na Twoje konto Xiaomi i łącz się z nimi, aby wykonywać różne zadania na wielu urządzeniach. &lt;br>Przed użyciem tej funkcji włącz Wi-Fi i Bluetooth. &lt;a href=%1$s>Dowiedz się więcej&lt;/a></Data></string>
     <string name="connect_settings_user_agreement">Umowa użytkownika</string>
     <string name="controller_auth_cancel">Anuluj</string>
     <string name="controller_auth_title">Zweryfikuj pilot</string>
+    <string name="copy_verification_code_tip">Skopiowano kod weryfikacyjny</string>
     <string name="device_permission_dialog_message">Na urządzeniu „%s” przejdź do: Ustawienia > Ochrona prywatności > Łączność między urządzeniami, a następnie nadaj uprawnienia dostępu do aparatu, aby zyskać możliwość korzystania z tej funkcji.</string>
     <string name="device_permission_dialog_message_global_old">W Ustawieniach urządzenia %s przejdź do Interakcji urządzeń Xiaomi > Interakcja urządzeń Xiaomi i uprawnienia i nadaj uprawnienia do Aparatu, aby móc korzystać z tej funkcji.</string>
     <string name="dialog_confirm_remote_status">Sprawdź stan %1$s</string>
@@ -81,24 +124,58 @@ Działa z aplikacjami do dostarczania jedzenia i przewozu osób na telewizorach,
     <string name="dialog_message_reply_instruction">Odpisz na %1$s</string>
     <string name="dialog_nfc_cast_wifi_off">Włącz Wi-Fi, aby móc użyć projekcji za pomocą NFC. Zrobić to teraz?</string>
     <string name="dialog_no_device_message_china"><Data>%1$d. Połącz telefon i telewizor z tą samą siecią Wi-Fi.&lt;br>&lt;br>%2$d. W niektórych telewizorach ta funkcja dostępna jest tylko wtedy, gdy włączone jest przesyłanie ekranu. Wyświetl zakładkę &lt;a href=milink://com.milink.service/specification>\"Pomoc\"&lt;/a>, aby dowiedzieć się więcej.</Data></string>
+    <string name="dialog_no_device_message_new"><Data>&lt;xliff:g id=count refersto=1>%1$d&lt;/xliff:g>. Połącz telewizor i telefon z tą samą siecią Wi-Fi.&lt;br>&lt;br>&lt;xliff:g id=count refersto=2>%2$d&lt;/xliff:g>. Aby odnaleźć niektóre telewizory, należy na nich włączyć udostępnianie ekranu. Aby dowiedzieć się więcej, &lt;a href=milink://com.milink.service/specification>wyświetl pomoc&lt;/a>.</Data></string>
     <string name="dialog_open_remote_switch_content">"Nie można zastosować ustawienia. Upewnij się, że Twój %1$s jest zalogowany na to samo konto i połączony z tą samą siecią co to urządzenie."</string>
+    <string name="dialog_open_remote_switch_content_corp_phone">Nie udało się włączyć. Upewnij się, że %1$s jest zalogowany na to samo konto Xiaomi i połączony z tą samą siecią co to urządzenie.</string>
+    <string name="dialog_reset_app_subscribe_content_v2">Nie otrzymasz powiadomień z niektórych aplikacji, ponieważ zostały one poprzednio odinstalowane z Twojego %1$s. Skonfiguruj ponownie synchronizację powiadomień.</string>
     <string name="dialog_scan_message_china">"%1$d. Połącz telefon i telewizor z tą samą siecią Wi-Fi.
 
 %2$d. Wyświetl zakładkę \"Pomoc\", aby dowiedzieć się więcej."</string>
+    <string name="dialog_scan_message_new">"%1$d. Połącz telewizor i telefon z tą samą siecią Wi-Fi.
+
+%2$d. Aby odnaleźć niektóre telewizory, należy na nich włączyć udostępnianie ekranu. Aby dowiedzieć się wiecej, dotknij opcji \"Wyświetl pomoc\"."</string>
     <string name="dialog_scanning_close_dual_wifi_china">Aby móc dokonywać projekcji, wyłącz funkcję \"Zwiększenie prędkości sieci (dwupasmowe Wi-Fi)\". Zrobić to teraz?</string>
+    <string name="dialog_scanning_precondition_new_1">Przesyłanie ekranu wymaga Wi-Fi i usług lokalizacji. Włączyć je?</string>
     <string name="disconnect_access">Rozłącz</string>
+    <string name="dist_camera_pad_switch_off_toast_button_text">Rozumiem</string>
+    <string name="dist_camera_pad_switch_off_toast_subtitle">Włącz współdzielony aparat na swoim tablecie w Ustawieniach > Łączność.</string>
+    <string name="dist_camera_pad_switch_off_toast_title">Włącz współdzielony aparat</string>
+    <string name="dist_camera_phone_switch_off_toast_button_text">Rozumiem</string>
+    <string name="dist_camera_phone_switch_off_toast_subtitle">Włącz współdzielony aparat na swoim telefonie w Ustawieniach > Łączność (bądź Interakcja urządzeń Xiaomi).</string>
+    <string name="dist_camera_phone_switch_off_toast_title">Włącz współdzielony aparat</string>
     <string name="dist_file_notification_subtitle">„%s” chce uzyskać dostęp do plików na tym urządzeniu</string>
     <string name="dist_file_notification_title">Uzyskiwanie dostępu do plików z innych urządzeń</string>
+    <string name="dp_in_dialog_cancel">Anuluj</string>
+    <string name="dp_in_dialog_enter">Włącz</string>
+    <string name="dp_in_dialog_message">W tym trybie tablet działa tylko jako wyświetlacz. Jego dźwięki zostaną wyciszone, a grać będzie tylko zewnętrzne urządzenie audio. Powiadomienia systemowe nie będą wyświetlane. Dla optymalnych doświadczeń użyj orientacji poziomej.</string>
+    <string name="dp_in_dialog_title">Włącz Rozszerzenie ekranu Pro</string>
+    <string name="dp_in_exit_dialog_exit">Wyłącz</string>
+    <string name="dp_in_exit_dialog_message">Ekran zostanie rozłączony, a tablet powróci do swojego Ekranu głównego.</string>
+    <string name="dp_in_exit_dialog_title">Wyłączyć Rozszerzenie ekranu Pro?</string>
+    <string name="dp_in_low_battery_confirm">Rozumiem</string>
+    <string name="dp_in_low_battery_message">Masz mniej niż %s baterii. Naładuj ją niebawem.</string>
+    <string name="dp_in_no_signal_exit">Wyłącz Rozszerzenie ekranu Pro</string>
+    <string name="dp_in_no_signal_subtitle">Upewnij się, że urządzenie jest połączone</string>
+    <string name="dp_in_no_signal_title">Nie wykryto sygnału urządzenia</string>
+    <string name="dp_in_notification_subtitle">W tym trybie tablet działa tylko jako wyświetlacz</string>
+    <string name="dp_in_notification_title">Włącz Rozszerzenie ekranu Pro</string>
     <string name="dual_wifi_warning_china">Wyłącz Podwójne Wi-Fi i spróbuj ponownie</string>
     <string name="dual_wifi_warning_global">Wyłącz Podwójne Wi-Fi i spróbuj ponownie</string>
     <string name="enable_remote_notification_to_local_v2">Nie można odebrać powiadomień w tej chwili. Upewnij się, że można synchronizować powiadomienia na %1$s w Ustawieniach > Interakcja urządzeń Xiaomi > Powiadomienia między urządzeniami > Synchronizuj.</string>
+    <string name="err_toast_msg_state_not_support_circulate">Nie można się teraz przełączyć</string>
     <string name="file_read_des">W celu wyświetlania zdjęć i innych plików na zewnętrznych monitorach</string>
+    <string name="fusion_device_nearby">W pobliżu</string>
     <string name="gesture_double_pinch">Uszczypnięto %d razy</string>
     <string name="gesture_drag_end">Gotowe</string>
     <string name="gesture_drag_process">Uszczypnij %d razy, aby zatrzymać</string>
     <string name="gesture_drag_start">Zacznij poruszać</string>
     <string name="gesture_recognition_success">Pomyślnie rozpoznano</string>
     <string name="global_privacy_tip">&lt;Data>Xiaomi musi zbierać niezbędne dane osobowe, aby świadczyć podstawowe usługi i optymalizować proces projekcji. Możesz dowiedzieć się, jak firma przetwarza informacje, które zbiera z &lt;a href=%1$s>Polityki prywatności&lt;/a>. W każdej chwili możesz wycofać zgodę na jej warunki w Ustawieniach.&lt;/Data></string>
+    <string name="guide_mask_btn">Rozpocznij</string>
+    <string name="guide_mask_desc">Przytrzymaj kartę, a następnie ją przypnij, aby znajdowała się ona na górze Centrum funkcji i Xiaomi Smart Hub.</string>
+    <string name="guide_mask_title">Zupełnie nowy Xiaomi Smart Hub</string>
+    <string name="headset_circulate_card_default_title">Połączono słuchawki</string>
+    <string name="headset_circulate_card_glasses_title">Połączono okulary</string>
     <string name="help_page_text_06">"%1$d. Telewizory Mi TV, dekodery i projektory Mi:
 Aby osiągnąć najlepsze rezultaty, połącz telefon i zewnętrzny monitor z tą samą siecią Wi-Fi. Jeśli urządzenia są połączone z różnymi sieciami, do odnalezienia i połączenia się z zewnętrznym monitorem może być potrzebne więcej czasu.
 Uwaga: Starsze telewizory mogą nie wspierać przesyłania ekranu pomiędzy różnymi sieciami.
@@ -106,12 +183,22 @@ Uwaga: Starsze telewizory mogą nie wspierać przesyłania ekranu pomiędzy ró�
 Jeśli urządzenia nie mogą być połączone z tą samą siecią Wi-Fi, włącz funkcję Miracast na zewnętrznym monitorze (nazwa funkcji może się różnić w zależności od modelu)."</string>
     <string name="help_page_text_09">"Dotknij przełącznika \"Wyświetl bezprzewodowo\" w Panelu powiadomień. Włącz Wi-Fi i Bluetooth, aby zapewnić stabilniejsze połączenie."</string>
     <string name="help_page_text_09_new_1">Włącz projekcję w Centrum funkcji na swoim urządzeniu, a następnie wyszukaj monitor zewnętrzny.</string>
+    <string name="help_page_text_13_desc_1_new">"%1$d. Jeśli łączysz się z telewizorem Xiaomi, włącz \"Miracast\" na telewizorze.
+%2$d. Jeśli łączysz się z telewizorem innej marki, upewnij się, że wspiera on \"Miracast\" (w niektórych urządzeniach \"Ekran bezprzewodowy\", \"Screen mirroring\" lub \"Interakcja wielu ekranów\") i ta funkcja jest włączona."</string>
     <string name="help_page_text_13_summary_1">Masz problem z połączeniem?</string>
     <string name="help_page_text_14">"%1$d. Jeśli chcesz użyć urządzenia Xiaomi, ale nie możesz go odnaleźć na liście dostępnych urządzeń, sprawdź następujące rozwiązania:
 Połącz swoje urządzenie i zewnętrzny monitor (np. telewizor) z tą samą siecią Wi-Fi bądź połącz zewnętrzny monitor z hotspotem z Twojego urządzenia. Jeśli nie ma dostępnych żadnych sieci Wi-Fi w pobliżu bądź nie możesz połączyć obydwu urządzeń z tą samą siecią, sprawdź, czy funkcje wyświetlania bezprzewodowego na zewnętrznym monitorze są aktualne, włącz Bluetooth na obydwóch urządzeniach i włącz funkcję Miracast na swoim telewizorze.
 %2$d. Jeśli przesyłasz ekran z urządzenia Xiaomi pierwszy raz, musisz przejść weryfikację.
 %3$d. Jeśli używasz innego urządzenia niż Xiaomi i nie możesz go odnaleźć na liście dostępnych urządzeń, sprawdź następujące rozwiązania:
 Połącz swoje urządzenie i zewnętrzny monitor (np. telewizor) z tą samą siecią Wi-Fi bądź połącz zewnętrzny monitor z hotspotem z Twojego urządzenia. Jeśli to nie pomoże, zainstaluj aplikację HappyCast na swoim telewizorze i postępuj zgodnie z instrukcjami."</string>
+    <string name="hint_deivce">Wyświetl wspierane urządzenia i funkcje</string>
+    <string name="hint_text">Możesz zarządzać swoimi urządzeniami Human × Car × Home z poziomu Xiaomi Smart Hub</string>
+    <string name="home_curtain_card_close_button">Zamknij</string>
+    <string name="home_curtain_card_open_button">Otwórz</string>
+    <string name="home_curtain_card_pause_button">Wstrzymaj</string>
+    <string name="homemodule_camera__physical_mask">Zablokowano kamerę</string>
+    <string name="homemodule_curtain_AllDevice_none">Brak zasłon</string>
+    <string name="homemodule_light_AllDevice_none">Brak świateł</string>
     <string name="inter_connect_setting_unavailable_dialog_message">Otwórz Ustawienia > Interakcja urządzeń Xiaomi, aby włączyć funkcję „Aparat na różnych urządzeniach”.</string>
     <string name="is_accessed_by">„%1$s” uzyskuje dostęp do urządzenia</string>
     <string name="jump_market_dialog_btn_cancel">Anuluj</string>
@@ -119,25 +206,56 @@ Połącz swoje urządzenie i zewnętrzny monitor (np. telewizor) z tą samą sie
     <string name="jump_market_dialog_message">"Ta funkcja nie jest obsługiwana przez framework systemowy. Możesz ją zaktualizować w GetApps. Otworzyć GetApps teraz?"</string>
     <string name="jump_market_dialog_title">Uwaga</string>
     <string name="keyguard_security_setting_privacy_policy">Polityka prywatności</string>
+    <string name="login_hint">Zaloguj się na swoje konto Xiaomi</string>
+    <string name="m3_loading_indicator_content_description">Ładowanie</string>
     <string name="message_connection_interrupted">Upewnij się, że komputer i tablet znajdują się w zasięgu połączenia i mają włączone Wi-Fi oraz Bluetooth. Aby kontynuować, rozpocznij ponownie zadanie na komputerze.</string>
+    <string name="mihome_camera_device_during_call_normal">Kamera jest w użyciu. Odczekaj minutę lub dwie i spróbuj ponownie.</string>
+    <string name="mijia_device">Inteligentne urządzenia</string>
     <string name="miplay_device_full_name">%2$s (%1$s)</string>
     <string name="mirror_phone_content_remote">Możesz włączyć Ekran główny+ w Ustawieniach > Interakcja urządzeń Xiaomi.</string>
     <string name="mirror_phone_content_remote_V1">Włącz Ekran główny+ w Ustawieniach > Interakcja urządzeń Xiaomi > Ekran główny+ na Twoim %1$s.</string>
+    <string name="mj_home_device_empty">Brak urządzeń</string>
+    <string name="mj_module_card_name_curtain">Zasłony</string>
+    <string name="mj_module_card_name_env">Środowisko</string>
+    <string name="mj_module_card_name_light">Światła</string>
+    <string name="mj_room_curtain_device_none">Wszystkie zasłony są zasłonięte</string>
+    <string name="mj_room_light_device_none">Wszystkie światła są wyłączone</string>
+    <string name="mj_talkback_device_main_need_psd">Wymagane hasło</string>
+    <string name="nearby_device">Dostępne urządzenia</string>
     <string name="nearby_device_file_access">Otrzymuj powiadomienia, gdy pobliskie urządzenia uzyskują dostęp do plików znajdujących się na tym urządzeniu</string>
+    <string name="no_device">Nic tu nie ma</string>
+    <string name="no_device_enable_hint">Automatycznie odnajduj urządzenia w pobliżu i łącz się z nimi, aby wykonywać różne zadania na wielu urządzeniach.</string>
+    <string name="no_device_hint">Automatycznie odnajduj urządzenia w pobliżu zalogowane na Twoje konto Xiaomi i łącz się z nimi, aby wykonywać różne zadania na wielu urządzeniach.</string>
+    <string name="no_device_title">Zaloguj się na swoje konto Xiaomi</string>
+    <string name="noti_device_off">Wył.</string>
+    <string name="noti_device_on">Wł.</string>
     <string name="notification_channel_subtitle_ref_call_1">Połączenie z %1$s</string>
-    <string name="notification_channel_subtitle_ref_call_2">Połączenie na %1$s</string>
-    <string name="notification_channel_subtitle_ref_dingtalk_2">Powiadomienie z DingTalk na %1$s</string>
-    <string name="notification_channel_subtitle_ref_lary_2">Powiadomienie z Lark na %1$s</string>
+    <string name="notification_channel_subtitle_ref_call_2">Przychodzące połączenie na %1$s</string>
+    <string name="notification_channel_subtitle_ref_dingtalk_2">Powiadomienie DingTalk na %1$s</string>
+    <string name="notification_channel_subtitle_ref_lary_2">Powiadomienie Lark na %1$s</string>
     <string name="notification_channel_subtitle_ref_mqq_1">Wiadomość QQ z %1$s</string>
-    <string name="notification_channel_subtitle_ref_mqq_2">Powiadomienie z QQ na %1$s</string>
+    <string name="notification_channel_subtitle_ref_mqq_2">Powiadomienie QQ na %1$s</string>
     <string name="notification_channel_subtitle_ref_sms_1">Wiadomość z %1$s</string>
     <string name="notification_channel_subtitle_ref_sms_2">SMS na %1$s</string>
-    <string name="notification_channel_subtitle_ref_wework_2">Powiadomienie z WeCom na %1$s</string>
+    <string name="notification_channel_subtitle_ref_wework_2">Powiadomienie WeCom na %1$s</string>
     <string name="notification_channel_subtitle_ref_xin_1">Wiadomość WeChat z %1$s</string>
-    <string name="notification_channel_subtitle_ref_xin_2">Powiadomienie z WeChata na %1$s</string>
+    <string name="notification_channel_subtitle_ref_xin_2">Powiadomienie WeChat na %1$s</string>
+    <string name="notification_copy">Kopiuj</string>
     <string name="notification_incoming_call_to_reply">Połączenie. Odbierz na %1$s.</string>
+    <string name="notification_permission_accept">Zezwól</string>
+    <string name="notification_permission_client_content">Przyznaj temu urządzeniu uprawnienia do powiadomień na swoim %1$s.</string>
+    <string name="notification_permission_client_title">Przyznaj uprawnienia na %1$s</string>
+    <string name="notification_permission_content_v2">Zezwolić na wyświetlanie połączeń, SMS-ów i powiadomień z aplikacji z tego urządzenia na %1$s?</string>
+    <string name="notification_permission_deny">Nie zezwalaj</string>
+    <string name="notification_permission_request_content">Odblokuj telefon, aby potwierdzić</string>
+    <string name="notification_permission_request_title">%1$s żąda pozwolenia na korzystanie z powiadomień</string>
+    <string name="notification_permission_title">Przyznaj uprawnienia dot. powiadomień dla %1$s</string>
+    <string name="notification_send_page_pad_disabled">Zezwól na powiadomienia z aplikacji na swoim %1$s w Ustawieniach > Łączność > Powiadomienia między urządzeniami</string>
+    <string name="notification_send_page_pad_offline">Upewnij się, że %1$s jest zalogowany na to samo konto Xiaomi i połączony z tą samą siecią co to urządzenie, i zezwól na powiadomienia z aplikacji w Ustawieniach > Łączność > Powiadomienia między urządzeniami.</string>
+    <string name="notification_send_page_title">Synchronizuj powiadomienia z tego urządzenia na %1$s</string>
     <string name="onehop_mirror_guide_message_text_1">Udostępnij ekran telefonu na komputerze jednym dotknięciem.</string>
     <string name="onehop_mirror_guide_message_text_2">Wybierz zdjęcia, filmy i inne pliki z Galerii lub Plików, aby przesłać je na komputer.</string>
+    <string name="operation_open_close">Wł./Wył.</string>
     <string name="p2p_location_des">W celu połączenia Twojego urządzenia z zewnętrznymi monitorami</string>
     <string name="passport_auth_fail_warning">Sesja wygasła. Zaloguj się ponownie.</string>
     <string name="passport_error_dup_binded_email">Ten adres e-mail jest już powiązany z innym kontem Xiaomi.</string>
@@ -158,6 +276,8 @@ Połącz swoje urządzenie i zewnętrzny monitor (np. telewizor) z tą samą sie
     <string name="path_setting_cast_demo_game">Więcej ustawień sieci/Projekcja/Demonstracje/Gry</string>
     <string name="path_setting_cast_feature">Więcej ustawień sieci/Projekcja/Specjalne funkcje</string>
     <string name="path_setting_cast_help">Więcej ustawień sieci/Projekcja/Pomoc</string>
+    <string name="pin_device_header">Przypięte urządzenia</string>
+    <string name="pin_hint">Przypnij</string>
     <string name="privacy_permission_wlan_china">Włączanie i wyłączanie Wi-Fi</string>
     <string name="privacy_phone_read_theme_privacy_policy"><Data>Przeczytałem i zaakceptowałem \"&lt;font color=\"#8C93B0\">&lt;/color>&lt;a href=\"%1$s\">Oświadczenie o wycofaniu zgody na Politykę prywatności Łączności Xiaomi&lt;/a>&lt;/font>\".</Data></string>
     <string name="privacy_revoke_agree_detail_prompt">Oświadczenie o wycofaniu zgody na Politykę prywatności Łączności Xiaomi</string>
@@ -183,10 +303,36 @@ Przeczytaj i zaakceptuj &lt;a href=%1$s>Umowy użytkownika&lt;/a> i &lt;a href=%
     <string name="screen_projection_example_document_hint_new"><Data>*Aby użyć tej funkcji, przejdź do Plików > Dokumenty i dotknij ikony &lt;img src=../drawable/ic_cast_icon_photo.png/>.</Data></string>
     <string name="screen_projection_example_document_summary">Wyświetlaj prezentacje na zewnętrznym monitorze - możesz przełączać się pomiędzy slajdami i wyświetlać notatki za pomocą telefonu. Aby wypróbować tę funkcję, przejdź do aplikacji Pliki > Dokumenty.</string>
     <string name="screen_projection_example_gallery_hint_new"><Data>*Aby użyć tej funkcji, przejdź do Galerii, wybierz zdjęcie, dotknij opcji \"Wyślij\" na dolnym pasku, a następnie ikony &lt;img src=../drawable/ic_cast_icon_photo.png/>.</Data></string>
+    <string name="start_btn">Włącz</string>
     <string name="switch_cast_mode">Dotknij, aby zmienić tryb projekcji</string>
     <string name="synergy_text">Interakcja urządzeń Xiaomi</string>
+    <string name="to_login">Zaloguj się</string>
+    <string name="toast_local_not_install">Ta aplikacja nie jest zainstalowana.</string>
+    <string name="toast_notification_device_not_found">Upewnij się, że %1$s jest zalogowany na to samo konto Xiaomi co to urządzenie</string>
     <string name="toast_remote_not_install">"Ta aplikacja nie jest zainstalowana na Twoim %1$s."</string>
     <string name="tv_remote_auth_cancel">Anuluj</string>
     <string name="tv_remote_auth_title">Wprowadź kod weryfikacyjny telewizora</string>
+    <string name="unpin_hint">Odepnij</string>
+    <string name="verification_code_flow_title">Kod weryfikacyjny %1$s</string>
+    <string name="verification_code_list_title">Kod</string>
     <string name="wifi_disabled_dialog_message">Włącz Wi-Fi na urządzeniu, aby korzystać z funkcji Współdzielonego aparatu.</string>
+    <string name="wifi_disabled_dialog_message_gl">Włącz Wi-Fi, aby użyć współdzielonego aparatu.</string>
+    <string name="window_card_pin_device_offline_group_cancel">Anulowano odtwarzanie w całym domu</string>
+    <string name="window_card_pin_device_offline_no_connection">Rozłączono urządzenie</string>
+    <string name="window_card_pin_device_offline_subtitle_bluetooth_car">Upewnij się, że Twój pojazd jest połączony z tym urządzeniem przez Bluetooth i jest w użyciu</string>
+    <string name="window_card_pin_device_offline_subtitle_bluetooth_device">Upewnij się, że Twoje urządzenie Bluetooth jest połączone z tym urządzeniem i jest w użyciu</string>
+    <string name="window_card_pin_device_offline_subtitle_bluetooth_glasses">Upewnij się, że Twoje okulary są połączone z tym urządzeniem przez Bluetooth i są w użyciu</string>
+    <string name="window_card_pin_device_offline_subtitle_bluetooth_headset">Upewnij się, że Twoje słuchawki są połączone z tym urządzeniem przez Bluetooth i są w użyciu</string>
+    <string name="window_card_pin_device_offline_subtitle_bluetooth_sound">Upewnij się, że Twój głośnik jest połączony z tym urządzeniem przez Bluetooth i jest w użyciu</string>
+    <string name="window_card_pin_device_offline_subtitle_car">"1. Upewnij się, że to urządzenie jest połączone z hotspotem pojazdu.
+2. Możesz również zalogować się na obu urządzeniach na to samo konto Xiaomi. Możesz połączyć oba urządzenia w Ustawieniach > Łączność > Łączność w Twoim pojeździe."</string>
+    <string name="window_card_pin_device_offline_subtitle_group">Upewnij się, że w Xiaomi Smart Play wybrano kilka urządzeń</string>
+    <string name="window_card_pin_device_offline_subtitle_pad">Upewnij się, że oba urządzenia są obok siebie i mają włączone Bluetooth</string>
+    <string name="window_card_pin_device_offline_subtitle_pad_car">Upewnij się, że to urządzenie jest połączone z hotspotem pojazdu</string>
+    <string name="window_card_pin_device_offline_subtitle_pc">Upewnij się, że oba urządzenia są obok siebie i mają włączone Bluetooth</string>
+    <string name="window_card_pin_device_offline_subtitle_phone">Upewnij się, że oba urządzenia znajdują się obok siebie, są zalogowane na to samo konto Xiaomi i mają włączone Bluetooth</string>
+    <string name="window_card_pin_device_offline_subtitle_sound">Upewnij się, że oba urządzenia są połączone z tą samą siecią LAN</string>
+    <string name="window_card_pin_device_offline_subtitle_third_tv">Upewnij się, że to urządzenie przesyła ekran na telewizor</string>
+    <string name="window_card_pin_device_offline_subtitle_tv">Upewnij się, że oba urządzenia są połączone z tą samą siecią LAN</string>
+    <string name="window_card_pin_device_offline_subtitle_watch">Upewnij się, że zegarek lub opaska jest połączony w Mi Fitness</string>
 </resources>

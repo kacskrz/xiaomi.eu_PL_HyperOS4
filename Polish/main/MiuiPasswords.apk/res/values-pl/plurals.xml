@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="error_data_in_transfer">
+        <item quantity="other">Transfer danych zakończy się za %d godzin</item>
+        <item quantity="few">Transfer danych zakończy się za %d godziny</item>
+        <item quantity="one">Transfer danych zakończy się za %d godzinę</item>
+    </plurals>
     <plurals name="miuix_indexer_selected">
         <item quantity="other">Wybrano %1$d elementów</item>
         <item quantity="one">Wybrano %1$d element</item>

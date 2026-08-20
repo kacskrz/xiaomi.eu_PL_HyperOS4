@@ -1,5 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="Ndays_after_at_annver">
+        <item quantity="other">%1$d dni po</item>
+        <item quantity="one">%1$d dzień po</item>
+    </plurals>
+    <plurals name="Ndays_ago_at_annver">
+        <item quantity="other">%1$d dni przed</item>
+        <item quantity="one">%1$d dzień przed</item>
+    </plurals>
+    <plurals name="age">
+        <item quantity="other">lat</item>
+        <item quantity="few">lata</item>
+        <item quantity="one">rok</item>
+    </plurals>
     <plurals name="birthday_event_description_days_ago">
         <item quantity="other">%1$d dni od</item>
         <item quantity="one">%1$d dzień od</item>

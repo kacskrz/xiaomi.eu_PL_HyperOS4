@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="ai_privacy_revoke_dialog_message">Kontynuacja oznacza cofnięcie zgody na warunki Polityki prywatności aplikacji Notatki. Xiaomi przestanie zbierać Twoje dane osobowe. Dane osobowe już zebrane i zachowane zostaną usunięte w określonym terminie zgodnie z obowiązującymi przepisami prawa i regulacjami, chyba że wymagane jest inaczej. Ponieważ aplikacja Notatki świadczy usługi w oparciu o gromadzenie niezbędnych danych osobowych, wycofanie przez Ciebie zgody zostanie uznane za odmowę przyjęcia usług Notatek. Wycofanie zgody nie powoduje usunięcia notatek zapisanych na Twoim urządzeniu. Wycofać zgodę?</string>
     <string name="ai_summary">Podsumowanie SI</string>
     <string name="ai_writing_content_text">"Pisanie SI pomaga w porządkowaniu i polepszaniu Twoich tekstów. Możesz korzystać z tej funkcji w następujący sposób:
 %1$d. Streszczaj tekst, aby szybko wyodrębnić kluczowe informacje z długich artykułów.

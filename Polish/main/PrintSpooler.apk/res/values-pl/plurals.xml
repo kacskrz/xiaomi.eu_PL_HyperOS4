@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="delete_selected_printers_content">
+        <item quantity="other">Usunąć %1$d zaznaczonych elementów?</item>
+        <item quantity="few">Usunąć %1$d zaznaczone elementy?</item>
+        <item quantity="one">Usunąć %1$d zaznaczony element?</item>
+    </plurals>
+    <plurals name="page_details_total_pages_format">
+        <item quantity="other">(Razem %1$d stron)</item>
+        <item quantity="few">(Razem %1$d strony)</item>
+        <item quantity="one">(Razem %1$d strona)</item>
+    </plurals>
+    <plurals name="page_range_format">
+        <item quantity="other">%1$d–%2$d (Razem %3$d stron)</item>
+        <item quantity="few">%1$d–%2$d (Razem %3$d strony)</item>
+        <item quantity="one">%1$d–%2$d (Razem %3$d strona)</item>
+    </plurals>
+    <plurals name="pint_job_number_text">
+        <item quantity="other">Razem %1$d plików</item>
+        <item quantity="few">Razem %1$d pliki</item>
+        <item quantity="one">Razem %1$d plik</item>
+    </plurals>
+    <plurals name="selected_count_title">
+        <item quantity="other">Wybrano %1$d elementów</item>
+        <item quantity="few">Wybrano %1$d elementy</item>
+        <item quantity="one">Wybrano %1$d element</item>
+    </plurals>
+</resources>

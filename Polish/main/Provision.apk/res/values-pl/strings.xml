@@ -119,8 +119,12 @@
     <string name="miui_privacy_policy_no_network">Brak połączenia z siecią. Przeczytaj Politykę prywatności na %s.</string>
     <string name="miui_terms_no_network">Brak połączenia z siecią. Przeczytaj Warunki Użytkowania na %s.</string>
     <string name="msim_setting_default_data">Karta SIM do danych</string>
+    <string name="navigation_guide_back_title">Przejdź wstecz</string>
+    <string name="navigation_guide_home_title">Przejdź do Ekranu głównego</string>
+    <string name="navigation_guide_recent_title">Otwórz Ostatnie aplikacje</string>
     <string name="navigation_picker_gesture_guide">Gesty</string>
     <string name="navigation_picker_radio_text_full_screen">Gesty</string>
+    <string name="navigation_type_full_screen">Gesty</string>
     <string name="other_settings">Inne ustawienia</string>
     <string name="other_settings_ad_dialog_content">"W Xiaomi.eu ta opcja nie ma znaczenia, więc... jak chcesz."</string>
     <string name="other_settings_ad_dialog_content_for_global">"Personalizowane reklamy (jak i reklamy w ogóle) nie są wyświetlane w tym ROM-ie. Funkcja nie ma zastosowania."</string>

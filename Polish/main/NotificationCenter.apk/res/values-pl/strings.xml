@@ -10,6 +10,7 @@
     <string name="aon_title">Informacja</string>
     <string name="channel_keyguard_hide_content">Wyświetlaj powiadomienia, ukryj treść</string>
     <string name="channel_keyguard_show_content">Wyświetlaj powiadomienia i ich treść</string>
+    <string name="default_keyguard_notif_state_stack">Stos</string>
     <string name="dialog_privacy_text_with_link"><Data>Zanim użyjesz tej funkcji, przeczytaj i zaakceptuj warunki &lt;a href=https://terms.miui.com/doc/AiListSummary.html?lang=en_US>Polityki prywatności Podsumowania SI&lt;/a></Data> <Data> i &lt;a href=https://privacy.mi.com/AISummary/zh_CN/>Polityki prywatności Podsumowania SI&lt;/a>.</Data></string>
     <string name="disable_float_notification">Pływające powiadomienia są wyłączone</string>
     <string name="disable_show_badge_notification">Licznik na ikonie jest wyłączony</string>
@@ -19,6 +20,8 @@
     <string name="float_notification_snooze_strategy">Tymczasowo ukryj</string>
     <string name="float_notification_snooze_summary_1_min">Przesuń pływające powiadomienie w górę, aby ukryć kolejne powiadomienia na %d min</string>
     <string name="float_notification_snooze_summary_until_unlock">Przesuń pływające powiadomienie w górę, aby ukryć kolejne powiadomienia, dopóki urządzenie nie zostanie zablokowane</string>
+    <string name="fmt_date_long_year_month_day">d MMMM yyyy</string>
+    <string name="fmt_date_short_year_month_day">d MMM yyyy</string>
     <string name="hint_search_in_disabled_apps">Wyszukaj aplikacje z wył. powiadomieniami</string>
     <string name="hint_search_in_enabled_apps">Wyszukaj aplikacje z wł. powiadomieniami</string>
     <string name="lock_screen_display_rules">Styl</string>

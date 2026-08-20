@@ -4,6 +4,24 @@
         <item quantity="other">"Od %s tygodni nie wykonywano kopii zapasowej elementów. Zrób to, aby uniknąć utraty ważnych rzeczy."</item>
         <item quantity="one">"Od %s tygodnia nie wykonywano kopii zapasowej elementów. Zrób to, aby uniknąć utraty ważnych rzeczy."</item>
     </plurals>
+    <plurals name="backup_frequence_days">
+        <item quantity="other">Co %d dni</item>
+        <item quantity="one">Codziennie</item>
+    </plurals>
+    <plurals name="backup_options_summary_format">
+        <item quantity="other">%1$d/%2$d elementów</item>
+        <item quantity="few">%1$d/%2$d elementy</item>
+        <item quantity="one">%1$d/%2$d element</item>
+    </plurals>
+    <plurals name="backup_unselected_items_dialog_message">
+        <item quantity="other">Kopia zapasowa %2$d elementów (w tym %1$s) jest wyłączona. Aby wykonać ich kopię, wybierz je w \"Elementach kopii\".</item>
+        <item quantity="one">Kopia zapasowa %2$d elementu (%1$s) jest wyłączona. Aby wykonać jego kopię, wybierz go w \"Elementach kopii\".</item>
+    </plurals>
+    <plurals name="backup_unselected_items_dialog_title">
+        <item quantity="other">%d aplikacji bez kopii</item>
+        <item quantity="few">%d aplikacje bez kopii</item>
+        <item quantity="one">%d aplikacja bez kopii</item>
+    </plurals>
     <plurals name="cloud_backup_detail_manage_summary">
         <item quantity="other">%1$s kopii (%2$s)</item>
         <item quantity="one">%1$s kopia (%2$s)</item>
@@ -20,5 +38,23 @@
         <item quantity="other">Wybrano %d elementów</item>
         <item quantity="one">Wybrano %d element</item>
         <item quantity="few">Wybrano %d elementy</item>
+    </plurals>
+    <plurals name="restore_notification_partial_result_1">
+        <item quantity="other">Przywrócono %d elementów</item>
+        <item quantity="few">Przywrócono %d elementy</item>
+        <item quantity="one">Przywrócono %d element</item>
+    </plurals>
+    <plurals name="restore_notification_partial_result_2">
+        <item quantity="other">Nie udało się przywrócić %d elementów</item>
+        <item quantity="one">Nie udało się przywrócić %d elementu</item>
+    </plurals>
+    <plurals name="restore_progress_partial_hint_1">
+        <item quantity="other">Przywrócono %d elementów</item>
+        <item quantity="few">Przywrócono %d elementy</item>
+        <item quantity="one">Przywrócono %d element</item>
+    </plurals>
+    <plurals name="restore_progress_partial_hint_2">
+        <item quantity="other">Nie udało się przywrócić %d elementów</item>
+        <item quantity="one">Nie udało się przywrócić %d elementu</item>
     </plurals>
 </resources>

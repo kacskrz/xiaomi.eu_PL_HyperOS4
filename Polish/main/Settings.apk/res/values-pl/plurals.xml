@@ -23,6 +23,14 @@
         <item quantity="few">Otrzymuj przypomnienie, jeśli Twoje słuchawki zostaną upuszczone, nie nosisz ich lub są poza etui przez ponad %d minuty</item>
         <item quantity="one">Otrzymuj przypomnienie, jeśli Twoje słuchawki zostaną upuszczone, nie nosisz ich lub są poza etui przez ponad %d minutę</item>
     </plurals>
+    <plurals name="rp_time_hours">
+        <item quantity="other">%d godz.</item>
+        <item quantity="one">%d godz.</item>
+    </plurals>
+    <plurals name="rp_time_minutes">
+        <item quantity="other">%d min</item>
+        <item quantity="one">%d min</item>
+    </plurals>
     <plurals name="show_pho_countdown">
         <item quantity="other">Od dostępu do informacji dzieli Cię już tylko kroków: %1$d.</item>
         <item quantity="one">Od dostępu do informacji dzieli Cię już tylko %1$d krok.</item>

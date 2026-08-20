@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="add_game_notification_title">
+        <item quantity="other">Dodano %d gier</item>
+        <item quantity="few">Dodano %d gry</item>
+        <item quantity="one">Dodano %d grę</item>
+    </plurals>
     <plurals name="app_behavior_desc_duration_usage">
         <item quantity="other">Zezwolono %3$d razy między %1$s a %2$s</item>
         <item quantity="one">Zezwolono %3$d raz między %1$s a %2$s</item>
@@ -20,6 +25,11 @@
         <item quantity="other">Aktualizuj %d aplikacji</item>
         <item quantity="few">Aktualizuj %d aplikacje</item>
         <item quantity="one">Aktualizuj %d aplikację</item>
+    </plurals>
+    <plurals name="background_virus_scan_notification_title">
+        <item quantity="other">Wykryto %d groźnych aplikacji</item>
+        <item quantity="few">Wykryto %d groźne aplikacje</item>
+        <item quantity="one">Wykryto %d groźną aplikację</item>
     </plurals>
     <plurals name="found_apps_title">
         <item quantity="other">Znaleziono %d aplikacji</item>
@@ -72,6 +82,11 @@
         <item quantity="other">Usuń %d obrazów</item>
         <item quantity="one">Usuń %d obraz</item>
         <item quantity="few">Usuń %d obrazy</item>
+    </plurals>
+    <plurals name="intercept_accessibility_virus_notifiction_title">
+        <item quantity="other">Zablokowano %d groźnych aplikacji</item>
+        <item quantity="few">Zablokowano %d groźne aplikacje</item>
+        <item quantity="one">Zablokowano %d groźną aplikację</item>
     </plurals>
     <plurals name="intl_perm_privacy_control_message_count">
         <item quantity="other">Możesz ochronić %d elementów</item>
@@ -156,6 +171,10 @@
     <plurals name="pc_main_power_center_battery_minute">
         <item quantity="other">%s min</item>
         <item quantity="one">%s min</item>
+    </plurals>
+    <plurals name="pc_smart_charge_notify_summary_long_time_charge">
+        <item quantity="other">W ciągu ostatnich %1$d dni sesje ładowania trwały długo. Ładowanie zatrzyma się na %2$s.</item>
+        <item quantity="one">W ciągu ostatniego dnia sesje ładowania trwały długo. Ładowanie zatrzyma się na %2$s.</item>
     </plurals>
     <plurals name="permission_usage_allow_activity_recognization">
         <item quantity="other">%1$s | Aplikacja uzyskiwała dane o Twoich ćwiczeniach %2$d razy</item>
@@ -618,6 +637,11 @@
     <plurals name="summary_result_lock_screen_format">
         <item quantity="other">Zablokuj ekran po %d min</item>
         <item quantity="one">Zablokuj ekran po %d min</item>
+    </plurals>
+    <plurals name="uniauth_reset_lockscreen_sub_title">
+        <item quantity="other">Pozostało %1$d prób</item>
+        <item quantity="few">Pozostały %1$d próby</item>
+        <item quantity="one">Pozostała %1$d próba</item>
     </plurals>
     <plurals name="virus_clear_dialog_content">
         <item quantity="other">Usunąć %d aplikacji?</item>

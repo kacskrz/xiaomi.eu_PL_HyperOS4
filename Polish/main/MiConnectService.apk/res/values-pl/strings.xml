@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="receive_endpoint">Korzystanie z Łączności</string>
+    <string name="receive_endpoint_description">Zezwolić tej aplikacji na korzystanie z Łączności?</string>
+    <string name="receive_nfc_notification">Otrzymywanie zdarzeń NFC</string>
+    <string name="receive_nfc_notification_description">Zezwolić tej aplikacji na otrzymywanie zdarzeń NFC?</string>
+    <string name="static_bind_service_based_on_idm">Używanie konfiguracji Łączności</string>
+    <string name="static_bind_service_based_on_idm_description">Zezwolić tej aplikacji na korzystanie z konfiguracji Łączności?</string>
     <string name="switch_audio_device_bt_a2dp_summary">Odtwórz dźwięk multimediów na połączonym urządzeniu</string>
     <string name="switch_audio_device_switch_hint">Możesz wyłączyć powiadomienia o połączonych urządzeniach w Ustawieniach > Bluetooth > Dodatkowe ustawienia.</string>
 </resources>

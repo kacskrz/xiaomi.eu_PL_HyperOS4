@@ -1,9 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="PrivacyContactDes1">"Kontakty staną się prywatne.
-Wiadomości pojawią się tylko w Drugiej przestrzeni."</string>
     <string name="aon_learn_draw_circle_phone_tip">Aby odebrać połączenie, narysuj okrąg zgodnie z ruchem wskazówek zegara dłonią skierowaną w stronę aparatu</string>
-    <string name="aon_learn_draw_circle_tip">Aby odebrać połączenie przekazywane na tablet, narysuj okrąg zgodnie z ruchem wskazówek zegara dłonią skierowaną w stronę aparatu</string>
     <string name="app_name">Wtyczka funkcji systemu</string>
     <string name="app_switch_key">Ostatnie aplikacje</string>
     <string name="auto_disable_screenbuttons_rotation_summary">Gdy urządzenie jest w poziomej orientacji ekranu, przyciski nawigacyjne zostaną zablokowane</string>
@@ -27,13 +24,14 @@ Wiadomości pojawią się tylko w Drugiej przestrzeni."</string>
     <string name="contact_titile_text">Pokaż prywatne wiadomości w Drugiej przestrzeni</string>
     <string name="dataSafe">Druga przestrzeń to jakby drugi telefon.</string>
     <string name="fingerprint_double_tap">Dwukrotnie dotknij czytnika linii papilarnych</string>
+    <string name="fmt_date_long_year_month_day">d MMMM yyyy</string>
+    <string name="fmt_date_short_year_month_day">d MMM yyyy</string>
     <string name="function_not_support">Nieobsługiwane na tym urządzeniu</string>
     <string name="gms_title">Sklonuj usługi Google</string>
     <string name="home_app">Launcher</string>
     <string name="import_file_suc">Przeniesiono do katalogów</string>
     <string name="key_fsg_dialog_message">"Aktualnie korzystasz z gestów. Funkcje związane z przyciskami ekranowymi są niedostępne. Przełączyć na przyciski?"</string>
     <string name="keyboard_function_summary_first_line">·Przytrzymaj, aby wyświetlić skróty.</string>
-    <string name="knock_guide_dialog_title">Wybierz akcję dla tego gestu. Możesz zmienić ją później w Ustawieniach > Dodatkowe ustawienia > Skróty przycisków.</string>
     <string name="ks_launch_control_center">Centrum funkcji</string>
     <string name="ks_launch_recents_tasks">Otwórz Ostatnie aplikacje</string>
     <string name="launch_control_center">Centrum funkcji</string>

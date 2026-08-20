@@ -15,4 +15,9 @@
         <item quantity="few">Urządzenie jest przegrzane. Tryb wielu okien wyłączy się za %d sekundy.</item>
         <item quantity="one">Urządzenie jest przegrzane. Tryb wielu okien wyłączy się za %d sekundę.</item>
     </plurals>
+    <plurals name="notification_number">
+        <item quantity="other">%d powiadomień</item>
+        <item quantity="few">%d powiadomienia</item>
+        <item quantity="one">%d powiadomienie</item>
+    </plurals>
 </resources>

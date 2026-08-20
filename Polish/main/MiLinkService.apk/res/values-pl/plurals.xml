@@ -4,6 +4,15 @@
         <item quantity="one">Wprowadź kod z %1$s (%2$d s)</item>
         <item quantity="other">Wprowadź kod z %1$s (%2$d s)</item>
     </plurals>
+    <plurals name="homemodule_curtain_open_number">
+        <item quantity="other">%d pokojów z odsłoniętymi zasłonami</item>
+        <item quantity="one">%d pokój z odsłoniętą zasłoną</item>
+        <item quantity="few">%d pokoje z odsłoniętymi zasłonami</item>
+    </plurals>
+    <plurals name="mj_module_card_name_light_desc_pattern">
+        <item quantity="other">Pokoje z włączonym światłem: %d</item>
+        <item quantity="one">Pokoje z włączonym światłem: %d</item>
+    </plurals>
     <plurals name="tv_remote_auth_count_down">
         <item quantity="other">Wprowadź kod %1$s (%2$d s)</item>
         <item quantity="one">Wprowadź kod %1$s (%2$d s)</item>

@@ -45,6 +45,48 @@
     <string name="ai_guard_post_preference_title">Zapobieganie kradzieży z SI</string>
     <string name="all_address_choose_hint">Wszystkie lokalizacje</string>
     <string name="allow_all">Zezwól wszystkim</string>
+    <string name="anti_peeping">Wykryj obecność innych osób</string>
+    <string name="anti_peeping_apps_disable_header_title">Niewybrane aplikacje</string>
+    <string name="anti_peeping_apps_enable_header_title">Wybrane aplikacje</string>
+    <string name="anti_peeping_apps_notify_description">Gdy wybrana aplikacja jest wyświetlana na pełnym ekranie, ta funkcja będzie ciągle sprawdzać, czy ktoś patrzy na Twój ekran, i Cię o tym powiadomi</string>
+    <string name="anti_peeping_apps_notify_title">Informuj, gdy ktoś patrzy</string>
+    <string name="anti_peeping_apps_notify_type">Powiadomienia</string>
+    <string name="anti_peeping_apps_privacy_tip">Ta funkcja używa danych twarzy do wykrywania spojrzeń. Wszystkie dane są przetwarzane na Twoim urządzeniu i nie będą udostępniane nigdzie indziej.</string>
+    <string name="anti_peeping_face_need_input">Wymagane dane twarzy</string>
+    <string name="anti_peeping_face_need_input_confirm">Ustawienia</string>
+    <string name="anti_peeping_face_need_input_subtitle">Dodaj swoje dane twarzy, aby użyć tej funkcji. Zrobić to teraz?</string>
+    <string name="anti_peeping_focus_not_enabled"><Data>Skupienie powiadomień jest wyłączone. Zamiast tego alerty będą używać wibracji. &lt;font color=#3482FF>Włącz&lt;/font></Data></string>
+    <string name="anti_peeping_focus_not_enabled_no_fallback"><Data>Skupienie powiadomień jest wyłączone. Alerty są niedostępne. &lt;font color=#3482FF>Włącz&lt;/font></Data></string>
+    <string name="anti_peeping_focus_not_enabled_no_fallback_v2"><Data>Xiaomi HyperIsland jest wyłączona. Alerty są niedostępne. &lt;font color=#3482FF>Włącz&lt;/font></Data></string>
+    <string name="anti_peeping_focus_not_enabled_v2"><Data>Xiaomi HyperIsland jest wyłączona. Zamiast tego alerty będą używać wibracji. &lt;font color=#3482FF>Włącz&lt;/font></Data></string>
+    <string name="anti_peeping_notification_channel_name">Wykryj obecność innych osób</string>
+    <string name="anti_peeping_notification_got_it">Rozumiem</string>
+    <string name="anti_peeping_notification_protect_content">Nie będzie przypominać ponownie</string>
+    <string name="anti_peeping_notification_title">Chroń swoją prywatność</string>
+    <string name="anti_peeping_privacy_auto_close_des">Ta funkcja może nieznacznie zwiększyć zużycie energii i zostanie wyłączona, gdy włączone będzie Oszczędzanie baterii.</string>
+    <string name="anti_peeping_privacy_auto_close_title">Automatycznie wyłącza się, gdy działa Oszczędzanie baterii</string>
+    <string name="anti_peeping_privacy_statement_des">"Gdy włączysz tę funkcję, urządzenie będzie korzystać z przedniego aparatu, aby sprawdzać, czy ktoś inny niż Ty spogląda na Twój ekran, gdy wybrane przez Ciebie aplikacje są wyświetlane na pełnym ekranie. Gdy to się stanie, otrzymasz informację dot. prywatności.
+Całość przetwarzania odbywa się na Twoim urządzeniu i nie będzie przesyłana do chmury."</string>
+    <string name="anti_peeping_privacy_statement_title">Stanowisko dot. prywatności</string>
+    <string name="anti_peeping_privacy_understand_des">"Ta funkcja używa przedniego aparatu do wykonywania zdjęć i analizowania, czy ktoś inny niż Ty spogląda na Twój ekran. Gdy takie działanie zostanie wykryte, otrzymasz informację, aby pomóc chronić Twoją prywatność.
+Możesz wybrać aplikacje, które mają być chronione. Funkcja \"Wykryj obecność innych osób\" zostanie włączona automatycznie, gdy te aplikacje będą wyświetlane na pełnym ekranie."</string>
+    <string name="anti_peeping_privacy_understand_title">O funkcji \"Wykryj obecność innych osób\"</string>
+    <string name="anti_peeping_recommend_apps_button_open">Włącz</string>
+    <string name="anti_peeping_recommend_tips">%s użytkowników wybrało te aplikacje</string>
+    <string name="anti_peeping_recommend_title">Zalecane aplikacje</string>
+    <string name="anti_peeping_search_key">Wykryj obecność innych osób</string>
+    <string name="anti_peeping_search_keywords">Wykryj obecność innych osób;podglądanie;ochrona przed podglądaniem;zerkanie;ochrona prywatności;prywatny ekran</string>
+    <string name="anti_peeping_splash_confirm">Dalej</string>
+    <string name="anti_peeping_splash_custom_des">Ta funkcja zostanie włączona, gdy wybrane przez Ciebie aplikacje będą wyświetlane na pełnym ekranie</string>
+    <string name="anti_peeping_splash_custom_title">Wybierz, które aplikacje chronić</string>
+    <string name="anti_peeping_splash_dialog_des"><Data>Twoje urządzenie będzie stale sprawdzać, kto patrzy na Twój ekran, i informować Cię o wykryciu takiej sytuacji. &lt;font color=#3482FF>Dowiedz się więcej&lt;/font></Data></string>
+    <string name="anti_peeping_splash_identify_des">Wykrywaj spoglądanie innych osób na Twój ekran</string>
+    <string name="anti_peeping_splash_identify_title">Wykryj oglądanie przez innych</string>
+    <string name="anti_peeping_splash_notify_des">Wspiera alerty Xiaomi HyperIsland i wibracje</string>
+    <string name="anti_peeping_splash_notify_title">Otrzymuj informacje dot. prywatności</string>
+    <string name="anti_peeping_vibrate_demo_toast">Gdy wykryta zostanie obecność innej osoby, otrzymasz informację</string>
+    <string name="anti_peeping_vibration_not_enabled"><Data>Reakcje haptyczne są wyłączone. Alerty będą wyświetlane przez Xiaomi HyperIsland. &lt;font color=#3482FF>Włącz&lt;/font></Data></string>
+    <string name="anti_peeping_vibration_not_enabled_no_fallback"><Data>"Reakcje haptyczne są wyłączone. Alerty są niedostępne. &lt;font color=#3482FF>Włącz&lt;/font>"</Data></string>
     <string name="antispam_mms_text">Ustaw aplikację SMS jako swoją domyślną aplikację do SMS-ów, aby móc zobaczyć zablokowane wiadomości</string>
     <string name="antispam_mms_text_setting">Ustaw aplikację SMS jako swoją domyślną aplikację do SMS-ów, aby móc użyć listy blokowanych</string>
     <string name="antispam_st_all_net">Przez Wi-Fi i dane mobilne</string>
@@ -180,6 +222,12 @@ Jeśli jej jeszcze nie ustawiono, postępuj zgodnie z instrukcjami, aby to zrobi
     <string name="applock_settings_unlock_all_toast">Odblokowano wszystkie aplikacje</string>
     <string name="apps_item_sms_title">Zmiana domyślnej aplikacji do SMS-ów</string>
     <string name="apps_item_summary_sms">Teraz Twoimi SMS-ami zarządza aplikacja %s. Użyj bardziej bezpiecznej i stabilnej systemowej aplikacji.</string>
+    <string name="apps_layout_all_apps">Wszystkie aplikacje</string>
+    <string name="apps_layout_all_freeform_apps">Dostępne aplikacje</string>
+    <string name="apps_layout_recommend_apps">Zalecane aplikacje</string>
+    <string name="apps_layout_search_app">Wyszukaj aplikacje</string>
+    <string name="apps_layout_search_app_no_result">Nie znaleziono rezultatów</string>
+    <string name="apps_layout_shortcut">Skróty</string>
     <string name="apps_list_header_title_sms">Aplikacja SMS</string>
     <string name="auto_atsk_condition_battery_level_text_down">Gdy rozładowano do %s</string>
     <string name="auto_atsk_condition_battery_level_text_up">Gdy naładowano do %s</string>
@@ -286,6 +334,9 @@ Jeśli jej jeszcze nie ustawiono, postępuj zgodnie z instrukcjami, aby to zrobi
     <string name="auto_task_voice_dialog_call_title">Połączenia, powiadomienia, przypomnienia</string>
     <string name="auto_task_voice_dialog_media_title">Muzyka, gry, multimedia</string>
     <string name="back_sound_support_china">Wyłącz Wi-Fi</string>
+    <string name="background_virus_scan_notification_summary">Wiele aplikacji, w tym %s. Dotknij, aby wyświetlić.</string>
+    <string name="background_virus_scan_notification_summary_one">Dotknij, aby wyświetlić</string>
+    <string name="background_virus_scan_notification_title_one">Wykryto groźną aplikację %s</string>
     <string name="battery_and_property_ordinary_notify">Regularne powiadomienia o baterii</string>
     <string name="battery_desc_ambient_display">Użycie baterii przez tryb Ekran zawsze włączony</string>
     <string name="battery_low_percent_format_save_mode_open">"Pozostało ci mniej niż %1$s baterii. Włącz Oszczędzanie baterii, aby zyskać %2$s czasu."</string>
@@ -328,11 +379,17 @@ Możesz włączyć i wyłączyć tę funkcję w Centrum funkcji."</string>
     <string name="card_main_netcheck_summary">Sprawdź, czy sieć działa poprawnie</string>
     <string name="card_main_whatsappclean_title">Czyszczenie WhatsAppa</string>
     <string name="card_main_xspace_summary">Aplikacje mogą posiadać dwa różne konta lub ustawienia</string>
+    <string name="cetus_invisible_mode_notice_audio">Jesteś incognito. Nie można korzystać teraz z mikrofonu.</string>
+    <string name="cetus_invisible_mode_notice_camera">Jesteś incognito. Nie można korzystać teraz z aparatu.</string>
+    <string name="cetus_invisible_mode_notice_location">Jesteś incognito. Nie można korzystać teraz z lokalizacji.</string>
+    <string name="cetus_invisible_mode_notice_tip">Dotknij, aby wyłączyć Tryb incognito w Ustawieniach</string>
     <string name="charge_high_temp_warning_dialog_text">Wygląda na to, że port ładowania jest przegrzany. Odłącz ładowarkę i poczekaj, aż port się ochłodzi, zanim wznowisz ładowanie.</string>
     <string name="charge_high_temp_warning_text">Odłącz ładowarkę i poczekaj, aż bateria się ochłodzi</string>
     <string name="charger_detect_info2">"Ładowanie może zostać spowolnione także wtedy, gdy używasz niestandardowych bądź starych ładowarek i kabli."</string>
     <string name="charging_text_battery_nearly_full">"Bliski naładowania "</string>
     <string name="charging_text_battery_perfect">Naładowano</string>
+    <string name="clip_notification_close_summary">Zatrzymać przekazywanie informacji o uzyskiwaniu przez aplikację dostępu do schowka?</string>
+    <string name="clip_notification_close_title">Wyłącz informacje o dostępie do schowka</string>
     <string name="clipboard_ai_allow">Zdecyduj za mnie</string>
     <string name="clipboard_ai_allow_summary">Pozwala systemowi określić, czy aplikacja może uzyskiwać treści ze schowka i informuje Cię, gdy to się stanie</string>
     <string name="commonly_used_func_card_title">Częste funkcje</string>
@@ -359,14 +416,19 @@ Możesz włączyć i wyłączyć tę funkcję w Centrum funkcji."</string>
     <string name="cs_pickup_standard">Standardowa</string>
     <string name="cs_pickup_vioce_print_in_private_tips">Aby ustawić redukcję szumów na Prywatną, nagraj próbkę swojego głosu.</string>
     <string name="cs_pickup_vioce_print_unsupport_tips">Nagraj próbkę głosu przed wybraniem opcji \"Jeden uczestnik\"</string>
+    <string name="cs_simultaneous_interpretation_title_2">Tłumacz</string>
     <string name="cs_tool_box_max_screen_guide_case_1_new">Wypróbuj tłumaczenie na żywo, upiększanie i inne narzędzia telekonferencji w nowym Pasku narzędzi połączeń</string>
+    <string name="cs_tool_box_max_screen_guide_case_1_new_v2">Wypróbuj Tłumacza, Upiększanie i więcej w nowych Narzędziach połączeń</string>
     <string name="cs_tool_box_max_screen_guide_case_2_new">Wypróbuj upiększanie i inne narzędzia telekonferencji w nowym Pasku narzędzi połączeń</string>
     <string name="cs_tool_box_max_screen_guide_case_3_new">Wypróbuj różne funkcje telekonferencji w nowym Pasku narzędzi połączeń</string>
     <string name="cs_tool_box_max_screen_guide_case_4_new">Wypróbuj tłumaczenie na żywo i inne narzędzia telekonferencji w nowym Pasku narzędzi połączeń</string>
+    <string name="cs_tool_box_max_screen_guide_case_4_new_v2">Wypróbuj Tłumacza i więcej w nowych Narzędziach połączeń</string>
     <string name="cs_tool_box_phone_guide_case_1_new">Wypróbuj tłumaczenie na żywo, upiększanie i więcej w nowym Pasku narzędzi połączeń</string>
+    <string name="cs_tool_box_phone_guide_case_1_new_v2">Wypróbuj Tłumacza, Upiększanie i więcej w nowych Narzędziach połączeń</string>
     <string name="cs_tool_box_phone_guide_case_2_new">Wypróbuj upiększanie i inne funkcje w nowym Pasku narzędzi połączeń</string>
     <string name="cs_tool_box_phone_guide_case_3_new">Wypróbuj różne nowe funkcje w nowym Pasku narzędzi połączeń</string>
     <string name="cs_tool_box_phone_guide_case_4_new">Wypróbuj tłumaczenie na żywo i inne funkcje w nowym Pasku narzędzi połączeń</string>
+    <string name="cs_tool_box_phone_guide_case_4_new_v2">Wypróbuj Tłumacza i więcej w nowych Narzędziach połączeń</string>
     <string name="cs_vt_camera_title">Aparat między urządzeniami</string>
     <string name="cta_HIPS_Perm_Location_Desc">W celu wykorzystywania Twojej lokalizacji w ramach opcji Alarmowy SOS czy Oszczędzanie baterii w aplikacjach, a także włączania przybliżonej lokalizacji</string>
     <string name="cta_agree_desc">Aby móc korzystać z naszych usług, pozwól tej aplikacji na łączenie się z Internetem i udziel uprawnień wymienionych powyżej.</string>
@@ -602,6 +664,7 @@ Gdy włączony jest Inteligentny klatkaż, narzędzia wykrywające klatkaż (w g
     <string name="gb_game_macro_bubble_tips">Wypróbuj kombosy</string>
     <string name="gb_game_macro_toast_tips">"Wypróbuj kombosy!
 Rejestruj sekwencje i używaj ich w dowolnym momencie!"</string>
+    <string name="gb_game_mode_change_failed_toast">Nie udało się zapisać</string>
     <string name="gb_gpu_dialog_button">Rozumiem</string>
     <string name="gb_gpu_dialog_button_countdown">Rozumiem (%s)</string>
     <string name="gb_gpu_dialog_message">Bieżące ustawienia GPU są stosowane do „%s”. Uruchom ponownie grę, aby zastosować ustawienia.</string>
@@ -745,6 +808,11 @@ i obniża częstotliwość odświeżania oraz limity temperatury"</string>
     <string name="gd_app_edit_title_new">Dodaj aplikacje</string>
     <string name="gd_beauty_manage_summary">Aby użyć tej funkcji, otwórz ją z panelu bocznego podczas rozmowy wideo</string>
     <string name="gd_beauty_manage_title">Upiększanie w rozmowach wideo</string>
+    <string name="gd_dock_preview_section_title">Jak otworzyć</string>
+    <string name="gd_dock_preview_sidebar_title">Przeciągnij wskaźnik do wewnątrz</string>
+    <string name="gd_dock_preview_swipe_title">Przeciągnij i przytrzymaj</string>
+    <string name="gd_dock_shortcut_multisplitscreen">Kombinacja Podziału ekranu</string>
+    <string name="gd_dock_swipe_launcher_upgrade_hint">Obecna wersja launchera nie wspiera przeciągania i przytrzymania</string>
     <string name="gd_setting_group_custom_beauty_new">Zarządzaj Upiększaniem w rozmowach wideo</string>
     <string name="gd_setting_conversation_desc">Różne funkcje, których można użyć w połączeniach audio i wideo</string>
     <string name="gd_setting_dock_activity_title">Przybornik</string>
@@ -768,6 +836,7 @@ i obniża częstotliwość odświeżania oraz limity temperatury"</string>
 · Przytrzymaj pasek, aby przenieść okno."</string>
     <string name="global_dock_guide_desc_without_split_screen_new">"Przesuń, aby otworzyć pasek boczny, i dotknij aplikacji, aby otworzyć ją w pływającym oknie.
 Przytrzymaj pasek, aby przesuwać okno."</string>
+    <string name="global_dock_recommend_switch_title">Pokaż zalecane aplikacje w pasku bocznym</string>
     <string name="global_wa_setting_alert_dialog_title">Czyszczenie WhatsAppa</string>
     <string name="gmscore_support_remind">Włącz tę funkcję, jeśli doświadczasz problemów z Gmail, Mapami Google i innymi aplikacjami Google. Zmniejszy to trochę czas pracy telefonu na baterii.</string>
     <string name="group_connect_device">Interakcja urządzeń Xiaomi</string>
@@ -792,6 +861,9 @@ Przytrzymaj pasek, aby przesuwać okno."</string>
     <string name="in_delete">Usuwanie…</string>
     <string name="in_recover">Przywracanie…</string>
     <string name="info_unantispam_phone_sms">Zezwól na połączenia i SMS</string>
+    <string name="intercept_accessibility_virus_notifiction_summary">Wiele aplikacji, w tym %s, nadużywa uprawnień ułatwień dostępu</string>
+    <string name="intercept_accessibility_virus_notifiction_summary_one">Ta aplikacja nadużywa uprawnień ułatwień dostępu. Dotknij, aby wyświetlić.</string>
+    <string name="intercept_accessibility_virus_notifiction_title_one">Zablokowano groźną aplikację %s</string>
     <string name="international_roaming_setting">Roaming</string>
     <string name="intl_perm_intro_message">Dotknij, aby dostosować uprawnienia - pozwoli to uniknąć wycieku danych</string>
     <string name="intl_perm_privacy_control_calendar">"Aplikacja może uzyskać dostęp bądź zedytować elementy w kalendarzu tylko wtedy, gdy z niej korzystasz"</string>
@@ -936,12 +1008,21 @@ Przytrzymaj pasek, aby przesuwać okno."</string>
     <string name="om_settings_memory_clean_lock_screen">Wyczyść pamięć RAM, gdy urządzenie jest zablokowane</string>
     <string name="om_settings_speed_up_auto">Czyszczenie pamięci RAM</string>
     <string name="open_applock">Włącz Blokadę aplikacji</string>
+    <string name="open_applock_calling_tips">Blokuj aplikacje i weryfikuj swoją tożsamość, gdy je otwierasz. Blokada aplikacji ma dwa typy haseł i wspiera weryfikację biometryczną.</string>
+    <string name="open_applock_calling_title">Blokada aplikacji</string>
+    <string name="open_applock_tip_item1_sub_title">Użyj swojego hasła ochrony prywatności bądź Ekranu blokady</string>
+    <string name="open_applock_tip_item1_title">Dwa typy haseł</string>
+    <string name="open_applock_tip_item2_sub_title">Odblokuj aplikacje odciskiem palca lub danymi twarzy</string>
+    <string name="open_applock_tip_item2_title">Weryfikacja biometryczna</string>
+    <string name="open_applock_tip_item3_sub_title">Wybierz, kiedy wymagać weryfikacji: po zablokowaniu ekranu, po określonym czasie lub po wyjściu z aplikacji</string>
+    <string name="open_applock_tip_item3_title">Własny moment weryfikacji</string>
     <string name="open_applock_tips">Blokuj aplikacje i weryfikuj swoją tożsamość podczas ich otwierania. Blokada aplikacji ma dwa rodzaje haseł i wspiera weryfikację biometryczną.</string>
     <string name="open_extreme_power_save_mode_title">Włącz Ultraoszczędzanie baterii</string>
     <string name="optimize_manage_title">Zarządzanie pamięcią</string>
     <string name="optimize_result_button_onekey_restore">Przywróć</string>
     <string name="optmizingbar_title_system">Zabezpieczenia systemu</string>
     <string name="overlay_permission_dialog_message_security_service">Panel sterowania wymaga pewnych uprawnień do poprawnego działania.</string>
+    <string name="overlay_read_clip_toast">\"%1$s\" uzyskał dostęp do schowka</string>
     <string name="password_or_finger_unlock">Odblokuj hasłem lub odciskiem palca</string>
     <string name="pb_abnormal_header_time">Czas</string>
     <string name="pb_activity_title">Szczegóły powerbanku</string>
@@ -1151,6 +1232,7 @@ Ultraoszczędzania baterii"</string>
     <string name="permission_usage_virtual_phone_state_once">%1$s | Aplikacja zwracała pusty stan połączenia</string>
     <string name="permission_usage_virtual_sms_once">%1$s | Aplikacja zwracała pusty SMS</string>
     <string name="permission_warning_for_risk">Jeśli zdecydujesz się przyznać uprawnienia, w celu ochrony Twojej prywatności do aplikacji będą zwracane puste odpowiedzi.</string>
+    <string name="permisson_reject_notice_toast_text2">"nie ma uprawnień do %1$s."</string>
     <string name="phone_manage_special_summary">Odkryj dodatkowe funkcjonalności</string>
     <string name="pm_newfeature_sub_text">NOWOŚĆ</string>
     <string name="pm_root_success_notification_infomation">Upewnij się, że rozumiesz ryzyko związane z dostępem do roota</string>
@@ -1310,6 +1392,12 @@ Ultraoszczędzania baterii"</string>
     <string name="pp_optional_protection_function">Opcjonalne środki dot. ochrony prywatności</string>
     <string name="pp_permission_action_virtual_detail">Nadaj uprawnienia, ale przekazuj aplikacjom puste pliki zamiast Twoich danych</string>
     <string name="pp_permission_settings">Uprawnienia</string>
+    <string name="pp_privacy_call_entry">Prywatne rozmowy</string>
+    <string name="pp_privacy_call_entry_demo_desc">Zredukuj wyciek dźwięku z głośników, aby chronić prywatność rozmów</string>
+    <string name="pp_privacy_call_entry_switch_desc">Działa podczas rozmów przez głośnik. Ta funkcja nie będzie gromadzić treści połączeń lub danych.</string>
+    <string name="pp_privacy_call_protect">Ochrona rozmów</string>
+    <string name="pp_privacy_call_switch_off">Prywatne rozmowy są wyłączone</string>
+    <string name="pp_privacy_call_switch_on">Prywatne rozmowy są włączone</string>
     <string name="pp_privacy_input_tips">Chroń swoją klawiaturę</string>
     <string name="pp_privacy_lab_blur_location">Przybliżona lokalizacja</string>
     <string name="pp_privacy_lab_blur_location_summary">Chroń prywatność, pozwalając aplikacjom na dostęp do przybliżonej lokalizacji</string>
@@ -1469,6 +1557,7 @@ Wycofać zgodę?"</string>
     <string name="roaming_limit_network_notification_body">Pokaż dostępne sieci</string>
     <string name="safe_result_item_info_sms_default">Aplikacja SMS od Xiaomi jest domyślna</string>
     <string name="saturday_shortest">S</string>
+    <string name="save_privacy_pwd_fail_toast">Nie udało się zapisać. Spróbuj ponownie.</string>
     <string name="screen_share_protection_negative_button">"Nie udostępniaj"</string>
     <string name="screen_share_protection_summary">"Aplikacja, której używasz, zawiera Twoje prywatne dane, które mogą być widoczne dla innych osób w trakcie projekcji. Udostępniać ją mimo to?"</string>
     <string name="screen_share_protection_title">Uwaga</string>
@@ -1837,6 +1926,14 @@ Wycofać zgodę?"</string>
     <string name="toast_cinema_mode">Automatycznie dostosowano ustawienia wyświetlania i dźwięku dla lepszych wrażeń</string>
     <string name="toast_root_apply_accept">Uprawnienia roota udzielono dla %s</string>
     <string name="toast_root_apply_reject">Wyłączono uprawnienia roota dla %s</string>
+    <string name="toolbox_invocation_guide_cancel">Nie teraz</string>
+    <string name="toolbox_invocation_guide_caption">Przesuń i przytrzymaj, aby otworzyć</string>
+    <string name="toolbox_invocation_guide_caption_upgrade">Otwórz z każdego miejsca</string>
+    <string name="toolbox_invocation_guide_confirm">Użyj</string>
+    <string name="toolbox_invocation_guide_confirm_upgrade">Wypróbuj teraz</string>
+    <string name="toolbox_invocation_guide_message">Przesuń do wewnątrz od krawędzi ekranu i przytrzymaj, a następnie puść, aby otworzyć</string>
+    <string name="toolbox_invocation_guide_title">Użyj paska bocznego</string>
+    <string name="toolbox_invocation_guide_title_upgrade">Nowa metoda otwierania paska bocznego</string>
     <string name="traffic_advanced_settings">Zaawansowane ustawienia dot. danych</string>
     <string name="traffic_alert_auto_modify_notification_sumarry">Miesięczny plan taryfowy zmieniony na %s.</string>
     <string name="traffic_setting_fragment_month_summary">Dane są aktualizowane raz w miesiącu</string>
@@ -1845,6 +1942,45 @@ Wycofać zgodę?"</string>
     <string name="turn_off_auto_correction">Wyłączanie autom. synchronizacji</string>
     <string name="type_face_condition_summary">Dostosuj rozmiar tekstu i grubość czcionki</string>
     <string name="unable_connect_internet">Brak połączenia z siecią</string>
+    <string name="uni_auth_security_delay_tips">Wymagane opóźnienie bezpieczeństwa</string>
+    <string name="uniauth_close_bt_text">Wyłącz</string>
+    <string name="uniauth_close_lock_sim_bind_local_phone_fp_title">Zweryfikuj odcisk palca, aby odblokować USIM i powiązać ją z tym urządzeniem</string>
+    <string name="uniauth_close_lock_sim_fp_title">Zweryfikuj odcisk palca, aby odblokować USIM</string>
+    <string name="uniauth_close_lost_device_prot_bt">Wyłącz Ochronę zgubionego urządzenia</string>
+    <string name="uniauth_close_lost_device_prot_tips_bt">Rozumiem</string>
+    <string name="uniauth_close_lost_device_prot_tips_message">Ochrona zgubionego urządzenia została wyłączona za pomocą Twojego konta Xiaomi. Funkcje tego urządzenia nie będą już miały dodatkowej ochrony.</string>
+    <string name="uniauth_close_lost_device_prot_tips_title">Wyłączono Ochronę zgubionego urządzenia</string>
+    <string name="uniauth_common_fp_title">Zweryfikuj odcisk palca</string>
+    <string name="uniauth_common_tips">Nie udało się zweryfikować. Spróbuj ponownie.</string>
+    <string name="uniauth_fp_disabled_sub_title">Zbyt wiele nieudanych prób</string>
+    <string name="uniauth_fp_disabled_title">Odciski palca nie są teraz dostępne</string>
+    <string name="uniauth_fp_enter_lockscreen_text">Użyj blokady ekranu</string>
+    <string name="uniauth_fp_recover_by_lockscreen_bt_text">Przywróć dostęp do odcisku palca</string>
+    <string name="uniauth_fp_temp_disabled_sub_title">Odciski palca nie są teraz dostępne ze względu na zbyt wiele nieudanych prób</string>
+    <string name="uniauth_lockscreen_default_title">Zweryfikuj blokadę ekranu</string>
+    <string name="uniauth_lockscreen_disabled_sub_title">Nie można użyć blokady ekranu ze względu na zbyt wiele nieudanych prób</string>
+    <string name="uniauth_lockscreen_mix_do_next">Dalej</string>
+    <string name="uniauth_lockscreen_mix_hint">Wprowadź tutaj</string>
+    <string name="uniauth_lockscreen_sub_title">W celu przywrócenia dostępu do odcisku palca</string>
+    <string name="uniauth_logout_xiaomi_acount_fp_title">Zweryfikuj odcisk palca, aby wylogować się z Twojego konta Xiaomi</string>
+    <string name="uniauth_lp_fp_sub_title">Włączono Ochronę zgubioneg urządzenia. Zweryfikuj odcisk palca, aby potwierdzić, że tę operację wykonuje właściciel urządzenia.</string>
+    <string name="uniauth_lp_lockscreen_and_fp_sub_title">Użyj uwierzytelniania dwuskładnikowego, aby zweryfikować swoją tożsamość</string>
+    <string name="uniauth_no_acount_login_tips">Najpierw zaloguj się na swoje konto Xiaomi</string>
+    <string name="uniauth_open_lock_sim_bind_local_phone_fp_title">Zweryfikuj odcisk palca, aby zablokować USIM i powiązać ją z tym urządzeniem</string>
+    <string name="uniauth_open_lock_sim_fp_title">Zweryfikuj odcisk palca, aby zablokować USIM</string>
+    <string name="uniauth_reset_lockscreen_default_title">Zweryfikuj poprzednią blokadę ekranu</string>
+    <string name="uniauth_reset_lockscreen_pwd_fp_sub_title">Użyj uwierzytelniania dwuskładnikowego, aby ustawić nową blokadę ekranu</string>
+    <string name="uniauth_reset_lockscreen_pwd_fp_title">Zweryfikuj odcisk palca</string>
+    <string name="uniauth_reset_lockscreen_title">Zweryfikuj poprzednią blokadę ekranu</string>
+    <string name="uniauth_resetlockscreen_error_sub_title">Nie można zresetować</string>
+    <string name="uniauth_resetlockscreen_error_title">Zbyt wiele nieudanych prób weryfikacji blokady ekranu</string>
+    <string name="uniauth_security_delay_end_notification_msg">Przez następne %1$d godzin możesz zweryfikować swoje konto Xiaomi i wyłączyć Ochronę zgubionego urządzenia</string>
+    <string name="uniauth_security_delay_end_notification_title">Opóźnienie bezpieczeństwa zakończone</string>
+    <string name="uniauth_security_delay_msg">Po %1$d godzinach możesz zweryfikować swoje konto Xiaomi i wyłączyć Ochronę zgubionego urządzenia. Otrzymasz informację, gdy opóźnienie się zakończy.</string>
+    <string name="uniauth_security_delay_next_more">Dowiedz się więcej</string>
+    <string name="uniauth_temp_disabled_title">Spróbuj ponownie później</string>
+    <string name="uniauth_uqery_pin_fp_title">Zweryfikuj odcisk palca, aby wyświetlić PIN</string>
+    <string name="uniauth_xiaomi_acount_title">Zweryfikuj konto Xiaomi</string>
     <string name="untrust_app_perm_install_list">Zezwól na dostęp do listy aplikacji zainstalowanych na urządzeniu</string>
     <string name="untrust_app_perm_network">Zezwól na łączenie się z siecią</string>
     <string name="untrust_app_perm_notification">Zezwól na wyświetlanie powiadomień</string>
@@ -1858,6 +1994,8 @@ Wycofać zgodę?"</string>
     <string name="usage_type_power_consumption_ratio_hint_binary">Energia zużyta przez %3$s jako procent energii zużytej przez wszystkie aplikacje w ostatnich %1$s %2$s</string>
     <string name="usage_type_power_consumption_ratio_hint_single">Energia zużyta przez %2$s jako procent energii zużytej przez wszystkie aplikacje w ostatnich %1$s</string>
     <string name="use_for_open_applock">Do włączania Blokady aplikacji</string>
+    <string name="use_lock_screen_password_type">Hasło Ekranu blokady</string>
+    <string name="use_private_password_type">Hasło ochrony prywatności</string>
     <string name="vb_dult_effect">3D LUT</string>
     <string name="vb_fps_settings">Autom. częstotliwość odświeżania</string>
     <string name="vb_movie_power_hint">Tryb kinowy zapewnia wciągające wrażenia wizualne. Twoje urządzenie może się nagrzewać i zużywać więcej energii.</string>
@@ -1874,6 +2012,7 @@ Wycofać zgodę?"</string>
     <string name="vb_video_effects_setting_nostalgia">Nostalgia</string>
     <string name="vb_video_effects_setting_solar">Blaknięcie</string>
     <string name="vb_video_effects_settings_liquid">Czysty</string>
+    <string name="vb_video_super_division_subdesc">Automatycznie zwiększ rozdzielczość, gdy wynosi ona ≤720p.</string>
     <string name="vb_video_super_division_tips">"Nadal niewyraźnie?
 Wypróbuj skalowanie rozdzielczości!"</string>
     <string name="verify_sms_ensure_allow">Wyślij</string>
@@ -1882,6 +2021,12 @@ Wypróbuj skalowanie rozdzielczości!"</string>
 Funkcja zużywa więcej energii.
 Funkcja nie będzie działać, gdy włączone jest Oszczędzanie baterii lub Ultraoszczędzanie baterii."</string>
     <string name="view_traffic_details">Wyświetl statystyki użycia danych</string>
+    <string name="virtual_reject_notice_content">Aby chronić Twoje dane, wysłano do aplikacji pustą odpowiedź</string>
+    <string name="virtual_reject_notice_title_calendar">Dostęp do kalendarza przez %1$s</string>
+    <string name="virtual_reject_notice_title_calllog">Dostęp do historii połączeń przez %1$s</string>
+    <string name="virtual_reject_notice_title_contacts">Dostęp do kontaktów przez %1$s</string>
+    <string name="virtual_reject_notice_title_phonestate">Dostęp do informacji o urządzeniu przez %1$s</string>
+    <string name="virtual_reject_notice_title_sms">Dostęp do wiadomości przez %1$s</string>
     <string name="vtb_func_frc_desc2">Gdy rozdzielczość jest wyższa niż 1080p</string>
     <string name="vtb_func_frc_desc3">Gdy częstotliwość odświeżania jest wyższa niż 30 kl./s</string>
     <string name="vtb_function_video_translation">Tłumaczenie na żywo</string>

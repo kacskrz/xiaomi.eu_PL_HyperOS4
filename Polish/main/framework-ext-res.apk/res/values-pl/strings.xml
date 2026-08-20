@@ -42,6 +42,7 @@
     <string name="fingerprint_face_password_unlock_new">Odciski palca, dane twarzy i blokada ekranu</string>
     <string name="fingerprint_password_unlock">Odciski palca i blokada ekranu</string>
     <string name="fingerprint_double_tap">Dwukrotnie dotknij czytnika linii papilarnych</string>
+    <string name="fold_outer_app_blocked">Kontynuuj na ekranie wewnętrznym</string>
     <string name="freeform_guide_tip_dock_browser">Przytrzymaj ikonę, aby otworzyć nowe okno</string>
     <string name="freeform_guide_tip_dock_email">Przytrzymaj ikonę, aby otworzyć nowe okno</string>
     <string name="freeform_guide_tip_dock_note">Przytrzymaj ikonę, aby otworzyć nowe okno</string>
@@ -139,10 +140,10 @@
     <string name="projection_disable_camera_toast">Ta aplikacja nie pozwala na korzystanie z aparatu innego połączonego urządzenia podczas projekcji. Przełącz się na swój telefon.</string>
     <string name="rescueparty_package_tips">Wykryto uszkodzenie usługi systemowej {0}</string>
     <string name="resolver_offical_recommend">Oficjalna</string>
-    <string name="screen_on_cover_guide_summary_for_back_screen">"Aby wyłączyć główny ekran,
+    <string name="screen_on_cover_guide_summary_for_back_screen">"Aby użyć tylnego wyświetlacza,
 naciśnij przycisk Zasilania"</string>
-    <string name="screen_on_cover_guide_summary_for_main_screen">"Aby nadal korzystać z głównego ekranu,
-naciśnij przycisk Zasilania"</string>
+    <string name="screen_on_cover_guide_summary_for_main_screen">"Na tylnym wyświetlaczu trwa rozgrywka.
+Aby użyć przedniego ekranu, nacisnij przycisk Zasilania."</string>
     <string name="screen_on_proximity_sensor_summary_for_back_screen">"Aby wyłączyć Tryb kieszonkowy,
 usuń przeszkody z czerwonego obszaru
 lub naciśnij przycisk Głośność+"</string>

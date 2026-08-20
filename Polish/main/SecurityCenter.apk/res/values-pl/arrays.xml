@@ -13,6 +13,10 @@
         <item>Od poniedziałku do piątku</item>
         <item>Własne</item>
     </string-array>
+    <string-array name="anti_peeping_apps_spinner_notify_type">
+        <item>Xiaomi HyperIsland</item>
+        <item>Wibracja</item>
+    </string-array>
     <string-array name="app_behavior_type_menu">
         <item>Wszystko</item>
         <item>Autostart</item>

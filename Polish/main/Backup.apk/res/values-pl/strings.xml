@@ -31,14 +31,7 @@
     <string name="close_twice_auth_step_1">1. Otwórz przeglądarkę na komputerze i przejdź na appleid.apple.com.</string>Add commentMore actions
     <string name="close_twice_auth_step_2">2. Zaloguj się za pomocą Apple ID, dla którego chcesz wyłączyć dwu-składnikową autoryzację. Przejdź do sekcji \"Bezpieczeństwo\" w ustawieniach konta i wybierz \"Edytuj\".</string>
     <string name="close_twice_auth_step_3">3. Wybierz \"Wyłącz autoryzację dwu-składnikową\". Kliknij ponownie, aby potwierdzić.</string>
-    <string name="cloud_app_name">Kopia w Chmurze</string>
-    <string name="cloud_backup_window_title">Kopia w Chmurze</string>
-    <string name="cloud_item_info_summary">" (Lokalnie %1$s | Chmura %2$s)"</string>
-    <string name="cloud_restore_guide">Aby przywrócić dane z %s, dotknij Przywróć</string>
     <string name="compute_backup_info">Informacje o kopii</string>
-    <string name="confirm_exit_link">Wyjdź</string>
-    <string name="confirm_exit_link_cancel">"Nie wychodź"</string>
-    <string name="confirm_exit_link_msg">"Wyjście z aplikacji przerwie obecnie trwające przenoszenie. Będzie trzeba ponownie ustanowić połączenie między obydwoma urządzeniami. Wyjść mimo to?"</string>
     <string name="connect_wifi_tip">"Nie można połączyć z siecią. Połącz z Wi-Fi, aby wczytać kopie z iCloud."</string>
     <string name="dialog_app_upgrade_download">Tak</string>
     <string name="dialog_app_upgrade_exit">Nie</string>
@@ -54,35 +47,23 @@
     <string name="flash_drive_backup_btn">Skopiuj na dysk USB</string>
     <string name="flash_drive_backup_note">"Skopiuj dane na dysk USB.
   Zanim zaczniesz, upewnij się, że dysk USB ma wystarczająco dużo miejsca."</string>
-    <string name="flash_drive_backup_restore">Kopie na USB</string>
     <string name="flash_drive_connection_failed">Dysk USB rozłączony</string>
     <string name="flash_drive_restore_btn">Przywróć z dysku USB</string>
     <string name="flash_drive_search_backup_files">"Wyszukiwanie kopii na USB…
   Nie zmieniaj plików kopii lub ich nazw."</string>
     <string name="fmt_date_long_year_month_day">d MMMM yyyy</string>
     <string name="fmt_date_short_year_month_day">d MMM yyyy</string>
-    <string name="grant_all_permission_content">Aby móc wykonywać i przywracać kopie zapasowe elementów, przyznaj wszystkie niezbędne uprawnienia.</string>
     <string name="hsa_tip_message">"1. Jeśli nie udało Ci się otrzymać kodu weryfikacyjnego, upewnij się, że jesteś zalogowany do chmury iCloud na swoim urządzeniu Apple.r
 2. Jeśli wprowadzenie kodu weryfikacyjnego nie pomaga, wyłącz uwierzytelnianie dwustopniowe. "</string>
     <string name="hsa_tip_message_with_device">"1. Wiadomość z kodem weryfikacyjnym została wysłana na \"%s\" powiązane z twoim Apple ID.r
 2. Wyłącz dwu-składnikową autoryzację, jeśli kod weryfikacyjny nie działa."</string>
-    <string name="icloud_how_to_backup_tip_steps">"1. Otwórz Ustawienia na swoim urządzeniu iOS i wybierz iCloud.r
-2. Przełącz opcje dla kontaktów i innych elementów.r
-3.Wybierz Zdjęcia i przełącz opcję dla Biblioteki zdjęć iCloud."</string>
-    <string name="local_back_up_detail_description">"Uwaga:
-1. Aby uniknąć utraty danych, skopiuj lokalne kopie zapasowe na swój komputer.
-2. Zawsze kopiuj lokalne kopie zapasowe na swój komputer przed wykonaniem resetu do ustawień fabrycznych - w przeciwnym wypadku te kopie znikną.
-3. Gdzie są przechowywane lokalne kopie zapasowe? %1$s"</string>
     <string name="local_backup_select_activity">Utwórz kopię</string>
     <string name="local_button_backup_data">Skopiuj dane</string>
-    <string name="local_button_backup_now">Skopiuj dane</string>
     <string name="local_config_off">Wył.</string>
     <string name="local_main_auto_backup_title">Wykonuj kopię automatycznie</string>
     <string name="local_main_backup_manager">Zarządzaj lokalnymi kopiami</string>
     <string name="local_main_backup_manager_title">Zarządzaj kopiami</string>
     <string name="local_main_backup_settings">Ustawienia lokalnych kopii</string>
-    <string name="local_main_backup_time">Ostatnia kopia: %1$s</string>
-    <string name="local_restore_select_activity">Zarządzaj kopiami</string>
     <string name="local_select_audio">Muzyka</string>
     <string name="miuix_appcompat_accessibility_start_edit_action_mode">Wejdź w tryb edycji</string>
     <string name="miuix_pairing_dialog_closable_icon_description">Zamknij</string>
@@ -107,70 +88,31 @@
     <string name="new_usb_tab_backup">Skopiuj</string>
     <string name="new_usb_unwritable_storage_content">"Nie udało się zapisać elementów na pamięć zewnętrzną. Spróbuj podłączyć ją ponownie."</string>
     <string name="not_enough_storage_tips">Za mało miejsca. Zwolnij je i spróbuj ponownie.</string>
-    <string name="permission_backup_calendar">W celu skopiowania wydarzeń z kalendarza</string>
     <string name="permission_backup_calllog">W celu skopiowania historii połączeń</string>
     <string name="permission_backup_contacts">W celu skopiowania kontaktów</string>
     <string name="permission_backup_file">W celu skopiowania plików</string>
     <string name="permission_backup_sms">W celu skopiowania wiadomości</string>
     <string name="permission_purpose">Ta funkcja umożliwia wykonanie i przywrócenie kopii zapasowej elementów za pomocą urządzenia mobilnego, komputera bądź nośnika USB.</string>
     <string name="permission_purpose_pad">Ta funkcja umożliwia Ci wykonywanie kopii zapasowej i jej przywracanie za pomocą urządzenia mobilnego, komputera czy dysku USB.</string>
-    <string name="permission_read_apps">Dostęp do listy zainstalowanych aplikacji</string>
     <string name="permission_read_storage_global_pad">Dostęp do pamięci</string>
     <string name="permission_read_write_sys_app">Aby móc skopiować i przywrócić wiadomości, kontakty i historię połączeń, najpierw zezwól tej funkcji na dostęp do tych elementów.</string>
     <string name="permission_read_write_sys_app1">Aby móc wykonać kopię zapasową lub przywrócić SMS-y i kontakty, zezwól tej funkcji na dostęp do nich.</string>
     <string name="permission_read_write_sys_app2">Aby móc wykonać kopię zapasową lub przywrócić kontakty, zezwól tej funkcji na dostęp do nich.</string>
-    <string name="permission_restore_calendar">W celu przywrócenia wydarzeń z kalendarza</string>
     <string name="permission_restore_calllog">W celu przywrócenia historii połączeń</string>
     <string name="permission_restore_contacts">W celu przywrócenia kontaktów</string>
-    <string name="permission_show_all_apps">W celu wyświetlania aplikacji, które można skopiować</string>
-    <string name="permission_show_all_apps_desc">Aby móc wyświetlić aplikacje, które można skopiować, najpierw zezwól tej aplikacji na dostęp do listy zainstalowanych aplikacji.</string>
     <string name="permission_write_calllog">Edycja historii połączeń</string>
     <string name="permission_write_storage">Zapisywanie elementów w pamięci</string>
     <string name="permission_write_storage_pad">Zapis elementów w pamięci</string>
     <string name="privacy_policy_link"><Data>"Aby dowiedzieć się więcej o tym, jak przetwarzane są Twoje dane, a także o Twoich prawach jako użytkownika, przeczytaj i zaakceptuj warunki &lt;a href='%1s'>Polityki prywatności&lt;/a>, zanim przejdziesz dalej."</Data></string>
     <string name="privacy_settings_title">Polityka prywatności</string>
-    <string name="private_policy_text">Polityka prywatności</string>
     <string name="restore_launcher_layout_hit">Ustawienia Ekranu głównego</string>
     <string name="retry">Ponów</string>
-    <string name="save_finish_with_failing_items">"Przesyłanie zostało przerwane.
-Dane, które nie zostały zaimportowane, muszą zostać przesłane jeszcze raz."</string>
     <string name="select_backup_item">Elementy kopii</string>
     <string name="size_byte">" B"</string>
     <string name="size_giga_byte">" GB"</string>
     <string name="size_kilo_byte">" KB"</string>
     <string name="size_mega_byte">" MB"</string>
     <string name="start_backup">Rozpocznij</string>
-    <string name="trans_cancel_selection_title">Pozostań w aplikacji</string>
-    <string name="trans_detail_app_data_useless_tip">Możesz je przywrócić z poziomu aplikacji, bez konieczności przesyłania.</string>
-    <string name="trans_detail_list_footer">"1. Możesz wybrać aplikacje, które chcesz przenieść. 
-2. Jeśli wybierzesz dane aplikacji, odpowiednie aplikacje również zostaną przeniesione.
-3. Ze względu na problemy z kompatybilnością dane aplikacji QQ i WeChat mogą nie zostać przeniesione."</string>
-    <string name="trans_install_guide_step1_title">Krok 1</string>
-    <string name="trans_install_guide_step2_title">Krok 2</string>
-    <string name="trans_intro_desc_5">Przestrzeń dyskowa na starym urządzeniu jest wykorzystywana do przygotowania paczek transferowych. Upewnij się, że na starym telefonie jest co najmniej 500MB-1GB wolnej przestrzeni przed rozpoczęciem przesyłania.</string>
-    <string name="trans_intro_desc_9_method_1_title">1. Podziel się z nami swoją opinią, korzystając z aplikacji \"Opinia\".</string>
-Add commentMore actions
-    <string name="trans_intro_desc_9_method_2_title">2. Wyślij do nas e-mail</string>
-    <string name="trans_intro_desc_9_method_3_dec">Groupa QQ Przenoszenia danych: 687338378</string>
-    <string name="trans_intro_desc_9_method_3_title">3. Zgłoś problemy za pomocą QQ</string>
-    <string name="trans_intro_title_gms">Dane aplikacji od firmy Google:</string>
-    <string name="trans_native_no_space">"Brak miejsca na starym urządzeniu (dostępne %s).
-Zwolnij miejsce lub przenieś tylko ważne pliki."</string>
-    <string name="trans_old_phone_low_space_msg">"Przenoszenie danych potrzebuje trochę miejsca do spakowania przenoszonych danych, ale wygląda na to, że nie ma go już na starym urządzeniu. Zwolnij miejsce w \"Panelu sterowania\" lub przenieś tylko najważniejsze rzeczy."</string>
-    <string name="trans_open_camera_failed_message">Zrestartuj urządzenie lub sprawdź, czy Przenoszenie danych może używać &lt;b>Aparatu&lt;/b>.</string>
-    <string name="trans_operate_old_phone_tips1">"1. Zainstaluj aplikację Przenoszenie danych na starym urządzeniuAdd commentMore actions
-2. Otwórz aplikację i dotknij Start
-3. Zeskanuj kod QR na starym urządzeniu"</string>
-    <string name="trans_select_data_no_space">"Mało pamięci na nowym urządzeniu (dostępne %s).
-Zwolnij miejsce lub przenieś tylko ważne pliki."</string>
-    <string name="trans_select_data_tips">"Wybierz pliki do przeniesienia.
-Duplikaty plików na nowym urządzeniu zostaną nadpisane.
-Rozmiar plików, który widzisz, jest przybliżony."</string>
-    <string name="trans_select_data_too_large">"Wybrano za dużo elementów do przeniesienia.
-Wybierz tylko najważniejsze rzeczy, aby przyspieszyć ich przeniesienie."</string>
-    <string name="trans_switching_5g">Przełączanie na Wi-Fi 5 GHz…</string>
-    <string name="trans_time_format_second">Mniej niż minutę</string>
-    <string name="trans_time_spent">Całkowity czas: %s</string>
     <string name="usb_restore_select_data_too_large">"Pliki kopii zapasowej są duże. Ich przywrócenie może trochę potrwać.
 Szybsze będzie przywrócenie tylko najważniejszych danych."</string>
     <string name="usb_trans_native_no_space">"Na Twoim urządzeniu jest dostępne tylko %s miejsca.

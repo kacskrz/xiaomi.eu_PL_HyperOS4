@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="app_function_display_description">Usługa transferu plików Mi Share</string>
     <string name="custom_define_permission_desc_android.permission_group.LOCATION">W celu transferu elementów za pomocą Bluetooth i Wi-Fi</string>
     <string name="error_msg_network_error_china">"Nie udało się połączyć z siecią. Sprawdź połączenia Wi-Fi i Bluetooth na obu urządzeniach."</string>
     <string name="error_msg_wlan_error_china">"Nie udało się połączyć. Połącz się ponownie z siecią Wi-Fi i spróbuj ponownie."</string>
@@ -31,6 +32,12 @@ Inne urządzenia z Androidem: tę funkcję mogą wspierać urządzenia vivo, rea
     <string name="nfc_wifi_and_bluetooth_china">Włącz Wi-Fi i Bluetooth</string>
     <string name="onehop_remote_cancel">Druga osoba anulowała transfer</string>
     <string name="onehop_remote_refuse">Druga osoba odrzuciła transfer</string>
+    <string name="permdesc_mishare_all">Zezwól aplikacji na dostęp do podstawowych usług Xiaomi Share</string>
+    <string name="permdesc_mishare_guide">Zezwól aplikacji na wyświetlenie strony pomocy Xiaomi Share</string>
+    <string name="permdesc_mishare_nfc">Zezwól aplikacji na włączenie usług udostępniania NFC za pomocą Xiaomi Share dla szybkiego przesyłania plików między urządzeniami</string>
+    <string name="permlab_mishare_all">Dostęp do usług udostępniania</string>
+    <string name="permlab_mishare_guide">Dostęp do pomocy Xiaomi Share</string>
+    <string name="permlab_mishare_nfc">Włącz udostępnianie NFC</string>
     <string name="progress_notification_downloaded">Pobieranie ukończone</string>
     <string name="progress_notification_downloading">Progres: %d%%</string>
     <string name="progress_notification_name">Pobieranie wtyczki</string>
@@ -38,14 +45,14 @@ Inne urządzenia z Androidem: tę funkcję mogą wspierać urządzenia vivo, rea
     <string name="sub_title_mishare_switch_mine">Możesz odbierać pliki z urządzeń zalogowanych na Twoje konto Xiaomi</string>
     <string name="switch_mode_sameaccount">Z mojego konta Xiaomi</string>
     <string name="tap_share_contact_person_title">Udostępniaj kontakt</string>
-    <string name="tap_share_content_describe" formatted="false">"Nadawca może użyć funkcji Dotknij, aby udostępnić na następujące sposoby:
+    <string formatted="false" name="tap_share_content_describe">"Nadawca może użyć funkcji Dotknij, aby udostępnić na następujące sposoby:
 %d. Udostępnianie zdjęć i filmów poprzez wyświetlenie pełnego obrazu w Galerii, na stronie wyboru lub przez dotknięcie opcji \"Wyślij\", która otworzy okno pop-up udostępniania.
 %d. Udostępnianie plików ze strony wyboru w aplikacji Pliki lub przez dotknięcie opcji \"Wyślij\", która otworzy okno pop-up udostępniania.
 %d. Aby udostępnić sieć Wi-Fi, z którą masz połączenie, otwórz listę sieci Wi-Fi lub dotknij połączonej sieci Wi-Fi, aby otworzyć okno pop-up udostępniania.
 %d. Udostępnianie kontaktów poprzez wyświetlenie szczegółów kontaktu, na stronie wyboru lub przez dotknięcie opcji \"Wyślij\", która otworzy okno pop-up udostępniania.
 %d. Udostępnianie strony internetowej poprzez otwarcie strony w Przeglądarce Mi lub dotknięcie opcji \"Wyślij\", która otworzy okno pop-up udostępniania.
 "</string>
-    <string name="tap_share_content_describe_china" formatted="false">"Nadawca może użyć funkcji Dotknij, aby udostępnić na następujące sposoby:
+    <string formatted="false" name="tap_share_content_describe_china">"Nadawca może użyć funkcji Dotknij, aby udostępnić na następujące sposoby:
 %d. Udostępnianie zdjęć i filmów poprzez wyświetlenie pełnego obrazu w Galerii, na stronie wyboru lub przez dotknięcie opcji \"Wyślij\", która otworzy okno pop-up udostępniania.
 %d. Udostępnianie plików ze strony wyboru w aplikacji Pliki lub przez dotknięcie opcji \"Wyślij\", która otworzy okno pop-up udostępniania.
 %d. Aby udostępnić sieć Wi-Fi, z którą masz połączenie, otwórz listę sieci Wi-Fi lub dotknij połączonej sieci Wi-Fi, aby otworzyć okno pop-up udostępniania.

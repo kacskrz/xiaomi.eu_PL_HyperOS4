@@ -17,6 +17,7 @@
     <string name="composer_has_no_exportable_contact">Brak kontaktów do kopiowania. Jeśli masz w telefonie kontakty, być może dostawcy danych nie zezwalają na ich kopiowanie z telefonu.</string>
     <string name="confirm_call_log_dial_summary">Pytaj o potwierdzenie przed rozpoczęciem połączenia z historii połączeń, aby zapobiec przypadkowym połączeniom.</string>
     <string name="confirm_call_log_dial_title">Potwierdzaj chęć połączenia z historii połączeń</string>
+    <string name="contacts_filter_all">Wszystkie kontakty</string>
     <string name="description_call_log_incoming_forwarding_call">Połączenie przychodzące (przekierowane)</string>
     <string name="description_image_button_sim1_named_dial">Połącz, używając karty SIM 1 %s</string>
     <string name="description_image_button_sim2_named_dial">Połącz, używając karty SIM 2 %s</string>
@@ -71,6 +72,8 @@
     <string name="saf_permission_dialog_content">"Domyślnie Android nie zezwala aplikacji Kontakty i Telefon na dostęp do nagrań połączeń. Zezwól tym aplikacjom na dostęp do tych nagrań, aby móc wyświetlić ich listę."</string>
     <string name="seconds">sek.</string>
     <string name="share_via">Udostępnij kontakt przez</string>
+    <string name="sim_card_1">Połączenia z SIM %d</string>
+    <string name="sim_card_2">Połączenia z SIM %d</string>
     <string name="state_Star">Oznaczono gwiazdką</string>
     <string name="state_StarCanceled">Usunięto gwiazdkę</string>
     <string name="state_not_selected">Nie wybrano</string>

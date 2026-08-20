@@ -66,6 +66,8 @@
     <string name="clipboard_read_deny_dialog_title">Ograniczono dostęp do schowka: %1$s</string>
     <string name="close">Wyłącz</string>
     <string name="deny_fine_keep_blur_location_dont_ask_again">Zawsze udostępniaj przybliżoną</string>
+    <string name="fmt_date_long_year_month_day">d MMMM yyyy</string>
+    <string name="fmt_date_short_year_month_day">d MMM yyyy</string>
     <string name="grant_dialog_button_allow_all">Zezwól na wszystko</string>
     <string name="grant_dialog_button_allow_foreground">Zezwól tylko, gdy korzystam z aplikacji</string>
     <string name="grant_dialog_button_allow_onetime">Tylko tym razem</string>

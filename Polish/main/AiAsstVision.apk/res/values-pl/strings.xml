@@ -1,4 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="multi_window_mode_guide_dialog_summary">*Automatyczne rozpoznawanie języka i mikrofon będą domyślnie włączone</string>
+    <string name="dialog_message_revoke_authorization_common_global">Kontynuowanie oznacza wycofanie zgody na warunki Poliyki prywatności Tłumacza Mi SI. Xiaomi przestanie gromadzić Twoje dane osobowe. Zebrane i przechowywane już dane zostaną usunięte w określonym czasie zgodnie z obowiązującymi przepisami oraz regulacjami, o ile nie ma innych wymogów. Jako że usługi Tłumacza Mi SI są świadczone na podstawie gromadzenia niezbędnych danych osobowych, cofnięcie zgody zostanie uznane za odmowę akceptacji tych usług. Wycofać zgodę?</string>
+    <string name="fmt_date_long_year_month_day">d MMMM yyyy</string>
+    <string name="fmt_date_short_year_month_day">d MMM yyyy</string>
+    <string name="model_delete_dialog_message">Jeśli usuniesz ten pakiet tłumaczeń, nie będziesz w stanie korzystać z tłumaczenia offline. Usunąć mimo to?</string>
 </resources>

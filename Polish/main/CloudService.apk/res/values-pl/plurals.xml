@@ -20,4 +20,9 @@
         <item quantity="few">Ogółem masz %s niezaufane urządzenia.</item>
         <item quantity="one">Ogółem masz %s niezaufane urządzenie.</item>
     </plurals>
+    <plurals name="verify_code_send_desc_more">
+        <item quantity="other">Aby przejść dalej, wprowadź kod weryfikacyjny wysłany na %6$d urządzeń, w tym %1$s, %2$s, %3$s, %4$s i %5$s.</item>
+        <item quantity="few">Aby przejść dalej, wprowadź kod weryfikacyjny wysłany na %6$d urządzenia, w tym %1$s, %2$s, %3$s, %4$s i %5$s.</item>
+        <item quantity="one">Aby przejść dalej, wprowadź kod weryfikacyjny wysłany na %6$d urządzenie, w tym %1$s, %2$s, %3$s, %4$s i %5$s.</item>
+    </plurals>
 </resources>

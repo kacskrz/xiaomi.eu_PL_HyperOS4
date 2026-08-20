@@ -54,6 +54,7 @@
     <string name="guide_on_off_screen_title">Wyłącz i włącz ekran</string>
     <string name="guide_set_wallpaper_title">Spersonalizowane tapety</string>
     <string name="guide_use_pin_summary">Użyj Xiaomi Hyper XiaoAi, aby zakreślić ważne informacje na przednim ekranie, a następnie przypnij je na tylnym wyświetlaczu dla łatwego odniesienia. Działa również ze zdjęciami z Galerii.</string>
+    <string name="guide_use_pin_summary_global">Zaznacz tekst na przednim ekranie, dotknij opcji \"Wyślij\" i wybierz opcję przypięcia go na tylnym wyświetlaczu</string>
     <string name="guide_use_pin_title">Przypięta wiadomość</string>
     <string name="keyguard_notification_title">Powiadomienia Ekranu blokady</string>
     <string name="launch_camera_fail_tip">Aby użyć aparatu po restarcie urządzenia, odblokuj je</string>

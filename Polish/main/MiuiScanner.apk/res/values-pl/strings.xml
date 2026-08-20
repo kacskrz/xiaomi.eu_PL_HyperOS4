@@ -625,6 +625,8 @@
     <string name="tel">Telefon</string>
     <string name="text_extraction_demo_dialog_title">Dotknij, aby rozpoznać i skopiować tekst</string>
     <string name="text_general_guide_btn_tips">OK</string>
+    <string name="text_result_copy">Kopiuj</string>
+    <string name="text_result_save">Zapisz</string>
     <string name="text_to_be_translated_cannot_be_empty">Skaner wymaga tekstu do przetłumaczenia</string>
     <string name="textrecognition_results">Rozpoznany tekst</string>
     <string name="title">Tytuł:</string>

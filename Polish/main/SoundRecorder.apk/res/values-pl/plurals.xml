@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <plurals name="search_recorder_records_hint">
-        <item quantity="other">%d nagrań</item>
-        <item quantity="few">%d nagrania</item>
-        <item quantity="one">%d nagranie</item>
-    </plurals>
-</resources>

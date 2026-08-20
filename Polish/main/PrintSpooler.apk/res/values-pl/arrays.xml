@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="duplex_mode_labels_miui">
+        <item>Jednostronny</item>
+        <item>Dwustronny (długa krawędź)</item>
+        <item>Dwustronny (krótka krawędź)</item>
+    </string-array>
+</resources>

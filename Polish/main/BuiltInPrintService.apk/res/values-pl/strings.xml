@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="connect_hint_text_miui">Najpierw połącz drukarkę z tym urządzeniem</string>
+    <string name="printer_bad_certificate_miui">Nieprawidłowy certyfikat drukarki</string>
+    <string name="printer_busy_miui">Drukarka zajęta</string>
+    <string name="printer_check_miui">Sprawdź stan drukarki</string>
+    <string name="printer_door_open_miui">Otwarta pokrywa drukarki</string>
+    <string name="printer_jammed_miui">Zacięcie papieru</string>
+    <string name="printer_low_on_ink_miui">Mało tuszu</string>
+    <string name="printer_low_on_toner_miui">Mało tonera</string>
+    <string name="printer_not_encrypted_miui">Drukarka nie jest bezpieczna</string>
+    <string name="printer_offline_miui">Drukarka jest offline</string>
+    <string name="printer_out_of_ink_miui">Brak tuszu</string>
+    <string name="printer_out_of_paper_miui">Brak papieru</string>
+    <string name="printer_out_of_toner_miui">Brak tonera</string>
+    <string name="unknown_error_miui">Nieznany błąd</string>
+    <string name="unreadable_input_miui">Nie udało się odczytać dokumentu</string>
+    <string name="waiting_to_send_miui">Oczekiwanie na wydruk…</string>
+</resources>

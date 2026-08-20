@@ -29,6 +29,7 @@ do Listy blokowanych"</string>
     <string name="cm_privacy_dialog_tips">"Usługi inteligentnych wiadomości są dostarczane przez Twojego operatora. Aplikacja SMS wymaga połączenia z Internetem i dostępu do lokalizacji, aby dostarczać te usługi. Musisz zgodzić się na %1s swojego operatora przed używaniem tych usług. Czy zgadzasz się na to?"</string>
     <string name="conv_head_risk_tip">Może być podejrzane</string>
     <string name="conv_item_official">Oficjalne</string>
+    <string name="date_and_time">Data i czas</string>
     <string name="delete_verification_code_sms_message">Usunąć wszystkie jednorazowe hasła?</string>
     <string name="delete_verification_code_sms_title">Usuń hasła jednorazowe</string>
     <string name="dialog_choice_all_correct_as_normal">Wszystkie wiadomości od %s</string>
@@ -242,6 +243,7 @@ Jeśli nie nadasz wymaganych uprawnień bądź nie zezwolisz na gromadzenie bąd
     <string name="unable_connect_camera">"Jesteś incognito. Nie można korzystać teraz z aparatu."</string>
     <string name="unable_get_location">"Jesteś incognito. Nie można korzystać teraz z lokalizacji."</string>
     <string name="unable_use_microphone">"Jeteś incognito. Nie można używać teraz mikrofonu."</string>
+    <string name="unselected_message">Niewybrana wiadomość</string>
     <string name="user_agreement">Umowę użytkownika</string>
     <string name="user_term">Umowa użytkownika</string>
     <string name="vital_signs_cta_body">"Dane dotyczące funkcji życiowych (w tym tętna, SpO₂ i informacji medycznych) są pobierane z Mi Fitness. Zaznaczenie poniższych opcji oznacza wyrażenie przez Ciebie zgody na dostęp do tych danych i ich wykorzystywanie.

@@ -8,12 +8,20 @@
     <string name="calendar_user_agreement">Umowa użytkownika</string>
     <string name="constellation_date_range_format">Od %2$d.%1$d do %4$d.%3$d</string>
     <string name="count_down_out_range">Powiadomienia z odliczaniem mogą być wyświetlane maksymalnie do 1 godziny przed wydarzeniem. Zmień wybrany czas i spróbuj ponownie.</string>
+    <string name="date_of_birth">Urodziny %s</string>
     <string name="date_time_fmt">%1$s (%2$s)</string>
+    <string name="days_left">Pozostało</string>
+    <string name="desk_calendar">Specjalny kalendarz na biurko</string>
     <string name="desk_calendar_view">Kalendarz na biurko</string>
     <string name="desk_image_cannot_slip_hint">Na razie to wszystko</string>
+    <string name="edit_event_confirm_continue">Kontynuuj edycję</string>
+    <string name="edit_event_confirm_discard">Odrzuć</string>
+    <string name="end_at">Koniec: %s</string>
+    <string name="event_reminder_allday_day_zero_annver">W ten dzień</string>
     <string name="focus_notification_open_setting_message">Włącz Skupienie powiadomień dla Kalendarza, aby móc korzystać z przypomnień o odliczaniu.</string>
     <string name="focus_notification_open_setting_title">Włączyć Skupienie powiadomień?</string>
     <string name="icon_remove_description_content">Kalendarz jest aplikacją systemową. Zezwala na tworzenie i zarządzanie wydarzeniami. Po usunięciu Kalendarza z Ekranu głównego nadal będzie możliwe korzystanie z niego poprzez widżet na Ekranie głównym i Asystenta HyperOS.</string>
+    <string name="lunar_birthday_desc">Tradycyjny chiński kalendarz</string>
     <string name="menu_function_preferences">Funkcje</string>
     <string name="menu_panel_preferences">Widok miesiąca</string>
     <string name="miuix_appcompat_accessibility_start_edit_action_mode">Wejdź w tryb edycji</string>
@@ -70,6 +78,9 @@
     <string name="month_september_short">wrz</string>
     <string name="month_september_shortest">W</string>
     <string name="monthly_on_day_count">Co miesiąc (%1$s miesiąca)</string>
+    <string name="panel_title_end">Koniec</string>
+    <string name="panel_title_start">Początek</string>
+    <string name="pass_day">Minęło</string>
     <string name="preferences_alarms_category_title">Przypomnienia - alarmy</string>
     <string name="repeat_alarm_close_title">To wydarzenie się powtarza. Wyłączyć przypomnienie alarmem?</string>
     <string name="repeat_alarm_open_title">To wydarzenie się powtarza. Ustawić przypomnienie alarmem?</string>
@@ -79,6 +90,8 @@
     <string name="setting_chinese_calendar">Chiński kalendarz</string>
     <string name="setting_show_almanac_yiji">Pokaż informacje z chińskiego almanachu (tylko kalendarz chiński)</string>
     <string name="setting_show_extend_month">Rozszerzony widok miesiąca</string>
+    <string name="solar_birthday_desc">Kalendarz gregoriański</string>
+    <string name="start_at">Start: %s</string>
     <string name="start_string">Start o %s</string>
     <string name="still_num">%s</string>
     <string name="subscribe_card_success">Pomyślnie zasubskrybowano! Sprawdź szczegóły na stronie głównej.</string>
@@ -89,6 +102,11 @@
     <string name="weekly">Co tydzień (co: %s)</string>
     <string name="widget_edit_lunar_text">Tradycyjny chiński kalendarz</string>
     <string name="widget_year_month_title_date_format">MM.yyyy</string>
+    <string name="withdraw_consent_button_withdraw">Wycofaj</string>
+    <string name="withdraw_consent_message">"Jeśli przejdziesz dalej, wycofasz swoją zgodę na warunki Polityki prywatności Kalendarza. Xiaomi przestanie gromadzić Twoje dane osobowe. Dane już zgromadzone i przechowywane zostaną usunięte w czasie zgodnym z odpowiednimi przepisami i regulacjami, o ile nie ma innych wymogów.
+Ponieważ Kalendarz dostarcza swoje usługi na podstawie gromadzenia niezbędnych danych osobowych, wycofanie zgody zostanie potraktowane jako odmowa akceptacji usług Kalendarza. Wycofać zgodę?"</string>
+    <string name="withdraw_consent_preference_title">Wycofanie zgody</string>
+    <string name="withdraw_consent_title">Wycofanie zgody</string>
     <string name="year_month_title_date_format">MM.yyyy</string>
     <string name="year_month_title_date_format_desk">d.MM.yyyy</string>
     <string name="yearly">Co rok (co: %s)</string>
