@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="cd_photo_total">
+        <item quantity="other">Razem %d obrazu</item>
+        <item quantity="one">Razem %d obraz</item>
+        <item quantity="few">Razem %d obrazy</item>
+        <item quantity="many">Razem %d obrazów</item>
+    </plurals>
     <plurals name="date_calculate_days_after">
         <item quantity="other">%1$d dni po</item>
         <item quantity="one">%1$d dzień po</item>
@@ -18,6 +24,12 @@
         <item quantity="other">%1$s notatek</item>
         <item quantity="few">%1$s notatki</item>
         <item quantity="one">%1$s notatkę</item>
+    </plurals>
+    <plurals name="recently_deleted_confirm_delete_message">
+        <item quantity="other">Czy permanentnie usunąć %1$d notatki?</item>
+        <item quantity="one">Czy permanentnie usunąć %1$d notatkę?</item>
+        <item quantity="few">Czy permanentnie usunąć %1$d notatki?</item>
+        <item quantity="many">Czy permanentnie usunąć %1$d notatek?</item>
     </plurals>
     <plurals name="todo_N_days_after">
         <item quantity="other">Za %1$d dni</item>

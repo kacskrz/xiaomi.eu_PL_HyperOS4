@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="action_send_to_desktop">Dodaj na Ekran główny</string>
+    <string name="ai_cta_dialog_message_gl">Aplikacja „Notatki” umożliwia transkrypcję mowy, zapisywanie oraz porządkowanie notatek za pomocą SI, uzyskiwanie odpowiedzi na pytania i wiele więcej. Do prawidłowego działania tej usługi wymagane jest połączenie z siecią. Xiaomi może gromadzić Twoje nagrania, treści notatek i inne dane, a niektóre funkcje mogą być przetwarzane przez zewnętrzne usługi.</string>
     <string name="ai_privacy_revoke_dialog_message">Kontynuacja oznacza cofnięcie zgody na warunki Polityki prywatności aplikacji Notatki. Xiaomi przestanie zbierać Twoje dane osobowe. Dane osobowe już zebrane i zachowane zostaną usunięte w określonym terminie zgodnie z obowiązującymi przepisami prawa i regulacjami, chyba że wymagane jest inaczej. Ponieważ aplikacja Notatki świadczy usługi w oparciu o gromadzenie niezbędnych danych osobowych, wycofanie przez Ciebie zgody zostanie uznane za odmowę przyjęcia usług Notatek. Wycofanie zgody nie powoduje usunięcia notatek zapisanych na Twoim urządzeniu. Wycofać zgodę?</string>
+    <string name="ai_smart_folder_privacy_not_agreed">Zaakceptuj Politykę prywatności, by skorzystać z funkcji SI. Zamiast tego utworzono standardowe foldery.</string>
     <string name="ai_summary">Podsumowanie SI</string>
     <string name="ai_writing_content_text">"Pisanie SI pomaga w porządkowaniu i polepszaniu Twoich tekstów. Możesz korzystać z tej funkcji w następujący sposób:
 %1$d. Streszczaj tekst, aby szybko wyodrębnić kluczowe informacje z długich artykułów.
@@ -68,6 +71,7 @@
     <string name="month_september">września</string>
     <string name="month_september_short">wrz</string>
     <string name="month_september_shortest">W</string>
+    <string name="new_ai_cta_dialog_message">Aplikacja „Notatki” umożliwia transkrypcję mowy, wyodrębnianie tekstu z obrazów, tworzenie i porządkowanie notatek przy pomocy sztucznej inteligencji, uzyskiwanie odpowiedzi na pytania, tworzenie podsumowań rozmów oraz nagrań i nie tylko. Do prawidłowego działania usługi wymagane jest połączenie z siecią. Xiaomi może gromadzić Twoje nagrania, treści notatek i wybrane dane, a niektóre funkcje mogą być przetwarzane przez zewnętrzne usługi.</string>
     <string name="no_export_multi_image">Udostępnianie kilku obrazów nie jest wspierane</string>
     <string name="note_gesture_guide_step1">Przytrzymaj ikonę plusa, aby utworzyć notatkę głosową</string>
     <string name="note_gesture_guide_step2">Przytrzymaj, a następnie przeciągnij notatkę nad inną notatkę, aby utworzyć folder</string>
@@ -77,8 +81,17 @@
     <string name="permission_intro_contact">Do oznaczania notatek wykonanych podczas połączeń</string>
     <string name="permission_intro_microphone">Do zapisywania notatek głosowych</string>
     <string name="permission_read_contact_desc">Do powiązywania notatek tworzonych w trakcie rozmów z kontaktami</string>
+    <string name="recording_notification_dialog_message">Włącz powiadomienia w Ustawieniach > Powiadomienia i pasek statusu > Powiadomienia aplikacji > Notatki i spróbuj ponownie.</string>
     <string name="refuse_to_share_as_pic_because_of_content">Ta notatka jest zbyt duża, aby ją udostępnić.</string>
+    <string name="send_to_desktop_elderly_mode">Nie można dodać notatek na Ekranie głównym w trybie Lite</string>
+    <string name="send_to_desktop_empty_note">Nie można dodać pustych notatek na Ekranie głównym</string>
+    <string name="send_to_desktop_not_supported">Nie można dodać notatek na Ekranie głównym na tym urządzeniu</string>
+    <string name="send_to_desktop_success">Dodano na Ekran główny</string>
+    <string name="send_to_desktop_widget_exists">Ta notatka jest już dodana na Ekran główny</string>
     <string name="setting_privacy">Polityka prywatności</string>
+    <string name="settings_privacy_policy">Polityka prywatności</string>
+    <string name="settings_remind_type_summary">Odtwarzaj dźwięki, nawet gdy włączony jest Tryb cichy lub Nie przeszkadzać</string>
+    <string name="settings_user_agreement">Umowa użytkownika</string>
     <string name="toolbar_share_description">Udostępnij</string>
     <string name="user_agreement">Umowa użytkownika</string>
     <string name="widget_size_item_big">Duży</string>
