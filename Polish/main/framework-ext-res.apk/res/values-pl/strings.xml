@@ -140,6 +140,7 @@
     <string name="projection_disable_camera_toast">Ta aplikacja nie pozwala na korzystanie z aparatu innego połączonego urządzenia podczas projekcji. Przełącz się na swój telefon.</string>
     <string name="rescueparty_package_tips">Wykryto uszkodzenie usługi systemowej {0}</string>
     <string name="resolver_offical_recommend">Oficjalna</string>
+    <string name="sc_size_compat_control_unsupported_toast">Działa tylko w niektórych aplikacjach w trybie pionowym</string>
     <string name="screen_on_cover_guide_summary_for_back_screen">"Aby użyć tylnego wyświetlacza,
 naciśnij przycisk Zasilania"</string>
     <string name="screen_on_cover_guide_summary_for_main_screen">"Na tylnym wyświetlaczu trwa rozgrywka.

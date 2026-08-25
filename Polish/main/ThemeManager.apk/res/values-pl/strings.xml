@@ -142,8 +142,6 @@
     <string name="anonymous_resource_unlink_hint">"Jeśli nie dodasz elementów, nie będą one powiązane z Twoim kontem."</string>
     <string name="anonymous_resource_unlink_title">Potwierdź swoją akcję</string>
     <string name="app_ad_title">Nasze propozycje na dzisiaj</string>
-    <string name="app_disable_transparent_wallpaper">Bez przezroczystej tapety</string>
-    <string name="app_enable_transparent_wallpaper">Z przezroczystą tapetą</string>
     <string name="app_name_pad">Personalizacja</string>
     <string name="application_list_permission_desc">W celu pokazywania aplikacji komatybilnych z przezroczystymi tapetami</string>
     <string name="apply_at_the_same_time">Ustaw na obu</string>
@@ -234,7 +232,6 @@ Dotknij ekranu i wybierz opcję Zgadzam się, aby korzystać z niego normalnie."
     <string name="create_home_icon">Skrót na Ekranie głównym</string>
     <string name="current_device_not_support_superwallpaper_dialog_content">Supertapety nie są wspierane na tym urządzeniu</string>
     <string name="current_using">Obecny</string>
-    <string name="current_using_float_wallpaper_text">Przezroczysta</string>
     <string name="current_using_lockscreen_wallpaper_text">Ekran blokady</string>
     <string name="current_version">Obecna wersja: %1$s</string>
     <string name="current_version_incompatible">Niekompatybilny</string>
@@ -330,7 +327,6 @@ Dotknij ekranu i wybierz opcję Zgadzam się, aby korzystać z niego normalnie."
     <string name="enable_accessibility_hint">"Możesz włączyć tą usługę w aplikacji Motywy. Po włączeniu jej będziesz w stanie wybrać aplikacje, które powinny działać z przezroczystą tapetą w tle."</string>
     <string name="enable_all_free_mode">Włącz</string>
     <string name="enable_aod_list">Włącz tryb Ekran zawsze włączony</string>
-    <string name="enable_transparent_wallpaper">Użyj przezroczystej tapety</string>
     <string name="enabling_all_free_mode">Włączanie…</string>
     <string name="exchange_alert">W trakcie wydarzeń możesz uzyskać kody od Xiaomi i wykorzystać je tutaj</string>
     <string name="exchange_code_dialog_title">Uwaga</string>
@@ -376,7 +372,6 @@ Dotknij ekranu i wybierz opcję Zgadzam się, aby korzystać z niego normalnie."
     <string name="font_pad_setting_local_font">Lokalne czcionki</string>
     <string name="font_pad_setting_title">Czcionki</string>
     <string name="font_trial_end_purchase">Kup czcionkę</string>
-    <string name="forbid_transparent_wallpaper_by_second_space">Najpierw zastosuj przezroczystą tapetę w Pierwszej przestrzeni.</string>
     <string name="forbid_video_wallpaper_by_second_space">Najpierw zastosuj dynamiczną tapetę w Pierwszej przestrzeni.</string>
     <string name="format_month_day_style2">d.MM</string>
     <string name="format_month_day_style_interactive_pets">d.MM</string>
@@ -1052,9 +1047,11 @@ Dostępne są zupełnie nowe style."</string>
     <string name="resource_search_history">Historia wyszukiwania</string>
     <string name="resource_search_hot_tag">Popularne</string>
     <string name="resource_see_more">Pokaż wszystko</string>
+    <string name="resource_select_alarm_audio_confirm">Wybrać ten dźwięk alarmu?</string>
     <string name="resource_select_alarm_confirm_with_name">Użyć \"%1$s\" jako dźwięku alarmu?</string>
     <string name="resource_select_boot_audio_confirm">Wybrać ten dźwięk uruchamiania?</string>
     <string name="resource_select_messaging_confirm_with_name">Użyć \"%1$s\" jako dźwięku wiadomości?</string>
+    <string name="resource_select_notification_audio_confirm">Wybrać ten dźwięk powiadomień?</string>
     <string name="resource_select_notification_confirm_with_name">Użyć \"%1$s\" jako dźwięku powiadomienia?</string>
     <string name="resource_select_ringtone_confirm_with_name">Użyć \"%1$s\" jako dzwonka?</string>
     <string name="resource_send">Wyślij</string>
@@ -1068,8 +1065,6 @@ Dostępne są zupełnie nowe style."</string>
     <string name="resource_title_set_notification">Ustaw jako dźwięk powiadomienia</string>
     <string name="resource_title_set_ringtone">Ustaw jako dzwonek</string>
     <string name="resource_trial_days_hours">" (okres próbny: %1$s %2$s)"</string>
-    <string name="resource_trial_end_get_mibi">Otrzymaj Mi Kredyty</string>
-    <string name="resource_trial_end_jump_hint">Przekierowywanie…</string>
     <string name="resource_trial_end_message">Okres próbny %1$s minął. Jeśli spodobał ci się motyw, możesz go kupić.</string>
     <string name="resource_trial_end_time_format">hh:mm d MMM</string>
     <string name="resource_trial_hours_minutes">" (okres próbny: %1$s %2$s)"</string>
@@ -1218,7 +1213,6 @@ Dostępne są zupełnie nowe style."</string>
     <string name="theme_setting_all">Wszystkie motywy</string>
     <string name="theme_settings_title">Motywy</string>
     <string name="theme_share_app_name">Motywy Mi</string>
-    <string name="theme_staggered_item_text">Otrzymaj Mi Kredyty</string>
     <string name="theme_store">Sklep z motywami</string>
     <string name="theme_user_agreement_content1">"Zapoznaj się z: "</string>
     <string name="theme_user_agreement_content2">"Umowa użytkownika"</string>
@@ -1262,27 +1256,8 @@ Dostępne są zupełnie nowe style."</string>
     <string name="toast_transparent_wallpaper_filter_set_failured">"Nie udało się zastosować"</string>
     <string name="toast_transparent_wallpaper_filter_set_successfully">Pomyślnie zastosowano</string>
     <string name="trans_wallpaper_offline_notice">"Przezroczyste tapety nie są dostępne"</string>
-    <string name="transparency_pref_summary">Wybierz, jak bardzo tapeta ma być przezroczysta</string>
-    <string name="transparency_pref_title">Poziom przezroczystości</string>
-    <string name="transparent_wallpaper">Przezroczysta tapeta</string>
-    <string name="transparent_wallpaper_apply_success">"Pomyślnie zastosowano tapetę.
-Więcej nowych funkcji możesz znaleźć w Motywach > Moje konto > Funkcje w fazie testów."</string>
-    <string name="transparent_wallpaper_auto_start_pref_summary">Ustaw przezroczystą tapetę po restarcie urządzenia</string>
     <string name="transparent_wallpaper_disable">Wył.</string>
     <string name="transparent_wallpaper_enable">Wł.</string>
-    <string name="transparent_wallpaper_enable_success">Pomyślnie włączono</string>
-    <string name="transparent_wallpaper_filter_pref_summary">"Przezroczysta tapeta nie będzie się pojawiać w aplikacjach, w których na to nie pozwolisz"</string>
-    <string name="transparent_wallpaper_filter_pref_title">Wybierz aplikacje, w których powinna się pojawiać przezroczysta tapeta</string>
-    <string name="transparent_wallpaper_filter_set_successfully">Pomyślnie ustawiono</string>
-    <string name="transparent_wallpaper_filter_setting">Poszczególne aplikacje</string>
-    <string name="transparent_wallpaper_guide">Przejdź do Motywów</string>
-    <string name="transparent_wallpaper_guide_tip">W aplikacji Motywy możesz wybrać teraz przezroczystą tapetę.</string>
-    <string name="transparent_wallpaper_is_running_in_background">Przezroczysta tapeta jest uruchomiona w tle</string>
-    <string name="transparent_wallpaper_pref_summary">Tapety z zmniejszoną nieprzezroczystością</string>
-    <string name="transparent_wallpaper_white_wallpaper">Białe tło</string>
-    <string name="transparent_wallpaper_white_wallpaper_failed">"Nie można ustawić białego tła"</string>
-    <string name="transparent_wallpaper_white_wallpaper_success">Ustawiono białe tło</string>
-    <string name="transparent_wallpaper_white_wallpaper_tip">Przezroczyste tapety wyglądają najlepiej na białym tle</string>
     <string name="trial_count_empty">Nie masz już darmowych elementów na dzisiaj. Do zobaczenia jutro!</string>
     <string name="trial_count_tip">Okres próbny kończy się za %1$s:%2$s:%3$s</string>
     <string name="trial_for_free">Wersja próbna</string>
@@ -1366,7 +1341,6 @@ Więcej nowych funkcji możesz znaleźć w Motywach > Moje konto > Funkcje w faz
     <string name="wallpaper_set_as_desktop">Ustaw jako tapetę Ekranu głównego</string>
     <string name="wallpaper_set_as_desktop_large">Ustaw na Ekranie głównym na głównym ekranie</string>
     <string name="wallpaper_set_as_desktop_small">Ustaw na Ekranie głównym na zewnętrznym ekranie</string>
-    <string name="wallpaper_set_as_float_wallpaper">Ustaw jako przezroczystą tapetę</string>
     <string name="wallpaper_set_as_incall_show">Ustaw jako profil wideo</string>
     <string name="wallpaper_set_as_lockscreen">Ustaw jako tapetę Ekranu blokady</string>
     <string name="wallpaper_set_as_lockscreen_large">Ustaw na ekranie blokady na głównym ekranie</string>

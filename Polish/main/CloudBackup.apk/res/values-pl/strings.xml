@@ -131,6 +131,7 @@ Info: dane zainstalowanych aplikacji nie będą zachowane w Chmurze."</string>
     <string name="miuix_sbl_tracking_progress_labe_up_nodata">"Na razie to wszystko"</string>
     <string name="miuix_sbl_tracking_progress_labe_up_none">"Na razie to wszystko"</string>
     <string name="network_error_exception">Wystąpił błąd sieci. Sprawdź swoje ustawienia sieci.</string>
+    <string name="new_cta_dialog_all_purpose">Dzięki Kopii w chmurze możesz wykonać kopię zapasową ustawień systemu, zdjęć, wiadomości, kontaktów, historii połączeń, dokumentów i danych aplikacji w chmurze, aby móc je przenieść na nowe urządzenie.</string>
     <string name="not_backup_reason_battery_exception">Mniej niż %s baterii</string>
     <string name="not_backup_reason_screen_exception">"Ekran nie był zablokowany"</string>
     <string name="not_backup_reason_user_pause">Wstrzymano ręcznie</string>

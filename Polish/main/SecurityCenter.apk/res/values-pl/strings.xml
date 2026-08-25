@@ -410,7 +410,7 @@ Możesz włączyć i wyłączyć tę funkcję w Centrum funkcji."</string>
     <string name="connected_interconnection">Interakcja urządzeń Xiaomi</string>
     <string name="contacts_will_also_be_blocked">W tym kontakty</string>
     <string name="convenient_summary">Nie wymagaj hasła po tym, jak odblokowano min. 1 aplikację</string>
-    <string name="cs_camera_bubble">Wykryto dostępny aparat. <annotation value="switchCamera" key="action">Dotknij, aby się przełączyć.</annotation></string>
+    <string name="cs_camera_bubble">Wykryto dostępny aparat. <annotation key="action" value="switchCamera">Dotknij, aby się przełączyć.</annotation></string>
     <string name="cs_pickup_enhance">Ulepszona</string>
     <string name="cs_pickup_private">Prywatna</string>
     <string name="cs_pickup_standard">Standardowa</string>
@@ -813,13 +813,13 @@ i obniża częstotliwość odświeżania oraz limity temperatury"</string>
     <string name="gd_dock_preview_swipe_title">Przeciągnij i przytrzymaj</string>
     <string name="gd_dock_shortcut_multisplitscreen">Kombinacja Podziału ekranu</string>
     <string name="gd_dock_swipe_launcher_upgrade_hint">Obecna wersja launchera nie wspiera przeciągania i przytrzymania</string>
-    <string name="gd_setting_group_custom_beauty_new">Zarządzaj Upiększaniem w rozmowach wideo</string>
     <string name="gd_setting_conversation_desc">Różne funkcje, których można użyć w połączeniach audio i wideo</string>
     <string name="gd_setting_dock_activity_title">Przybornik</string>
     <string name="gd_setting_dock_call_summary">Funkcje dla rozmów i wideokonferencji (np. wypełnianie światłem)</string>
     <string name="gd_setting_dock_call_summary_new">Użyj upiększania i innych funkcji w trakcie pełnoekranowych rozmów audio i wideo</string>
     <string name="gd_setting_dock_title">Pasek boczny</string>
     <string name="gd_setting_dock_video_summary">Użyj efektów takich jak Dolby Atmos podczas oglądania filmów</string>
+    <string name="gd_setting_group_custom_beauty_new">Zarządzaj Upiększaniem w rozmowach wideo</string>
     <string name="gd_setting_group_custom_gtb_apps_new">Zarządzaj grami</string>
     <string name="gd_setting_title">Pasek boczny</string>
     <string name="gd_sidebar_long_press_tips">Przytrzymaj pasek, aby go przesunąć, gdy używasz urządzenia pionowo</string>
@@ -874,7 +874,7 @@ Przytrzymaj pasek, aby przesuwać okno."</string>
     <string name="kilobyteShort">" KB"</string>
     <string name="kilobyte_per_second">" kB/s"</string>
     <string name="label_callwait">Połączenia oczekujące</string>
-    <string name="loading_text_format" formatted="false">Sprawdzanie, czy zdjęcia zawierają prywatne dane (%d/%d)…</string>
+    <string formatted="false" name="loading_text_format">Sprawdzanie, czy zdjęcia zawierają prywatne dane (%d/%d)…</string>
     <string name="location">Lokalizacja</string>
     <string name="lock_mode_title">Opcje blokady</string>
     <string name="lock_screen_password_type">Blokada ekranu</string>
@@ -981,6 +981,8 @@ Przytrzymaj pasek, aby przesuwać okno."</string>
     <string name="no_privacy_permission">Nie wymaga zgody na warunki Polityki prywatności</string>
     <string name="not_support_root_summary">Zezwalanie na dostęp do roota aplikacjom firm trzecich może narazić Twoje urządzenie na zagrożenia bezpieczeństwa i je uszkodzić. Z tego powodu system nie dostarcza już możliwości zarządzania uprawnieniami dostępu do roota.</string>
     <string name="not_support_root_title">Dostęp do roota</string>
+    <string name="notification_abnormal_consume_high_drain_app_title">%s drenuje baterię</string>
+    <string name="notification_abnormal_consume_high_drain_subtitle">Wysokie zużycie baterii w tle</string>
     <string name="notification_enter_power_save_mode_subtitle">Wyłącz, gdy urządzenie jest naładowane w co najmniej %s</string>
     <string name="notification_enter_power_save_mode_title">Włączono Oszczędzanie baterii</string>
     <string name="notification_exit_power_save_mode">Wyłączono Ultraoszczędzanie baterii</string>
@@ -1025,6 +1027,7 @@ Przytrzymaj pasek, aby przesuwać okno."</string>
     <string name="overlay_read_clip_toast">\"%1$s\" uzyskał dostęp do schowka</string>
     <string name="password_or_finger_unlock">Odblokuj hasłem lub odciskiem palca</string>
     <string name="pb_abnormal_header_time">Czas</string>
+    <string name="pb_abnormal_idle_high_temp">Przegrzanie podczas bezczynności</string>
     <string name="pb_activity_title">Szczegóły powerbanku</string>
     <string name="pb_data_fetch_all_error">Nie udało się odczytać danych. Powerbank może być rozłączony lub nieobsługiwany.</string>
     <string name="pb_data_fetch_all_error_new">Nie udało się odczytać danych. Powerbank może być rozłączony lub nieobsługiwany. Jeśli go odłączono, podłącz ponownie kabel i spróbuj ponownie.</string>
@@ -1124,9 +1127,15 @@ Ultraoszczędzania baterii"</string>
     <string name="permisison_usage_now_camera">Ta aplikacja używa teraz aparatu</string>
     <string name="permisison_usage_now_location">Ta aplikacja uzyskuje teraz lokalizację</string>
     <string name="permisison_usage_now_mic">Ta aplikacja używa teraz mikrofonu</string>
+    <string name="permission_action_allow_for_compatibility">Tylko sieć lokalna</string>
     <string name="permission_action_virtual_phone_summary">"Nadaj aplikacjom odpowiednie uprawnienia, ale nie zezwól im na dostęp do numeru telefonu z karty SIM"</string>
+    <string name="permission_allow_for_compatibility_note">Umożliwia aplikacji komunikację tylko z urządzeniami w tej samej sieci lokalnej. Bluetooth i inne metody łączności nie są obsługiwane.</string>
     <string name="permission_changed_retry">Zmieniono uprawnienia. Uruchom ponownie aplikacje.</string>
     <string name="permission_close_permission_control_dialog_msg">Kiedy \"Zarządzanie uprawnieniami\" jest wyłączone, aplikacje nie będą prosić o pozwolenie na czytanie kontaktów, wyświetlanie historii połączeń, zmianę ustawień systemowych, dostęp do aparatu czy innych zasobów systemowych.</string>
+    <string name="permission_compatibility_dialog_message">Ta aplikacja została zaprojektowana dla starszej wersji Androida. Odmowa uprawnień może spowodować, że nie będzie ona działać zgodnie z przeznaczeniem.</string>
+    <string name="permission_compatibility_dialog_negative_btn">Anuluj</string>
+    <string name="permission_compatibility_dialog_positive_btn">Odmów</string>
+    <string name="permission_compatibility_dialog_title">Ta aplikacja może nie działać poprawnie</string>
     <string name="permission_exception_title">Ograniczenia łączności dla aplikacji</string>
     <string name="permission_instruction_background_start">To uprawnienie zezwala aplikacjom na wyświetlanie okien pop-up bez Twojego potwierdzenia. Mogą one zasłaniać cały ekran i wpłynąć w ten sposób na normalne korzystanie z urządzenia.</string>
     <string name="permission_instruction_device_admin">To uprawnienie zezwala aplikacjom na kontrolowanie Twojego urządzenia, przez co rozumie się takie operacje, jak np. czyszczenie danych, odblokowywanie urządzenia czy zmiana haseł. Jest to uprawnienie wysokiego ryzyka - nadawaj je ze szczególną rozwagą.</string>
@@ -1324,7 +1333,7 @@ Ultraoszczędzania baterii"</string>
     <string name="pp_agent_app_ctl_manager_desc">Zarządzaj tym, jakie aplikacje może kontrolować %s</string>
     <string name="pp_agent_app_ctl_title">Zezwól %s na kontrolowanie tych aplikacji</string>
     <string name="pp_agent_request_screen_ctl_app_title">Włącz Inteligentną kontrolę SI dla %s</string>
-    <string name="pp_agent_request_screen_ctl_app_title_msg" formatted="false">Gdy ta funkcja jest włączona, %1s może Ci pomóc kontrolować %2s.</string>
+    <string formatted="false" name="pp_agent_request_screen_ctl_app_title_msg">Gdy ta funkcja jest włączona, %1s może Ci pomóc kontrolować %2s.</string>
     <string name="pp_agent_request_screen_ctl_title">Włącz Inteligentną kontrolę SI</string>
     <string name="pp_agent_request_screen_info_app_title">Włącz rozpoznawanie ekranu SI dla %s</string>
     <string name="pp_agent_request_screen_info_app_title_msg">Gdy ta funkcja jest włączona, %1$s może uzyskać dostęp do zawartości ekranu z %2$s</string>
@@ -1336,7 +1345,7 @@ Ultraoszczędzania baterii"</string>
     <string name="pp_agent_screen_ctl_app_disable">%2$s nie może teraz kontrolować %1$s.</string>
     <string name="pp_agent_screen_ctl_desc">Gdy ta funkcja jest włączona, %s może pomóc Ci kontrolować aplikacje na tym urządzeniu.</string>
     <string name="pp_agent_screen_info">Rozpoznawanie ekranu SI</string>
-    <string name="pp_agent_screen_info_app_disable" formatted="false">%2s nie może teraz rozpoznać zawartości ekranu %1s</string>
+    <string formatted="false" name="pp_agent_screen_info_app_disable">%2s nie może teraz rozpoznać zawartości ekranu %1s</string>
     <string name="pp_agent_screen_info_desc">Gdy ta funkcja jest włączona, %s może rozpoznawać i uzyskiwać dostęp do tego, co jest pokazywane na Twoim ekranie, w czasie rzeczywistym.</string>
     <string name="pp_agent_screen_info_manager">Zarządzaj Rozpoznawaniem ekranu SI</string>
     <string name="pp_agent_screen_info_manager_desc">Zarządzaj tym, dla jakich aplikacji %s może rozpoznawać zawartość ekranu</string>
@@ -1923,6 +1932,8 @@ Wycofać zgodę?"</string>
     <string name="title_result_twinkle">Redukcja migotania</string>
     <string name="title_result_typeface">Rozmiar tekstu i grubość czcionki</string>
     <string name="title_result_zen_mode">Nie przeszkadzać</string>
+    <string name="title_risky_app_scan_no">Wykrywanie groźnych aplikacji jest wyłączone</string>
+    <string name="title_risky_app_scan_yes">Wykrywanie groźnych aplikacji jest włączone</string>
     <string name="toast_cinema_mode">Automatycznie dostosowano ustawienia wyświetlania i dźwięku dla lepszych wrażeń</string>
     <string name="toast_root_apply_accept">Uprawnienia roota udzielono dla %s</string>
     <string name="toast_root_apply_reject">Wyłączono uprawnienia roota dla %s</string>

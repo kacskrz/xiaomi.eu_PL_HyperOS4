@@ -100,6 +100,7 @@ d.MM"</string>
     <string formatted="false" name="phone_locked_forget_reset_password_method_content"><Data>Ostatnio zmieniono blokadę ekranu. Możesz zresetować ją ponownie, weryfikując zarówno Twój odcisk palca, jak i blokadę ekranu zmienioną w ciągu ostatnich &lt;xliff:g id=hours refersto=96>%d&lt;/xliff:g> godzin. Masz maksymalnie &lt;font color=#d42908>&lt;xliff:g id=attempts refersto=5>%d&lt;/xliff:g>&lt;/font> prób. Po ich wyczerpaniu nie będziesz w stanie zresetować blokady ekranu.</Data></string>
     <string name="phone_locked_forget_reset_password_verify_identity">Zweryfikuj tożsamość</string>
     <string name="qs_open_night_mode_alert_summary">"Niektóre ustawienia wyświetlania nie są kompatybilne z Ciemnym motywem. Zostaną one przywrócone po jego wyłączeniu."</string>
+    <string name="quick_settings_aspect_ratio_switch_label">Proporcje</string>
     <string name="quick_settings_eye_comfort_mode_label">Tryb komfortu oczu</string>
     <string name="quick_settings_eye_comfort_state_change_message_off">Wyłączono Tryb komfortu oczu</string>
     <string name="quick_settings_eye_comfort_state_change_message_on">Włączono Tryb komfortu oczu</string>

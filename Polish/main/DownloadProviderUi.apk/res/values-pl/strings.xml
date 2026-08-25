@@ -12,6 +12,7 @@
     <string name="browser_m3u8_to_mp4_convert_error">Nie można przekonwertować. Spróbuj ponownie.</string>
     <string name="browser_m3u8_to_mp4_enter_title">Konwertuj M3U8 na MP4</string>
     <string name="browser_more_delete_convert_mp4">Usuń</string>
+    <string name="browser_more_rename_null">Nazwa nie może być pusta</string>
     <string name="browser_mp4_convert_success">Pomyślnie przekonwertowano. Wyświetl w Profilu > Wideo. &lt;font color=#0D84FF>Dotknij, aby wyświetlić&lt;/font></string>
     <string name="browser_private_space_enter">Przeciągnij w dół, aby otworzyć Prywatną przestrzeń</string>
     <string name="browser_private_space_guide_dialog_content">Możesz przeciągnąć w dół na stronie Pobrań, aby wyświetlić elementy ustawione jako prywatne.</string>
@@ -20,6 +21,10 @@
     <string name="browser_private_space_guide_dialog_yes">Rozumiem</string>
     <string name="browser_private_space_set">Ustaw jako prywatne</string>
     <string name="browser_private_space_set_success_toast">Pomyślnie ustawiono. Przeciągnij w dół w \"Pobraniach\", aby wyświetlić.</string>
+    <string name="browser_private_space_show_task_toggle">Wyświetl prywatne pliki tylko po pobraniu</string>
+    <string name="browser_private_space_task_title">Plik prywatny</string>
+    <string name="browser_private_task_open_dialog_content">Ten plik można wyświetlić tylko w Prywatnej przestrzeni.</string>
+    <string name="browser_private_task_open_dialog_yes">Wyświetl</string>
     <string name="browser_share_m3u8_diloag_content">Aktualny format pliku to M3U8. Przekonwertować go na MP4 przed udostępnieniem?</string>
     <string name="browser_share_m3u8_diloag_no">Udostępnij</string>
     <string name="bt_download">Pobierz</string>
@@ -36,15 +41,22 @@
     <string name="dialog_privacy_update_button1">Anuluj</string>
     <string name="dialog_privacy_update_button2">Zgadzam się</string>
     <string name="dialog_privacy_update_title">Zaktualizowano Politykę prywatności</string>
+    <string name="dialog_private_task_dele_checkbox_message">Usuń z urządzenia i &lt;font color=#FA382E>Prywatnej przestrzeni&lt;/font></string>
     <string name="dialog_user_know_button1">Wyjdź</string>
     <string name="dialog_user_know_button2">Zgadzam się</string>
     <string name="dialog_user_know_content"><Data>"Nie możesz korzystać z tej funkcji, dopóki nie wyrazisz zgody na nowe warunki &lt;a href=\"%1$s\">Polityki prywatności&lt;/a>. Zrobić to teraz?"</Data></string>
     <string name="dialog_user_know_title">Uwaga</string>
+    <string name="dowload_error_tip_net">Błąd sieci. %s</string>
+    <string name="dowload_error_tip_net_click">Sprawdź sieć</string>
+    <string name="dowload_error_tip_storage">Brak miejsca. %s</string>
+    <string name="dowload_error_tip_storage_click">Wyczyść</string>
     <string name="download">Pobrania</string>
     <string name="downloadCount">Pobrania</string>
     <string name="download_description_content">"Pobrania to aplikacja systemowa. Po usunięciu jej skrótu nie będziesz w stanie zarządzać pobranymi plikami."</string>
     <string name="download_description_title">Usunąć \"Pobrania\" z Ekranu głównego?</string>
     <string name="download_detail">Szczegóły</string>
+    <string name="download_detail_engine_tip_android">Silnik Androida</string>
+    <string name="download_detail_engine_title">Silnik pobierania</string>
     <string name="download_icp">Numer ICP: 粤B2-20050219-23A</string>
     <string name="download_list_intoAuthAlert">Chwileczkę…</string>
     <string name="download_list_open_xl_message">Akcelerator Xunlei przyspieszy pobieranie plików.</string>
@@ -52,6 +64,7 @@
     <string name="download_list_title_browser">Pobrania</string>
     <string name="download_no_application_title">Nie można otworzyć pliku</string>
     <string name="download_pending">Trwające pobieranie</string>
+    <string name="download_use_engine_tip">Domyślny silnik pobierania</string>
     <string name="download_waiting">Trwa</string>
     <string name="downloading">Pobieranie…</string>
     <string name="edit_hint2">Wprowadź link HTTP, FTP, magnet lub ed2k</string>
@@ -112,6 +125,8 @@
     <string name="save_path">"Zapisz w: "</string>
     <string name="search_home_vif_show_more">Więcej</string>
     <string name="select_sub_file_download">Wybierz plik do pobrania</string>
+    <string name="setting_double_engine_summary">Przełącz się na domyślny silnik pobierania, gdy Xunlei nie może pobrać plików</string>
+    <string name="setting_double_engine_title">Automatycznie zmień silnik pobierania</string>
     <string name="size">Rozmiar</string>
     <string name="sniff_shortcut_cloudconfig_btn">OK</string>
     <string name="sniff_shortcut_create">Utworzono skrót</string>

@@ -32,6 +32,7 @@
     <string name="add_broadsize_fingerprint_instruction_msg">Czytnik znajduje się na prawej krawędzi urządzenia</string>
     <string name="add_fingerprint_instruction_msg">Dotknij czytnika linii papilarnych w przycisku pod ekranem.</string>
     <string name="add_fingerprint_put_finger_msg">Umieść palec na czytniku, a następnie go podnieś, i powtarzaj ten proces.</string>
+    <string name="advanced_screen_paper_mode_title_eye_comfort">Komfort oczu</string>
     <string name="after_sale_service">Usługi posprzedażowe</string>
     <string name="airpods_auto_connect_help">Poradnik automatycznego łączenia</string>
     <string name="airpods_auto_connect_help_step_one">%1$s. Połącz swoje AirPodsy z urządzeniem Apple</string>
@@ -52,7 +53,7 @@
     <string name="anc_intelligent">Inteligentna redukcja szumów</string>
     <string name="aod_style_description">Dostosuj styl trybu Ekran zawsze włączony</string>
     <string name="aon_gesture_dialog_message">"Gdy ta funkcja jest włączona, urządzenie będzie wykrywać i analizować Twoje gesty. Dane osobowe nie będą przetwarzane w żadnym stopniu (zarówno lokalnie, jak i w chmurze)."</string>
-    <string name="aon_gesture_up_waving_diagram_summary" formatted="false">Upewnij się, że znajdujesz się w dobrze oświetlonym miejscu, a następnie trzymaj rękę w odległości %d–%d cm przed aparatem, z dłonią skierowaną w górę lub w dół. Gdy rozpoznanie się powiedzie, machnij ręką, aby przesunąć. Aby kontynuować przesuwanie, machaj ręką. Aby zmienić kierunek przesuwania, rusz ręką w drugą stronę i zatrzymaj się na chwilę. Po jej rozpoznaniu machnij ponownie.</string>
+    <string formatted="false" name="aon_gesture_up_waving_diagram_summary">Upewnij się, że znajdujesz się w dobrze oświetlonym miejscu, a następnie trzymaj rękę w odległości %d–%d cm przed aparatem, z dłonią skierowaną w górę lub w dół. Gdy rozpoznanie się powiedzie, machnij ręką, aby przesunąć. Aby kontynuować przesuwanie, machaj ręką. Aby zmienić kierunek przesuwania, rusz ręką w drugą stronę i zatrzymaj się na chwilę. Po jej rozpoznaniu machnij ponownie.</string>
     <string name="aon_gesture_up_waving_diagram_title">Machnij przed ekranem, aby przesunąć</string>
     <string name="aon_scanner_dialog_message">Gdy włączysz Szybki skaner, skanowane przez Ciebie kody QR będą udostępniane aplikacji Skaner. Zanim przejdziesz dalej, będzie trzeba wyrazić na to zgodę. Skanowane kody nie będą przechowywane ani lokalnie, ani w chmurze. Funkcja może nieznacznie zwiększyć zużycie energii.</string>
     <string name="aon_scanner_dialog_message_new">Gdy używasz Szybkiego skanera, skanowane przez Ciebie kody QR będą udostępniane aplikacji Skaner. Ta informacja nie będzie przechowywana na telefonie ani przesyłana do chmury. Włączenie tej funkcji nieznacznie zwiększy zużycie energii.</string>
@@ -715,6 +716,7 @@ Ustawienia > Bezpieczeństwo i tryb alarmowy > Alerty o zagrożeniu"</string>
     <string name="sensors_hal_log_summary">Użyj logów dla warstwy abstrakcji sensorów (Sensors HAL)</string>
     <string name="sensors_hal_log_title">Logi HAL sensorów</string>
     <string name="set_new_password_hint">Wprowadź nową blokadę ekranu i ją zapamiętaj</string>
+    <string name="set_new_password_hint_new">Wprowadź swoją nową blokadę ekranu i ją zapamiętaj</string>
     <string name="setting_location_title">Lokalizacja</string>
     <string name="setting_privacy_title">Wskaźnik prywatności</string>
     <string name="setting_volume_title">Tryb cichy</string>
@@ -861,6 +863,7 @@ lub posiadających złącze mini-jack (3,5 mm)."</string>
     <string name="wifi_ap_band_config">Pasmo AP</string>
     <string name="wifi_ap_hidden_ssid">Ukrycie SSID</string>
     <string name="wifi_assistant">Utrzymuj połączenie</string>
+    <string name="wifi_assistant_confirm_connection_title_poor">Słabe połączenie z Wi-Fi</string>
     <string name="wifi_assistant_keep_connection">Utrzymuj połączenie</string>
     <string name="wifi_generation">Użyj ikon generacji Wi-Fi</string>
     <string name="wifi_reconnect_failed_text_china">Twoje hasło do Wi-Fi jest nieprawidłowe. Wprowadź je ponownie.</string>
@@ -871,6 +874,16 @@ lub posiadających złącze mini-jack (3,5 mm)."</string>
     <string name="wifi_share_qr_code_description">Kod QR</string>
     <string name="wlan_switch_tips_message">W trakcie przełączania się między dodatkową i główną siecią Wi-Fi urządzenie tymczasowo rozłączy się z dodatkową siecią. Przełączyć?</string>
     <string name="work_profile_sound_category_title">Dźwięk profilu służbowego</string>
+    <string name="xiaomi_confirm_enable_16k_erase_checkbox_text">Rozumiem ryzyko i akceptuję potencjalne konsekwencje</string>
+    <string name="xiaomi_confirm_enable_16k_pages_text">W tym trybie nie można zagwarantować integralności oprogramowania. Urządzenie zostanie zrestartowane.</string>
+    <string name="xiaomi_confirm_enable_16k_pages_update_wipe">Opcja \"Uruchom z rozmiarem strony 16 KB\" jest bardzo wrażliwa i przeznaczona wyłącznie do testowania deweloperskiego. Włączenie jej spowoduje skasowanie wszystkich danych na urządzeniu, w tym zdjęć, filmów, dokumentów i wszystkich danych aplikacji. Integralność oprogramowania nie będzie zagwarantowana. W tym trybie niektóre funkcje będą niedostępne, a niektóre aplikacje mogą nie działać poprawnie."</string>
+    <string name="xiaomi_confirm_enable_4k_pages_text">Urządzenie zostanie zrestartowane.</string>
+    <string name="xiaomi_confirm_reboot_button_text">Zrestartuj</string>
+    <string name="xiaomi_confirm_reboot_title_text">Wykryto zagrożenie</string>
+    <string name="xiaomi_page_agnostic_16k_pages_text">Twoje urządzenie używa rozmiaru strony 16 KB z systemem plików ext4. Aby przywrócić system plików F2FS, należy przełączyć się z powrotem na rozmiar strony 4 KB i wykonać reset do ustawień fabrycznych.</string>
+    <string name="xiaomi_page_agnostic_16k_pages_title">Używanie rozmiaru strony 16 KB</string>
+    <string name="xiaomi_page_agnostic_4k_pages_text">Twoje urządzenie używa rozmiaru strony 4 KB z systemem plików ext4. Aby przywrócić system plików F2FS, wykonaj reset do ustawień fabrycznych.</string>
+    <string name="xiaomi_page_agnostic_4k_pages_title">Używanie rozmiaru strony 4 KB</string>
     <string name="zen_mode_summary2_default">Nie będzie przypomnień dot. przychodzących połączeń i powiadomień</string>
     <string name="zen_mode_summary2_tablet">Nie będzie przypomnień dot. powiadomień</string>
 </resources>
