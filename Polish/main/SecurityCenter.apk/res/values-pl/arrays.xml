@@ -17,6 +17,16 @@
         <item>Xiaomi HyperIsland</item>
         <item>Wibracja</item>
     </string-array>
+    <string-array name="peep_protection_v2_notify_types">
+        <item>Xiaomi HyperIsland</item>
+        <item>Wibracja</item>
+        <item>Wył.</item>
+    </string-array>
+    <string-array name="peep_protection_v2_notify_types_v2">
+        <item>Xiaomi HyperIsland</item>
+        <item>Wibracja</item>
+        <item>Wył.</item>
+    </string-array>
     <string-array name="app_behavior_type_menu">
         <item>Wszystko</item>
         <item>Autostart</item>

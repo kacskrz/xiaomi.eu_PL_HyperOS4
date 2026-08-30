@@ -16,6 +16,7 @@
     <string name="aquire_device_info">Dostęp do informacji o urządzeniu</string>
     <string name="authority_introduction">Menedżer uprawnień to podstawowa usługa, umożliwiająca zarządzanie uprawnieniami aplikacji na tym urządzeniu.</string>
     <string name="calendar_storage">Pamięć kalendarza</string>
+    <string name="camera_mind_introduction">Silnik poprawy obrazowania to usługa systemowa, która zarządza zasobami systemu i polepsza jakość obrazu w funkcjach takich jak wykonywanie zdjęć, nagrywanie filmów czy skanowanie kodów.</string>
     <string name="carousel_cookies_content"><Data>Gdy dotkniesz obrazów i historii w Tapetach Blokady, ich pełne wersje zostaną otwarte w Twojej przeglądarce. Zaufany dostawca treści Xiaomi może na tej podstawie rekomendować dodatkową zawartość dopasowaną do Twoich zainteresowań. Jeśli aktywujesz tę funkcję, będzie on umieszczać pliki cookie w Twojej przeglądarce zgodnie z  &lt;a href=\"%1$s\">Polityką plików cookie&lt;/a>. Jeśli nie zgadzasz się na ciasteczka, Tapety Blokady nadal będą działać, lecz ich treść i rekomendacje mogą nie być dopasowane do Ciebie. Możesz zmienić swoje preferencje w Ustawieniach.</Data></string>
     <string name="carousel_privacy"><Data>"Przed skorzystaniem z Tapet Blokady przeczytaj i zaakceptuj warunki &lt;a href=\"%1$s\">Polityki prywatności&lt;/a> i &lt;a href=\"%2$s\">Umowy użytkownika&lt;/a> firmy trzeciej - zaufanego dostawcy usługi Xiaomi."</Data></string>
     <string name="carousel_setting_sub">Tapety Blokady będą wyświetlać Ci świeże historie po każdym odblokowaniu urządzenia</string>
@@ -125,6 +126,7 @@
     <string name="navigation_picker_gesture_guide">Gesty</string>
     <string name="navigation_picker_radio_text_full_screen">Gesty</string>
     <string name="navigation_type_full_screen">Gesty</string>
+    <string name="operator_terms_statement_title">Stanowisko dot. usług</string>
     <string name="other_settings">Inne ustawienia</string>
     <string name="other_settings_ad_dialog_content">"W Xiaomi.eu ta opcja nie ma znaczenia, więc... jak chcesz."</string>
     <string name="other_settings_ad_dialog_content_for_global">"Personalizowane reklamy (jak i reklamy w ogóle) nie są wyświetlane w tym ROM-ie. Funkcja nie ma zastosowania."</string>
@@ -150,6 +152,8 @@
     <string name="permission_fast_pairing">Aby móc znajdować urządzenia w pobliżu, Mi Link musi połączyć się z Internetem i wymaga następujących uprawnień:</string>
     <string name="permission_get_imei_information_summary">W celu identyfikowania czasu aktywacji urządzenia</string>
     <string name="permission_mi_account">Dostęp do numeru telefonu z tego urządzenia</string>
+    <string name="permission_multi_user_state">Dostęp do statusu wielu użytkowników urządzenia</string>
+    <string name="permission_multi_user_state_camera_mind_summary">W celu odpowiedniego alokowania zasobów systemu w przypadkach z wieloma użytkownikami, takich jak Druga przestrzeń</string>
     <string name="permission_not_agree_service_not_working">"Jesli nie przyznasz wymienionych wcześniej niezbędnych uprawnień, nie będzie można używać tej usługi."</string>
     <string name="permission_number">Dostęp do numeru telefonu</string>
     <string name="permission_number_introduction">W celu ustanawiania połączenia Bluetooth z systemami aut i słuchawkami Bluetooth</string>
@@ -158,6 +162,7 @@
     <string name="permission_read_apps_introduction">W celu przygotowania statystyk dostępu do sieci i zużycia danych</string>
     <string name="permission_read_contacts_introduction">W celu weryfikacji tożsamości</string>
     <string name="permission_read_message_introduction">W celu weryfikacji własności urządzenia</string>
+    <string name="permission_read_write_device_store_camera_mind_summary">W celu przechowywania zdjęć i filmów po poprawie jakości zdjęcia lub przetwarzaniu w inny sposób</string>
     <string name="permission_reminder_mode_summary_settings">W celu wybrania typów przypomnień dot. przychodzących połączeń</string>
     <string name="permission_sms_verification_code_login">W celu dostarczania weryfikacji SMS do szybkiego logowania się</string>
     <string name="permission_uniquely_identifiable_information">Dostęp do unikalnych identyfikatorów urządzenia</string>
@@ -173,6 +178,15 @@
     <string name="privacy_policy">Polityka prywatności</string>
     <string name="prompt_fingerprint">Na Twoim koncie jest włączona zaawansowana ochrona danych. Ustaw blokadę ekranu na Twoim urządzeniu.</string>
     <string name="provide_date_management_service">Ta usługa umożliwia sprawdzenie daty i zarządzanie wydarzeniami.</string>
+    <string name="provision_accessibility_talkback_summary">Usłysz treść na ekranie czytaną na głos z czytnikiem ekranowym. Stworzone dla osób z zaburzeniem wzroku.</string>
+    <string name="provision_talkback_dialog_allow">Zezwól</string>
+    <string name="provision_talkback_dialog_deny">Odmów</string>
+    <string name="provision_talkback_dialog_description">Pełna kontrola jest odpowiednia dla aplikacji, które pomagają Ci w ramach ułatwień dostępu, ale nie dla większości aplikacji.</string>
+    <string name="provision_talkback_dialog_item_control_description">Może odczytywać całą zawartość ekranu i wyświetlać treść nad innymi aplikacjami.</string>
+    <string name="provision_talkback_dialog_item_control_title">Wyświetlanie i kontrola ekranu</string>
+    <string name="provision_talkback_dialog_item_perform_description">Może śledzić Twoje interakcje z aplikacją lub sensorem sprzętowym i wykonywać interakcje z aplikacją w Twoim imieniu.</string>
+    <string name="provision_talkback_dialog_item_perform_title">Wyświetlanie i wykonywanie akcji</string>
+    <string name="provision_talkback_dialog_title">Usługa będzie wykonywać te czynności:</string>
     <string name="qualcomm_introduction">com.qualcomm.qti.workloadclassifier to usługa zarządzająca procesami systemu.</string>
     <string name="read_application_info">Dostęp do informacji o aplikacji</string>
     <string name="read_sms_and_mms">Dostęp do SMS-ów i MMS-ów</string>
@@ -185,6 +199,7 @@
     <string name="safe_open_service_introduction">Bezpieczne otwarte usługi pomagają deweloperom i dostarczają systemowe zabezpieczenia pod kątem bezpieczeństwa, aby chronić użytkowników i ich prywatność.</string>
     <string name="service_name_MIUIDaemon">Systemowy daemon</string>
     <string name="service_name_authority">Menedżer uprawnień</string>
+    <string name="service_name_camera_mind">Silnik poprawy obrazowania</string>
     <string name="service_name_lockscreen">Tapety Blokady</string>
     <string name="service_name_message">Aplikacja SMS</string>
     <string name="service_name_phone_service">Telefonia</string>

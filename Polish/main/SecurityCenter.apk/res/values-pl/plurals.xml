@@ -5,6 +5,10 @@
         <item quantity="few">Dodano %d gry</item>
         <item quantity="one">Dodano %d grę</item>
     </plurals>
+    <plurals name="anti_peeping_recommend_selected_tips">
+        <item quantity="other">Szybko włącz prywatny wyświetlacz dla %1$d aplikacji</item>
+        <item quantity="one">Szybko włącz prywatny wyświetlacz dla %1$d aplikacji</item>
+    </plurals>
     <plurals name="app_behavior_desc_duration_usage">
         <item quantity="other">Zezwolono %3$d razy między %1$s a %2$s</item>
         <item quantity="one">Zezwolono %3$d raz między %1$s a %2$s</item>
@@ -159,6 +163,14 @@
         <item quantity="few">Słaba bateria. Urządzenie przejdzie w Tryb hibernacji za %1$d sekundy. Wydajność i siła sygnału mogą być nieco słabsze.</item>
         <item quantity="one">Słaba bateria. Urządzenie przejdzie w Tryb hibernacji za %1$d sekundę. Wydajność i siła sygnału mogą być nieco słabsze.</item>
     </plurals>
+    <plurals name="pc_battery_text_hour">
+        <item quantity="other">%d godz.</item>
+        <item quantity="one">%d godz.</item>
+    </plurals>
+    <plurals name="pc_battery_text_minute">
+        <item quantity="other">%d min</item>
+        <item quantity="one">%d min</item>
+    </plurals>
     <plurals name="pc_main_power_center_battery_day">
         <item quantity="other">"%s dni, "</item>
         <item quantity="one">"%s dzień, "</item>
@@ -175,6 +187,11 @@
     <plurals name="pc_smart_charge_notify_summary_long_time_charge">
         <item quantity="other">W ciągu ostatnich %1$d dni sesje ładowania trwały długo. Ładowanie zatrzyma się na %2$s.</item>
         <item quantity="one">W ciągu ostatniego dnia sesje ładowania trwały długo. Ładowanie zatrzyma się na %2$s.</item>
+    </plurals>
+    <plurals name="peep_protection_v2_page_count">
+        <item quantity="other">%d strony</item>
+        <item quantity="few">%d stron</item>
+        <item quantity="one">%d strona</item>
     </plurals>
     <plurals name="permission_usage_allow_activity_recognization">
         <item quantity="other">%1$s | Aplikacja uzyskiwała dane o Twoich ćwiczeniach %2$d razy</item>

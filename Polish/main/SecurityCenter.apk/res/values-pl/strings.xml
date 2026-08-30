@@ -75,7 +75,7 @@ Możesz wybrać aplikacje, które mają być chronione. Funkcja \"Wykryj obecno�
     <string name="anti_peeping_recommend_tips">%s użytkowników wybrało te aplikacje</string>
     <string name="anti_peeping_recommend_title">Zalecane aplikacje</string>
     <string name="anti_peeping_search_key">Wykryj obecność innych osób</string>
-    <string name="anti_peeping_search_keywords">Wykryj obecność innych osób;podglądanie;ochrona przed podglądaniem;zerkanie;ochrona prywatności;prywatny ekran</string>
+    <string name="anti_peeping_search_keywords">Wykryj obecność innych osób;spojrzenie innej osoby;prywatność ekranu;prywatny wyświetlacz;Prywatny ekran</string>
     <string name="anti_peeping_splash_confirm">Dalej</string>
     <string name="anti_peeping_splash_custom_des">Ta funkcja zostanie włączona, gdy wybrane przez Ciebie aplikacje będą wyświetlane na pełnym ekranie</string>
     <string name="anti_peeping_splash_custom_title">Wybierz, które aplikacje chronić</string>
@@ -363,6 +363,8 @@ Jeśli jej jeszcze nie ustawiono, postępuj zgodnie z instrukcjami, aby to zrobi
     <string name="boot_time_day_tomorrow">Włączenie urządzenia: %1$s</string>
     <string name="btn_text_optimize_extend_battery_time">Wydłuż o %s</string>
     <string name="btn_text_quick_save_power">Wykonaj</string>
+    <string name="bubble_pickup_voice_print_auto_v2">Rejestrowanie próbki głosu i danych twarzy…</string>
+    <string name="bubble_pickup_voice_print_success_v2">Zarejestrowano próbkę głosu i dane twarzy</string>
     <string name="byteShort">" B"</string>
     <string name="camera">Aparat</string>
     <string name="car_sickness_relief_comment_text_driver_mode_support">"Po obu stronach ekranu będą wyświetlane kropki, które pokazują ruch pojazdu. Może to pomóc zmniejszyć objawy choroby lokomocyjnej.
@@ -415,7 +417,10 @@ Możesz włączyć i wyłączyć tę funkcję w Centrum funkcji."</string>
     <string name="cs_pickup_private">Prywatna</string>
     <string name="cs_pickup_standard">Standardowa</string>
     <string name="cs_pickup_vioce_print_in_private_tips">Aby ustawić redukcję szumów na Prywatną, nagraj próbkę swojego głosu.</string>
+    <string name="cs_pickup_vioce_print_in_private_tips_v2">Aby ustawić redukcję szumów na Prywatną, zarejestruj próbkę swojego głosu i dane twarzy.</string>
+    <string name="cs_pickup_vioce_print_private_dialog_title_v2">Zarejestruj próbkę głosu i dane twarzy</string>
     <string name="cs_pickup_vioce_print_unsupport_tips">Nagraj próbkę głosu przed wybraniem opcji \"Jeden uczestnik\"</string>
+    <string name="cs_pickup_voice_print_auto_dialog_title_v2">Próbka głosu i dane twarzy wymagane do Spersonalizowanej redukcji szumów</string>
     <string name="cs_simultaneous_interpretation_title_2">Tłumacz</string>
     <string name="cs_tool_box_max_screen_guide_case_1_new">Wypróbuj tłumaczenie na żywo, upiększanie i inne narzędzia telekonferencji w nowym Pasku narzędzi połączeń</string>
     <string name="cs_tool_box_max_screen_guide_case_1_new_v2">Wypróbuj Tłumacza, Upiększanie i więcej w nowych Narzędziach połączeń</string>
@@ -637,6 +642,8 @@ Gdy włączony jest Inteligentny klatkaż, narzędzia wykrywające klatkaż (w g
     <string name="gamebooster_network_dialog_message">Zezwolić Panelowi sterowania na połączenie z siecią w celu użycia wszystkich funkcji Game Turbo?</string>
     <string name="gamebox_ai_accelerate">Przyspieszenie danych mobilnych z SI</string>
     <string name="gamebox_filter_alpha_tip">Przeźroczystość</string>
+    <string name="gamebox_func_start_gyroscope_international">Aby użyć tej funkcji, włącz żyroskop w ustawieniach gry</string>
+    <string name="gamebox_gyroscope_acceleration_international">Przyspieszenie żyroskopu</string>
     <string name="gamebox_macro">Kombosy</string>
     <string name="gamebox_net_optimize_description">Zmniejsz opóźnienia sieci Wi-Fi oraz ich zmienność. Aby cieszyć się specjalnymi trybami zwiększania prędkości, użyj routera Xiaomi lub Redmi.</string>
     <string name="gamebox_recent_task_expand_fail">Aplikacje, które działają ze skrótami, nie są zainstalowane</string>
@@ -682,6 +689,9 @@ Rejestruj sekwencje i używaj ich w dowolnym momencie!"</string>
     <string name="gb_launch_awareness_predownload">Włączono wstępne pobieranie</string>
     <string name="gb_launch_awareness_title">Włączone dla Ciebie</string>
     <string name="gb_launch_awareness_wild_mode">Włączono Wild mode</string>
+    <string name="gb_launch_mute_start">Cisza</string>
+    <string name="gb_launch_mute_start_enbaled_toast">Włączono tryb cichy. (click)Wyłącz(/click)</string>
+    <string name="gb_launch_mute_start_unmuted_toast">Przywrócono dźwięk</string>
     <string name="gb_perf_anti_mistouch_master_desc">Zredukuj przypadkowe dotykanie krawędzi ekranu podczas gry</string>
     <string name="gb_perf_anti_mistouch_master_title">Ochrona przed przypadkowymi dotknięciami</string>
     <string name="gb_perf_anti_mistouch_multi_finger_desc">Wyłącz systemowe gesty wieloma palcami podczas grania, aby uniknąć przypadkowych wywołań</string>
@@ -737,7 +747,10 @@ Rejestruj sekwencje i używaj ich w dowolnym momencie!"</string>
     <string name="gb_perf_gpu_render_title">Renderowanie wielowątkowe</string>
     <string name="gb_perf_gpu_resolution_default">Domyślna</string>
     <string name="gb_perf_gpu_resolution_desc">Domyślnie używana jest rozdzielczość gry. Niektóre gry nie wspierają tej opcji.</string>
-    <string name="gb_perf_gpu_resolution_smooth">Płynna</string>
+    <string name="gb_perf_gpu_resolution_high">Wysoka</string>
+    <string name="gb_perf_gpu_resolution_highest">Najwyższa</string>
+    <string name="gb_perf_gpu_resolution_smooth">Niska</string>
+    <string name="gb_perf_gpu_resolution_standard">Standardowa</string>
     <string name="gb_perf_gpu_resolution_title">Rozdzielczość</string>
     <string name="gb_perf_gpu_texture_desc">Wybierz tryb filtrowania, równoważąc jakość tekstur i wydajność</string>
     <string name="gb_perf_gpu_texture_title">Jakość filtrowania tekstur</string>
@@ -748,6 +761,9 @@ Rejestruj sekwencje i używaj ich w dowolnym momencie!"</string>
     <string name="gb_perf_launch_cooling_fan_guide_message">Przejdź do Ustawień > Chłodzenie i włącz scenariusz gry</string>
     <string name="gb_perf_launch_cooling_fan_guide_title">Uwaga</string>
     <string name="gb_perf_launch_cooling_fan_title">Chłodzenie</string>
+    <string name="gb_perf_launch_mute_start_desc">Dźwięk będzie automatycznie wyciszany przy starcie gry. Działa tylko z aktualną grą.</string>
+    <string name="gb_perf_launch_mute_start_title">Cisza</string>
+    <string name="gb_perf_margin_restrain_description">Dostosuj obszar niereagujący na dotyk, aby zredukować przypadkowe dotknięcia na krawędziach</string>
     <string name="gb_perf_mode_balanced">Tryb zbalansowany</string>
     <string name="gb_perf_mode_balanced_desc">Równowaga między wydajnością i zużyciem energii</string>
     <string name="gb_perf_mode_extreme">Tryb ekstremalny</string>
@@ -1001,6 +1017,9 @@ Przytrzymaj pasek, aby przesuwać okno."</string>
     <string name="notify_daily_limit_title_for_slotnum">Dziś wykorzystano %2$s danych (na %1$s)</string>
     <string name="notify_month_traffic_title_for_slotnum">W tym miesiącu wykorzystano %2$s danych (na %1$s)</string>
     <string name="notify_weekly_traffic_title_for_slotnum">W tym tygodniu wykorzystano %2$s danych (na %1$s)</string>
+    <string name="number_locked_v2">{count, plural, =0 {Zablokowano 0 aplikacji} one {Zablokowano # aplikację} few {Zablokowano # aplikacje} other {Zablokowano # aplikacji} }</string>
+    <string name="number_masked_v2">{count, plural, =0 {0 aplikacji} one {# aplikacja} few {# aplikacje} other {# aplikacji} }</string>
+    <string name="number_to_lock_v2">{count, plural, =0 {Nie zablokowano 0 aplikacji} one {Nie zablokowano # aplikacji} other {Nie zablokowano # aplikacji} }</string>
     <string name="offline_voice_input">Wprowadzanie głosowe offline</string>
     <string name="offline_voice_input_detail">"Aby korzystać z wprowadzania głosowego, nie będziesz potrzebować dostępu do Internetu."</string>
     <string name="om_lock_app_unlocked_app">Bez blokady</string>
@@ -1115,6 +1134,130 @@ Ultraoszczędzania baterii"</string>
     <string name="pc_this_time_charge_full_work">Prawie naładowane</string>
     <string name="pc_work_in_save_mode">Oszczędzanie baterii</string>
     <string name="pc_work_in_super_save_mode">Ultraoszczędzanie baterii</string>
+    <string name="peep_protection_ai_key_disabled">Prywatny wyświetlacz jest wyłączony</string>
+    <string name="peep_protection_ai_key_enabled">Prywatny wyświetlacz jest włączony</string>
+    <string name="peep_protection_v2_app_notification_protection">Powiadomienia</string>
+    <string name="peep_protection_v2_app_notification_protection_desc">Powiadomienia z wybranych aplikacji będą uaktywniać prywatny wyświetlacz</string>
+    <string name="peep_protection_v2_app_protection_desc">Włącz prywatny wyświetlacz w wybranych aplikacjach</string>
+    <string name="peep_protection_v2_banner_summary">Wypróbuj funkcje prywatności wyświetlacza ekskluzywne dla tego modelu</string>
+    <string name="peep_protection_v2_banner_title">Inteligentny prywatny wyświetlacz</string>
+    <string name="peep_protection_v2_batch_disable">Wyłącz</string>
+    <string name="peep_protection_v2_batch_enable">Włącz</string>
+    <string name="peep_protection_v2_category_capability">Możliwości funkcji</string>
+    <string name="peep_protection_v2_category_capability_v2">Wykrywanie spojrzeń</string>
+    <string name="peep_protection_v2_category_finance">Finanse</string>
+    <string name="peep_protection_v2_category_other">Inne</string>
+    <string name="peep_protection_v2_category_recommend">Zalecane</string>
+    <string name="peep_protection_v2_category_scene">Scenariusze</string>
+    <string name="peep_protection_v2_category_scene_v2">Ekran</string>
+    <string name="peep_protection_v2_category_smart">Inteligentne</string>
+    <string name="peep_protection_v2_category_social">Sieci społecznościowe</string>
+    <string name="peep_protection_v2_category_suggest">Zalecane</string>
+    <string name="peep_protection_v2_color_inversion_closed_msg">Ta funkcja nie działa z odwróceniem kolorów. Wyłączono Inteligentny prywatny wyświetlacz.</string>
+    <string name="peep_protection_v2_color_inversion_closed_reopen">Włącz</string>
+    <string name="peep_protection_v2_color_inversion_closed_title">Wyłączono Inteligentny prywatny wyświetlacz</string>
+    <string name="peep_protection_v2_color_inversion_conflict_msg">Ta funkcja nie działa z odwróceniem kolorów. Najpierw wyłącz odwrócenie kolorów.</string>
+    <string name="peep_protection_v2_color_inversion_conflict_title">Wyłącz odwrócenie kolorów</string>
+    <string name="peep_protection_v2_cue_byapp_reason">Włącz prywatność wyświetlacza w tej aplikacji</string>
+    <string name="peep_protection_v2_cue_byapp_title">Włącz prywatność wyświetlacza dla %s</string>
+    <string name="peep_protection_v2_cue_global_reason">Wypróbuj funkcje prywatności ekskluzywne dla tego modelu</string>
+    <string name="peep_protection_v2_cue_global_title">Włącz Inteligentny prywatny wyświetlacz</string>
+    <string name="peep_protection_v2_cue_summary">Ta funkcja jest dostępna tylko dla tego modelu</string>
+    <string name="peep_protection_v2_deep_mode">Rozszerzona prywatność</string>
+    <string name="peep_protection_v2_deep_mode_desc">Spraw, aby inne osoby nie mogły łatwo spoglądać na Twój ekran</string>
+    <string name="peep_protection_v2_face_need_input_hint">Wymagane dane twarzy</string>
+    <string name="peep_protection_v2_first_close_message">Dodaj Inteligentny prywatny wyświetlacz w Centrum funkcji > Edytuj > Przełączniki systemowe, aby go szybko włączać i wyłączać.</string>
+    <string name="peep_protection_v2_first_close_title">Szybko włączaj Inteligentny prywatny wyświetlacz</string>
+    <string name="peep_protection_v2_first_close_title_v2">Przełączniki</string>
+    <string name="peep_protection_v2_global_first_open_msg">Dodaj Prywatny wyświetlacz na całym urządzeniu w Centrum funkcji > Edytuj > Przełączniki systemowe, aby go szybko włączać i wyłączać.</string>
+    <string name="peep_protection_v2_global_first_open_title">Szybko włączaj Prywatny wyświetlacz na całym urządzeniu</string>
+    <string name="peep_protection_v2_global_hint">Gdy Prywatny wyświetlacz na całym urządzeniu jest włączony, nie można wykrywać spojrzeń innych osób</string>
+    <string name="peep_protection_v2_global_no_aon_hint">Aby oszczędzać baterię, spojrzenia innych osób nie będą wykrywane, gdy włączony jest Prywatny wyświetlacz na całym urządzeniu</string>
+    <string name="peep_protection_v2_global_protection">Prywatny wyświetlacz na całym urządzeniu</string>
+    <string name="peep_protection_v2_global_protection_desc">Użyj prywatności wyświetlacza w różnych sytuacjach na swoim urządzeniu</string>
+    <string name="peep_protection_v2_global_protection_desc_v2">Wyświetlacz pozostaje prywatny na całym urządzeniu</string>
+    <string name="peep_protection_v2_header_desc_v2">Widoczność ekranu pod kątem będzie ograniczona. Urządzenie powiadomi Cię, gdy wykryje spojrzenie innych osób. (click)Dowiedz się więcej(/click)</string>
+    <string name="peep_protection_v2_intro_enable">Włącz</string>
+    <string name="peep_protection_v2_intro_pixel_desc">Zmniejsz kąt widoczności ekranu i wykryj spojrzenia na niego innych osób</string>
+    <string name="peep_protection_v2_intro_pixel_title">Prywatność na poziomie sprzętu</string>
+    <string name="peep_protection_v2_intro_privacy_tip">Spraw, aby trudniej było patrzeć na ekran z boku, a także wykrywaj sytuacje, w których patrzy na niego ktoś inny</string>
+    <string name="peep_protection_v2_intro_scope_desc_global">Wybierz konkretne aplikacje i powiadomienia lub użyj tej funkcji w każdej sytuacji</string>
+    <string name="peep_protection_v2_intro_smart_page_desc">Wybierz konkretne aplikacje, strony i powiadomienia lub użyj tej funkcji w każdej sytuacji</string>
+    <string name="peep_protection_v2_intro_smart_page_title">Różne scenariusze</string>
+    <string name="peep_protection_v2_learn_more">Dowiedz się więcej</string>
+    <string name="peep_protection_v2_learn_more_limits_desc_global">"Ta funkcja może nieznacznie zwiększyć zużycie energii. Gdy włączone jest Oszczędzanie baterii, zostanie ona tymczasowo wyłączona, aby oszczędzać baterię.
+Gdy wyświetlasz treści w HDR, kompensacja jasności Inteligentnego prywatnego wyświetlacza zostanie wstrzymana, aby zapewnić odpowiednią jakość ekranu.
+Prywatność wyświetlacza zostanie wstrzymana w trybie poziomym i wznowi się automatycznie, gdy powrócisz do trybu pionowego.
+Niektóre motywy stron trzecich nie wspierają jeszcze prywatności wyświetlacza dla powiadomień Ekranu blokady."</string>
+    <string name="peep_protection_v2_learn_more_limits_title">Ograniczenia i szczególne przypadki</string>
+    <string name="peep_protection_v2_learn_more_privacy_desc">"Gdy ta funkcja jest włączona, urządzenie może użyć przedniego aparatu do wykonywania zdjęć i wykrywania twarzy lub kierunku spoglądania lokalnie, gdy włączone jest wykrywanie spojrzeń. Jest to wykorzystywane do identyfikowania, gdy ktoś inny niż Ty patrzy na ekran, i informowania Cię o tym.
+Wszystkie dane są przetwarzane na Twoim urządzeniu i nie będą przesyłane do Chmury Xiaomi lub innej chmury strony trzeciej."</string>
+    <string name="peep_protection_v2_learn_more_privacy_title">Stanowisko dot. prywatności</string>
+    <string name="peep_protection_v2_learn_more_scope_desc_global">"Możesz wybrać, jak ma działać Inteligentny prywatny wyświetlacz: na całym urządzeniu, w wybranych aplikacjach czy w powiadomieniach.
+
+Prywatny wyświetlacz na całym urządzeniu:
+Prywatność wyświetlacza będzie włączona w każdej sytuacji, aby pomóc chronić wszystko, co wyświetlacz. Gdy ta funkcja jest włączona, nie będą wykrywane spojrzenia innych osób.
+
+Prywatny wyświetlacz w aplikacjach:
+Wybierz aplikacje, które chcesz chronić. Gdy są one wyświetlane na ekranie, Inteligentny prywatny wyświetlacz zredukuje jego widoczność z boku i będzie sprawdzać, czy nie patrzy na niego ktoś inny.
+
+Prywatny wyświetlacz w powiadomieniach:
+Powiadomienia z wybranych przez Ciebie aplikacji będą wyświetlane z częściową ochroną prywatności, aby zapobiec zobaczeniu wrażliwych informacji przez inne osoby."</string>
+    <string name="peep_protection_v2_learn_more_scope_title">Zakres działania prywatnego wyświetlacza</string>
+    <string name="peep_protection_v2_learn_more_understand_desc">"Inteligentny prywatny wyświetlacz łączy zredukowaną widoczność pod kątem z wykrywaniem spojrzeń, aby pomóc chronić Cię zarówno przed podglądaniem ekranu zarówno pod szerokim kątem, jak i z bliskiej odległości pod węższymi kątami, zapewniając w ten sposób pełniejszą ochronę prywatności.
+
+Prywatny wyśweitlacz:
+Dzięki regulacji jasności ekranu na poziomie pikseli zawartość ekranu staje się coraz trudniejsza do odczytania wraz ze wzrostem kąta widzenia. Pomaga to zmniejszyć ryzyko, że inne osoby zobaczą Twoje dane.
+
+Wykrywanie spojrzenia:
+Jako uzupełnienie ograniczenia widoczności pod kątem, system może ostrzec Cię, gdy wykryje, że ktoś inny niż Ty patrzy na ekran z tyłu lub pod innym wąskim kątem."</string>
+    <string name="peep_protection_v2_learn_more_understand_title">O Inteligentnym prywatnym wyświetlaczu</string>
+    <string name="peep_protection_v2_main_body">Widoczność ekranu pod kątem będzie ograniczona. Urządzenie będzie sprawdzać, czy ktoś inny patrzy na ekran i powiadomi Cię, gdy wykryje spojrzenie innych osób. (click)Dowiedz się więcej(/click)</string>
+    <string name="peep_protection_v2_main_desc">Chroń ekran przed spojrzeniami innych osób</string>
+    <string name="peep_protection_v2_main_switch">Inteligentny prywatny wyświetlacz</string>
+    <string name="peep_protection_v2_main_switch_desc">Użyj prywatnego wyświetlacz i wykryj spojrzenie innych osób</string>
+    <string name="peep_protection_v2_main_switch_desc_v2">Zezwól na włączanie przez urządzenie prywatnego wyświetlacza w zależności od wybranego scenariusza</string>
+    <string name="peep_protection_v2_main_switch_title_v2">Inteligentny prywatny wyświetlacz</string>
+    <string name="peep_protection_v2_main_tile_label">Inteligentny prywatny wyświetlacz</string>
+    <string name="peep_protection_v2_move_app_title_v2">Przenieś %s do</string>
+    <string name="peep_protection_v2_move_app_to_category">Przenieś %s do grupy</string>
+    <string name="peep_protection_v2_notification_protection">Prywatny wyświetlacz w powiadomieniach</string>
+    <string name="peep_protection_v2_notification_protection_desc">Powiadomienia z wybranych aplikacji będą uaktywniać prywatny wyświetlacz</string>
+    <string name="peep_protection_v2_notification_protection_desc_v2">Powiadomienia z wybranych przez Ciebie aplikacji będą wyświetlane z częściową ochroną prywatności</string>
+    <string name="peep_protection_v2_notify_type_desc">Otrzymasz informację, gdy wykryte zostanie spojrzenie kogoś innego</string>
+    <string name="peep_protection_v2_notify_type_title">Wykrywaj spojrzenia innych osób</string>
+    <string name="peep_protection_v2_peep_detection_desc_v2">Wykrywaj spojrzenie i otrzymuj alerty</string>
+    <string name="peep_protection_v2_peep_island_action_dismiss_v2">Ignoruj</string>
+    <string name="peep_protection_v2_peep_island_subtitle_v2">Nie przypominaj ponownie</string>
+    <string name="peep_protection_v2_privacy_statement">Ta funkcja używa danych twarzy do wykrywania spojrzeń. Wszystkie dane są przetwarzane na Twoim urządzeniu i nie będą udostępniane.</string>
+    <string name="peep_protection_v2_recommend_title">Zalecane aplikacje</string>
+    <string name="peep_protection_v2_search_app">Prywatny wyświetlacz w aplikacjach;prywatność wyświetlacza dla aplikacji</string>
+    <string name="peep_protection_v2_search_empty_hint">Tu pojawią się wyniki wyszukiwania</string>
+    <string name="peep_protection_v2_search_global">Prywatny wyświetlacz na całym urządzeniu;na całym urządzeniu</string>
+    <string name="peep_protection_v2_search_hint">Wyszukaj aplikacje</string>
+    <string name="peep_protection_v2_search_keywords_1">Prywatny wyświetlacz</string>
+    <string name="peep_protection_v2_search_keywords_2">Piksel</string>
+    <string name="peep_protection_v2_search_keywords_3">Spojrzenie</string>
+    <string name="peep_protection_v2_search_no_result">Nie znaleziono rezultatów</string>
+    <string name="peep_protection_v2_search_notification">Prywatny wyświetlacz w powiadomieniach;prywatność wyświetlacza dla powiadomień</string>
+    <string name="peep_protection_v2_search_notify_type">Detekcja spojrzeń;wykrywaj spojrzenia;ochrona prywatności;alert o spojrzeniu</string>
+    <string name="peep_protection_v2_select_apps">Prywatny wyświetlacz w aplikacjach</string>
+    <string name="peep_protection_v2_status_off">Wył.</string>
+    <string name="peep_protection_v2_status_on">Wł.</string>
+    <string name="peep_protection_v2_strategy_action_disable_category">Wyłącz prywatny wyświetlacz dla %s</string>
+    <string name="peep_protection_v2_strategy_action_disable_deep">Wyłącz Rozszerzoną prywatność</string>
+    <string name="peep_protection_v2_strategy_action_disable_default">Wyłącz prywatny wyświetlacz</string>
+    <string name="peep_protection_v2_strategy_action_disable_global">Wyłącz Prywatny wyświetlacz na całym urządzeniu</string>
+    <string name="peep_protection_v2_strategy_action_disable_target">Wyłącz prywatny wyświetlacz dla %s</string>
+    <string name="peep_protection_v2_strategy_action_enable_category">Włącz prywatny wyświetlacz dla %s</string>
+    <string name="peep_protection_v2_strategy_action_enable_deep">Włącz Rozszerzoną prywatność</string>
+    <string name="peep_protection_v2_strategy_action_enable_default">Włącz prywatny wyświetlacz</string>
+    <string name="peep_protection_v2_strategy_action_enable_global">Włącz Prywatny wyświetlacz na całym urządzeniu</string>
+    <string name="peep_protection_v2_strategy_action_enable_target">Włącz prywatny wyświetlacz dla %s</string>
+    <string name="peep_protection_v2_strategy_action_fallback">Ochrona przed podglądaniem</string>
+    <string name="peep_protection_v2_thermal_paused_toast">Wykrywanie spojrzeń zostanie wznowione, gdy urządzenie się schłodzi</string>
+    <string name="peep_protection_v2_tile_label">Prywatny wyświetlacz na całym urządzeniu</string>
+    <string name="peep_protection_v2_title">Inteligentny prywatny wyświetlacz</string>
     <string name="performance_frame_enhance_super_display_tips">"Poprawiony klatkaż i superrozdzielczość nie mogą działać w tym samym czasie. Włączenie jednej z tych funkcji wyłączy drugą."</string>
     <string name="performance_frame_insert_super_display_tips">"Inteligentna częstotliwość odświeżania oraz superrozdzielczość nie mogą działać w tym samym czasie. Włączenie jednej funkcji wyłączy drugą."</string>
     <string name="perm_desc_accessibility">To uprawnienie jest wymagane do wyświetlenia i kontrolowania ekranu, obsługiwania aplikacji i czujników zgodnie z Twoimi instrukcjami, a także interakcji z aplikacjami w Twoim imieniu.</string>
@@ -1251,6 +1394,7 @@ Ultraoszczędzania baterii"</string>
     <string name="power_autorun_apps_empty">Brak aplikacji w autostarcie</string>
     <string name="power_center_5g_save_summary_text">Łączność 5G będzie używała mniej energii w różnych sytuacjach</string>
     <string name="power_center_auto_shutdown">Automatyczne wł./wył.</string>
+    <string name="power_center_battery_duration_new">Pozostało czasu na ekranie</string>
     <string name="power_center_battery_level">Naładowane: %s</string>
     <string name="power_center_battery_software">System %s</string>
     <string name="power_center_batteryrank_all">Pełne zużycie baterii</string>
@@ -1299,6 +1443,7 @@ Ultraoszczędzania baterii"</string>
     <string name="power_dialog_super_save_title">Ultraoszczędzanie baterii</string>
     <string name="power_main_battery_last_day_hour">%1$s dni %2$s godz.</string>
     <string name="power_main_battery_last_hour_minute">%1$s godz. %2$s min</string>
+    <string name="power_main_battery_last_hour_minute_new">Szacowany czas na ekranie: %1$s %2$s</string>
     <string name="power_main_battery_last_hour_minute_screen_on">%1$s %2$s czasu na ekranie</string>
     <string name="power_main_open_last_hour_minute_screen_on">%1$s %2$s czasu na ekranie</string>
     <string name="power_off_warning_notification_title">Wyłączenie urządzenia</string>
@@ -1449,6 +1594,10 @@ Ultraoszczędzania baterii"</string>
     <string name="pref_traffic_package_type_summary">Miesięczny/Dzienny/Bez limitu</string>
     <string name="preferred_app_entries_dial">Dialer</string>
     <string name="preferred_app_entries_launcher">Launcher</string>
+    <string name="prem_optimization_a11y_collapsed">Zwinięto</string>
+    <string name="prem_optimization_a11y_expanded">Rozwinięto</string>
+    <string name="prem_optimization_a11y_selected">Wybrano</string>
+    <string name="prem_optimization_a11y_unselected">Nie wybrano</string>
     <string name="prem_optimization_allow_notify_summary">Zezwól \"Sugestiom uprawnień\" na wysyłanie powiadomień</string>
     <string name="prem_optimization_allow_notify_title">Zezwól na powiadomienia</string>
     <string name="prem_optimization_btn_summary">Optymalizuj</string>
@@ -1472,6 +1621,7 @@ Ultraoszczędzania baterii"</string>
     <string name="privacy_custom_password_long">Wprowadź maks. %d cyfr</string>
     <string name="privacy_custom_password_too_short">Wprowadź min. %d cyfr</string>
     <string name="privacy_danger_permission_status_title">Poufne uprawnienia</string>
+    <string name="privacy_device_unique_feature">Funkcja dostępna tylko na tym modelu</string>
     <string name="privacy_dialog_content_part2"><Data>Aplikacja musi gromadzić niezbędne dane o Tobie, aby dostarczać Ci jej usługi i móc je ulepszać. Możesz dowiedzieć się, jak Xiaomi przetwarza gromadzone informacje, z &lt;a href=\"%1$s\">Polityki prywatności&lt;/a>. Możesz cofnąć swoją zgodę na jej warunki w Ustawieniach w dowolnym momencie.</Data></string>
     <string name="privacy_dialog_content_part3"><Data>"Przeczytaj i zaakceptuj warunki &lt;a href=\"%2$s\">Umowy użytkownika&lt;/a> oraz &lt;a href=\"%1$s\">Polityki prywatności&lt;/a> przed skorzystaniem z Panelu sterowania. Jeśli nie zgodzisz się na użycie wspomnianych usług, nie będzie można korzystać z niektórych funkcji aplikacji. Jej podstawowa funkcjonalność nadal będzie dostępna."</Data></string>
     <string name="privacy_empty_call">"Dzisiaj nie uzyskano dostępu do historii połączeń"</string>
@@ -1484,6 +1634,10 @@ Ultraoszczędzania baterii"</string>
     <string name="privacy_flares_capsule_recent">%1s | Ostatnio</string>
     <string name="privacy_flares_current_detail_more">Ta aplikacja korzysta z wrażliwego uprawnienia</string>
     <string name="privacy_flares_recent_detail_more">Ta aplikacja korzystała z wrażliwego uprawnienia</string>
+    <string name="privacy_hide_app_notify_auto_close_desc">Ta funkcja uniemożliwia wysyłanie powiadomień przez ukryte aplikacje. Aby otrzymywać powiadomienia, wyłącz opcję \"Ukryj powiadomienia\" lub odkryj aplikację.</string>
+    <string name="privacy_hide_app_notify_auto_close_title">Wyłącz powiadomienia</string>
+    <string name="privacy_hide_app_notify_auto_revoke_summary">Automatycznie wyłącz powiadomienia z ukrytych aplikacji</string>
+    <string name="privacy_hide_app_notify_dialog_confirm">Rozumiem</string>
     <string name="privacy_hybrid_password_long">Wprowadź maks. %d znaków</string>
     <string name="privacy_hybrid_password_too_short">Wprowadź min. %d znaków</string>
     <string name="privacy_input_icon_layout_status_bg_content_enable">Chronione</string>
@@ -1554,6 +1708,7 @@ Wycofać zgodę?"</string>
     <string name="reject_usb_install">Odrzucono instalacje przez USB</string>
     <string name="release_meminfo">Zwolniono %d MB</string>
     <string name="reminder_click_to_close_tips">Możesz włączać i wyłączać ostrzeżenia dot. użycia danych w Panelu sterowania > Zużycie danych > Ustawienia.</string>
+    <string name="repeated_stranger_number_summary">Nie blokuj drugiego połączenia z tego samego nieznanego numeru w ciągu %d minut</string>
     <string name="reset_data_dialog_message">"Urządzenie nie jest powiązane z kontem Xiaomi. Nie można przywrócić lub zmienić hasła. Skopiuj wszystkie ważne dane i wykonaj reset do ustawień fabrycznych. Proces ten usunie wszystkie dane z urządzenia - w tym także z nośnika USB."</string>
     <string name="reset_data_dialog_ok">Ustawienia fabryczne</string>
     <string name="reset_data_title">"Nie można przywrócić hasła"</string>
@@ -1737,6 +1892,10 @@ Wycofać zgodę?"</string>
     <string name="st_confirm_call_all_dialog_strange_open_summary">Połączenia od numerów nieznajdujących się na liście wyjątków lub w kontaktach będą blokowane. Zablokować?</string>
     <string name="st_confirm_dialog_summary_stranger_call">Połączenia z numerów, które nie znajdują się w Twoich wyjątkach lub w kontaktach, zostaną zablokowane. Włączyć?</string>
     <string name="st_mark_call_intercept_threshold_summary">Automatycznie blokuj numery zgłaszane określoną liczbę razy</string>
+    <string name="st_msg_keyword_black_summary">Blokuj wiadomości od nieznanych osób zawierające słowa kluczowe</string>
+    <string name="st_msg_keyword_white_summary">Zezwalaj na wiadomości od nieznanych osób zawierające słowa kluczowe</string>
+    <string name="st_show_num_keyword_v2">{count, plural, =0 {0 słów kluczowych } one {# słowo kluczowe } few {# słowa kluczowe} other {# słów kluczowych } }</string>
+    <string name="st_show_num_number_v2">{count, plural, =0 {0 numerów } one {# numer } few {# numery } other {# numerów } }</string>
     <string name="st_title_back_sound_busy">Sygnał zajętego numeru</string>
     <string name="status_bar_network_flow_content">"Dziś: %1$s | Pozostało: %2$s"</string>
     <string name="status_bar_network_flow_content_not_setting">"Dziś: %1$s | W tym miesiącu: %2$s"</string>
@@ -1795,6 +1954,7 @@ Wycofać zgodę?"</string>
     <string name="superpower_notification_low_temp_title">Włączyć Ultraoszczędzanie baterii?</string>
     <string name="superpower_notification_summary">Naładuj urządzenie lub włącz Ultraoszczędzanie baterii</string>
     <string name="superpower_progress_content">Włączanie Ultraoszczędzania baterii…</string>
+    <string name="superpower_progress_title_new">Pozostało czasu na ekranie</string>
     <string name="superpower_savemode_description_title">Ultraoszczędzanie baterii aktywuje następujące ograniczenia:</string>
     <string name="superpower_settings">Ultraoszczędzanie baterii</string>
     <string name="superpower_settins_autoenter_summary_new">Włącz ten tryb automatycznie, gdy poziom naładowania baterii osiągnie mniej niż %s</string>
@@ -1879,6 +2039,8 @@ Wycofać zgodę?"</string>
     <string name="tips_of_app_manage">Usuń rzadko używane aplikacje</string>
     <string name="tips_of_auto_launch_manage">Dostosuj autostart aplikacji</string>
     <string name="title_app_lock_disable">Blokada dostępu</string>
+    <string name="title_block_calls_from_cantacts">Nie odebrałeś połączeń od swoich kontaktów?</string>
+    <string name="title_block_calls_from_strangers">Nie odebrałeś ważnych połączeń?</string>
     <string name="title_cloud_space_almost_full">Kończy się miejsce w Chmurze Xiaomi.</string>
     <string name="title_condition_absorbed">Tryb skupienia</string>
     <string name="title_condition_alarm">Alarm</string>

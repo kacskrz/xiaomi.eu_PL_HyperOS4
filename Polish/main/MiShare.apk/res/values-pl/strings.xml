@@ -42,6 +42,9 @@ Inne urządzenia z Androidem: tę funkcję mogą wspierać urządzenia vivo, rea
     <string name="progress_notification_downloading">Progres: %d%%</string>
     <string name="progress_notification_name">Pobieranie wtyczki</string>
     <string name="required_permissions_desc">W celu wysyłania i odbierania plików;W celu przesyłania plików za pomocą Bluetooth i Wi-Fi;W celu odnajdowania dostępnych urządzeń w pobliżu za pomocą Bluetooth;W celu odnajdywania dostępnych urządzeń w pobliżu i przesyłania plików za pomocą Wi-Fi;W celu sprawdzania, czy aplikacje są zainstalowane, aby otworzyć je po otrzymaniu danych</string>
+    <string name="send_complete">Wysłano pomyślnie</string>
+    <string name="send_failed">Nie udało się ukończyć przesyłania</string>
+    <string name="share_show_nfc_position"><Data>&lt;a href=%1$s>Wyświetl obszar NFC telefonów Xiaomi&lt;/a></Data></string>
     <string name="sub_title_mishare_switch_mine">Możesz odbierać pliki z urządzeń zalogowanych na Twoje konto Xiaomi</string>
     <string name="switch_mode_sameaccount">Z mojego konta Xiaomi</string>
     <string name="tap_share_contact_person_title">Udostępniaj kontakt</string>
@@ -59,16 +62,31 @@ Inne urządzenia z Androidem: tę funkcję mogą wspierać urządzenia vivo, rea
 %d. Udostępnianie kontaktów poprzez wyświetlenie szczegółów kontaktu, na stronie wyboru lub przez dotknięcie opcji \"Wyślij\", która otworzy okno pop-up udostępniania.
 %d. Udostępnianie strony internetowej poprzez otwarcie strony w Przeglądarce Mi lub dotknięcie opcji \"Wyślij\", która otworzy okno pop-up udostępniania.
 "</string>
+    <string name="tap_share_device_usage_condition">Wymagania</string>
     <string name="tap_share_file_describe">Użyj opcji \"Dotknij, aby udostępnić\" na stronie wyboru w aplikacji Pliki bądź przez dotknięcie opcji \"Wyślij\", aby otworzyć menu udostępniania.</string>
     <string name="tap_share_file_title">Udostępniaj pliki</string>
     <string name="tap_share_game_team_up_title">Gra grupowa</string>
+    <string name="tap_share_help_title">Pomoc</string>
+    <string name="tap_share_help_with_other_android_iphone">Użyj opcji Dotknij, aby udostępnić z innymi urządzeniami z Androidem</string>
+    <string name="tap_share_help_with_phone_iphone">Udostępnianie z telefonem Xiaomi lub iPhonem</string>
     <string name="tap_share_image_and_video_describe">Aby użyć opcji Dotknij, aby udostępnić, wyświetl pełen obraz w Galerii lub naciśnij i przytrzymaj, aby otworzyć stronę wyboru, albo dotknij opcji \"Wyślij\", aby otworzyć menu udostępniania.</string>
     <string name="tap_share_image_and_video_title">Udostępniaj zdjęcia i filmy</string>
     <string name="tap_share_navigation_address_describe">Aby użyć opcji Dotknij, aby udostępnić, otwórz szczegóły lokalizacji w aplikacji Baidu Maps lub dotknij opcji \"Wyślij\", aby otworzyć menu udostępniania. Najpierw zaktualizuj aplikację Baidu Maps do wersji %1$s lub nowszej.</string>
     <string name="tap_share_navigation_address_title">Udostępniaj adres</string>
     <string name="tap_share_network_page_describe">Aby użyć opcji Dotknij, aby udostępnić, otwórz stronę internetową w Przeglądarce Mi lub dotknij opcji \"Wyślij\", aby otworzyć menu udostępniania.</string>
     <string name="tap_share_network_page_title">Udostępniaj stronę internetową</string>
+    <string name="tap_share_no_content_to_share">Brak dostępnych elementów do przesłania</string>
+    <string name="tap_share_note_describe">Użyj opcji Dotknij, aby udostępnić na stronie ze szczegółami notatki lub na stronie wyboru, albo dotknij opcji \"Wyślij\", aby otworzyć menu udostępniania.</string>
+    <string name="tap_share_note_title">Udostępniaj notatki</string>
+    <string name="tap_share_receive_from_device">Udostępnione przez %1$s</string>
+    <string name="tap_share_send_to_device">Wyślij do %1$s</string>
+    <string name="tap_share_sound_recorder_describe">Użyj opcji Dotknij, aby udostępnić na stronie odtwarzania lub na stronie wyboru, albo dotknij opcji \"Wyślij\", aby otworzyć menu udostępniania.</string>
+    <string name="tap_share_sound_recorder_title">Udostępniaj nagrania</string>
+    <string name="tap_share_tips_desc_generic">Aby przesłać elementy, zbliż tył telefonu do obszaru NFC innego urządzenia</string>
     <string name="tap_share_wifi_password_title">Udostępniaj hasło do sieci Wi-Fi</string>
     <string name="tap_share_wifi_password_title_china">Udostępniaj hasło do sieci Wi-Fi</string>
+    <string name="tap_share_with_other_android_phone_condition_describe_os4">"%1$d. Zaktualizuj telefon Xiaomi do wersji Xiaomi HyperOS 4.0.1 lub nowszej.
+%2$d. Zaktualizuj telefony OPPO, vivo i Honor do najnowszej wersji. Aby znaleźć ich obszar NFC, sprawdź ustawienia swojego telefonu.
+%4$d. Upewnij się, że oba urządzenia są odblokowane i mają włączone opcje NFC, Bluetooth, Wi-Fi i Dotknij, aby udostępnić."</string>
     <string name="transfer_to_same_account_title">Wykrywanie urządzeń w ramach tego samego konta Xiaomi</string>
 </resources>

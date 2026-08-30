@@ -1,5 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="common_unit_rope_count">
+        <item quantity="other">skoków</item>
+        <item quantity="few">skoki</item>
+        <item quantity="one">skok</item>
+    </plurals>
+    <plurals name="common_unit_rowing_machine_count">
+        <item quantity="other">uderzeń</item>
+        <item quantity="few">uderzenia</item>
+        <item quantity="one">uderzenie</item>
+    </plurals>
+    <plurals name="common_unit_step">
+        <item quantity="other">" kroków"</item>
+        <item quantity="few">" kroki"</item>
+        <item quantity="one">" krok"</item>
+    </plurals>
+    <plurals name="common_unit_step_desc">
+        <item quantity="other">%1$d kroków</item>
+        <item quantity="few">%1$d kroki</item>
+        <item quantity="one">%1$d krok</item>
+    </plurals>
+    <plurals name="common_unit_swim_count">
+        <item quantity="other">długości</item>
+        <item quantity="one">długość</item>
+    </plurals>
+    <plurals name="common_unit_year_old">
+        <item quantity="other">lat</item>
+        <item quantity="dew">lata</item>
+        <item quantity="one">rok</item>
+    </plurals>
     <plurals name="controller_auth_count_down">
         <item quantity="one">Wprowadź kod z %1$s (%2$d s)</item>
         <item quantity="other">Wprowadź kod z %1$s (%2$d s)</item>
@@ -9,12 +38,76 @@
         <item quantity="one">%d pokój z odsłoniętą zasłoną</item>
         <item quantity="few">%d pokoje z odsłoniętymi zasłonami</item>
     </plurals>
+    <plurals name="min_in_simplify_2">
+        <item quantity="other">%1$d min</item>
+        <item quantity="one">%1$d min</item>
+    </plurals>
     <plurals name="mj_module_card_name_light_desc_pattern">
         <item quantity="other">Pokoje z włączonym światłem: %d</item>
         <item quantity="one">Pokoje z włączonym światłem: %d</item>
     </plurals>
+    <plurals name="report_unit_seconds_1">
+        <item quantity="other">s</item>
+        <item quantity="one">s</item>
+    </plurals>
+    <plurals name="time_update_days_before">
+        <item quantity="other">%1$d dni temu</item>
+        <item quantity="one">Wczoraj</item>
+    </plurals>
     <plurals name="tv_remote_auth_count_down">
         <item quantity="other">Wprowadź kod %1$s (%2$d s)</item>
         <item quantity="one">Wprowadź kod %1$s (%2$d s)</item>
+    </plurals>
+    <plurals name="unit_hour_1">
+        <item quantity="other">" godz. "</item>
+        <item quantity="one">" godz. "</item>
+    </plurals>
+    <plurals name="unit_hour_2">
+        <item quantity="other">godz.</item>
+        <item quantity="one">godz.</item>
+    </plurals>
+    <plurals name="unit_hour_desc">
+        <item quantity="other">%1$d godz.</item>
+        <item quantity="one">%1$d godz.</item>
+    </plurals>
+    <plurals name="unit_hour_desc2">
+        <item quantity="other">%1$d godz.</item>
+        <item quantity="one">%1$d godz.</item>
+    </plurals>
+    <plurals name="unit_min_1">
+        <item quantity="other">" min "</item>
+        <item quantity="one">" min "</item>
+    </plurals>
+    <plurals name="unit_min_2">
+        <item quantity="other">" min"</item>
+        <item quantity="one">" min"</item>
+    </plurals>
+    <plurals name="unit_min_desc">
+        <item quantity="other">%1$d min</item>
+        <item quantity="one">%1$d min</item>
+    </plurals>
+    <plurals name="unit_min_desc2">
+        <item quantity="other">%1$d min</item>
+        <item quantity="one">%1$d min</item>
+    </plurals>
+    <plurals name="unit_min_desc2_with_space">
+        <item quantity="other">%1$d min</item>
+        <item quantity="one">%1$d min</item>
+    </plurals>
+    <plurals name="unit_min_desc3">
+        <item quantity="other">%1$d min</item>
+        <item quantity="one">%1$d min</item>
+    </plurals>
+    <plurals name="unit_seconds_1">
+        <item quantity="other">s</item>
+        <item quantity="one">s</item>
+    </plurals>
+    <plurals name="unit_seconds_desc">
+        <item quantity="other">%1$d s</item>
+        <item quantity="one">%1$d s</item>
+    </plurals>
+    <plurals name="unit_seconds_short_desc">
+        <item quantity="other">%1$d s</item>
+        <item quantity="one">%1$d s</item>
     </plurals>
 </resources>

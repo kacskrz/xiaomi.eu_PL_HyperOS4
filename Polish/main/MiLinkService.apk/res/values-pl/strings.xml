@@ -5,6 +5,41 @@
     <string name="appcirculate_toast_high_temperature">Poczekaj, aż urządzenie ostygnie</string>
     <string name="appcirculate_toast_loading">Przełączanie na inne urządzenie…</string>
     <string name="audio_record_des">W celu przesyłania dźwięku z urządzenia do zewnętrznych monitorów</string>
+    <string name="aw_allow_access_milink_cancel">Anuluj</string>
+    <string name="aw_allow_access_milink_confirm">Zezwól</string>
+    <string name="aw_allow_access_milink_message">Aby użyć Mi Fitness do wyświetlania Twoich danych zdrowotnych tak jak na Apple Watchu, zezwól aplikacji Mi Fitness na dostęp do Łączności Xiaomi.</string>
+    <string name="aw_allow_access_milink_title">Zezwól na dostęp do Łączności Xiaomi</string>
+    <string name="aw_download_health_app_cancel">Anuluj</string>
+    <string name="aw_download_health_app_confirm">Pobierz</string>
+    <string name="aw_download_health_app_message">Pobierz Mi Fitness i użyj swojego telefonu Xiaomi do wyświetlania Twoich danych zdrowotnych tak jak na Apple Watchu.</string>
+    <string name="aw_download_health_app_title">Pobierz Mi Fitness</string>
+    <string name="aw_health_switch_off_confirm">Rozumiem</string>
+    <string name="aw_health_switch_off_message">Aby użyć telefonu do wyświetlania danych zdrowotnych tak jak na Apple Watchu, przejdź do Łączności Xiaomi na Apple Watchu > Ustawienia i włącz opcję \"Synchronizuj dane dot. zdrowia\".</string>
+    <string name="aw_health_switch_off_title">Włącz opcję \"Synchronizuj dane dot. zdrowia\"</string>
+    <string name="aw_pairing_bluetooth_required">Aby sparować Apple Watcha, należy włączyć Bluetooth.</string>
+    <string name="aw_pairing_bt_deny_again_message">Nie możesz się połączyć ze swoim Apple Watchem, gdy Bluetooth jest wyłączony. Aby wywołać okno, spróbuj sparować się ponownie.</string>
+    <string name="aw_pairing_bt_deny_again_title">Nie udało się połączyć</string>
+    <string name="aw_pairing_bt_guide_message">Aby odnaleźć i połączyć się z urządzeniami Apple Watch, wybierz \"Zezwól\".</string>
+    <string name="aw_pairing_bt_guide_title">Zezwól Łączności na włączenie Bluetooth</string>
+    <string name="aw_pairing_btn_allow">Zezwól</string>
+    <string name="aw_pairing_btn_deny">Odmów</string>
+    <string name="aw_pairing_btn_go_settings">Przejdź do Ustawień</string>
+    <string name="aw_pairing_btn_go_settings_now">Ustawienia</string>
+    <string name="aw_pairing_btn_got_it">Rozumiem</string>
+    <string name="aw_pairing_btn_help">Wyświetl pomoc</string>
+    <string name="aw_pairing_btn_more_settings">Przejdź do Ustawień</string>
+    <string name="aw_pairing_btn_pair">Sparuj teraz</string>
+    <string name="aw_pairing_btn_pairing">Parowanie…</string>
+    <string name="aw_pairing_btn_retry">Spróbuj ponownie</string>
+    <string name="aw_pairing_close_desc">Wył.</string>
+    <string name="aw_pairing_interconnect_message">Brakuje uprawnień. Pełna łączność niedostępna. Aby włączyć, przejdź do Ustawień.</string>
+    <string name="aw_pairing_interconnect_title">Skonfiguruj uprawnienia Apple Watch na tym urządzeniu.</string>
+    <string name="aw_pairing_subtitle_confirm_on_watch">Zaakceptuj żądanie parowania Bluetooth na Apple Watchu.</string>
+    <string name="aw_pairing_subtitle_failure">Spróbuj sparować ponownie lub wyświetl Pomoc</string>
+    <string name="aw_pairing_title_failure">Nie udało się sparować</string>
+    <string name="aw_pairing_title_success">Pomyślnie sparowano</string>
+    <string name="aw_unpair_failed">Nie udało się rozparować</string>
+    <string name="aw_unpair_in_progress">Rozparowywanie…</string>
     <string name="camera_a11y_action_enter">Wejdź w kamerę</string>
     <string name="camera_a11y_action_fullscreen">Pełny ekran</string>
     <string name="camera_a11y_action_play_pause">Wstrzymaj lub odtwórz</string>
@@ -14,8 +49,10 @@
     <string name="camera_island_connected_title">Używanie współdzielonego aparatu</string>
     <string name="camera_island_disconnected_title">Rozłączono ze Współdzielonym aparatem</string>
     <string name="camera_new_title">Współdzielony aparat</string>
+    <string name="car_card_tv_control_text">Pilot do ekranu rozrywki z tyłu</string>
     <string name="check_device_list">Wyświetl wspierane urządzenia</string>
     <string name="circulate_camera_glasses_back_to_box_title_err_310">Najpierw rozłącz głośniki telewizora</string>
+    <string name="circulate_car_card_using_pad_camera">Używanie aparatu tabletu w pojeździe</string>
     <string name="circulate_card_tv_device_sync">Interakcja urządzeń Xiaomi</string>
     <string name="circulate_cta_premission_sound_title">Nagrywanie dźwięku</string>
     <string name="circulate_cta_premission_wlan_subtitle_china">W celu przesyłania elementów i łączenia urządzeń przez Wi-Fi</string>
@@ -53,6 +90,12 @@
     <string name="circulate_synergy_km_pc">Udostępnianie klawiatury i myszy komputerowi</string>
     <string name="circulate_synergy_music_playing">Odtwarzanie</string>
     <string name="circulate_synergy_telephone">Odbieranie połączenia</string>
+    <string name="common_hint_device_removed">Usunięto urządzenie</string>
+    <string name="common_hint_unkonwn_error">Wystąpił błąd systemu. Spróbuj ponownie później.</string>
+    <string name="common_month">Miesiąc</string>
+    <string name="common_open_on_phone">Otwórz na telefonie</string>
+    <string name="common_week">Tydzień</string>
+    <string name="common_year">Rok</string>
     <string name="connect_settings_base">Interakcja urządzeń Xiaomi</string>
     <string name="connect_settings_category_connected_devices">Zarządzaj połączonymi urządzeniami</string>
     <string name="connect_settings_connect_permission">Interakcja urządzeń Xiaomi i uprawnienia</string>
@@ -82,9 +125,12 @@ Działa z aplikacjami do dostarczania jedzenia i przewozu osób na telewizorach,
     <string name="connect_settings_share_camera">Współdzielony aparat</string>
     <string name="connect_settings_share_launcher_sub_feature_macbook_summary_unlock">Użyj swojego odcisku palca lub hasła na swoim Macu, aby odblokować swój telefon i aplikacje</string>
     <string name="connect_settings_share_launcher_sub_feature_micar_summary_unlock_v2">Użyj kamery pojazdu Xiaomi, aby rozpoznać Twoją twarz i odblokować telefon Xiaomi</string>
+    <string name="connect_settings_share_notification_apple_watch">Wyświetlaj powiadomienia z tego urządzenia na Apple Watchu</string>
+    <string name="connect_settings_share_notification_apple_watch_category">Synchronizuj powiadomienia z zegarkiem</string>
     <string name="connect_settings_share_notification_local_device_title">Odbieraj powiadomienia z %1$s</string>
     <string name="connect_settings_share_notification_local_low_battery_summary">Pokazuj alerty o niskim poziomie baterii z telefonu Xiaomi na tym urządzeniu</string>
     <string name="connect_settings_share_notification_local_low_battery_title">Alerty o niskim poziomie baterii</string>
+    <string name="connect_settings_share_notification_mi_device_category_v3">Synchronizuj powiadomienia z urządzeniami w pobliżu</string>
     <string name="connect_settings_share_notification_other_important">Dodatkowe opcje synchronizacji</string>
     <string name="connect_settings_share_notification_other_important_summary">Pokazuj alerty o niskim poziomie baterii z telefonu Xiaomi na tabletach i komputerach Xiaomi, a także alerty dot. dostaw jedzenia i przejazdów na telewizorach Xiaomi.</string>
     <string name="connect_settings_share_notification_other_important_title">Synchronizuj z tabletami, komputerami i telewizorami Xiaomi</string>
@@ -110,14 +156,28 @@ Działa z aplikacjami do dostarczania jedzenia i przewozu osób na telewizorach,
     <string name="connect_settings_share_notification_send_tab_summary_v3">"Powiadomienia z tego urządzenia mogą być synchronizowane i wyświetlane na innych urządzeniach zalogowanych na to samo konto Xiaomi.
 • Synchronizacja z telefonem: Oba urządzenia powinny być zalogowane na to samo konto Xiaomi i połączone z siecią.
 • Synchronizacja z tabletem: Tablet powinien znajdować się w pobliżu, być zalogowany na to samo konto Xiaomi i połączony z tą samą siecią, lub używać Ekranu głównego+."</string>
+    <string name="connect_settings_share_notification_send_tab_summary_v4">"• Gdy to urządzenie jest zablokowane, możesz wyświetlać jego powiadomienia na telefonach, tabletach, komputerach, telewizorach lub zegarkach zalogowanych na to samo konto.
+• Możesz wyświetlać powiadomienia o połączeniach, wiadomościach lub z aplikacji na telefonach, o dostawie jedzenia lub taksówce na telewizorach i o niskim poziomie baterii na tabletach i komputerach."</string>
     <string name="connect_settings_summary_corp_phone">Odbieraj połączenia na tabletach lub komputerach w pobliżu zalogowanych na Twoje konto Xiaomi</string>
     <string name="connect_settings_summary_v2_china"><Data>Automatycznie odnajduj urządzenia w pobliżu zalogowane na Twoje konto Xiaomi i łącz się z nimi, aby wykonywać różne zadania na wielu urządzeniach. &lt;br>Przed użyciem tej funkcji włącz Wi-Fi i Bluetooth. &lt;a href=%1$s>Dowiedz się więcej&lt;/a></Data></string>
     <string name="connect_settings_user_agreement">Umowa użytkownika</string>
     <string name="controller_auth_cancel">Anuluj</string>
     <string name="controller_auth_title">Zweryfikuj pilot</string>
     <string name="copy_verification_code_tip">Skopiowano kod weryfikacyjny</string>
+    <string name="date_pattern_mm_dd_hh_mm">d.MM. HH:mm</string>
+    <string name="date_pattern_mm_dd_hh_mm_ss">d.MM. HH:mm:ss</string>
+    <string name="date_pattern_mm_dd_simple">d.MM.</string>
+    <string name="date_pattern_mm_dd_week_simple">EEE, d MMM</string>
+    <string name="date_pattern_yyyy_m_d">d.MM.yyyy</string>
+    <string name="date_pattern_yyyy_m_d_2">d.MM.yyyy</string>
+    <string name="date_pattern_yyyy_m_d_3">d.MM.yyyy</string>
+    <string name="date_pattern_yyyy_mm_dd">d.MM.yyyy</string>
+    <string name="date_pattern_yyyy_mm_dd_hh_mm">d.MM.yyyy HH:mm</string>
+    <string name="date_pattern_yyyy_mm_dd_hh_mm_cn">d.MM.yyyy HH:mm</string>
+    <string name="date_to_now">Rozpoczęto %1$s</string>
     <string name="device_permission_dialog_message">Na urządzeniu „%s” przejdź do: Ustawienia > Ochrona prywatności > Łączność między urządzeniami, a następnie nadaj uprawnienia dostępu do aparatu, aby zyskać możliwość korzystania z tej funkcji.</string>
     <string name="device_permission_dialog_message_global_old">W Ustawieniach urządzenia %s przejdź do Interakcji urządzeń Xiaomi > Interakcja urządzeń Xiaomi i uprawnienia i nadaj uprawnienia do Aparatu, aby móc korzystać z tej funkcji.</string>
+    <string name="device_please_to_connect">Połącz swoje urządzenie</string>
     <string name="dialog_confirm_remote_status">Sprawdź stan %1$s</string>
     <string name="dialog_enable_remote_notification_content_v2">Nie można zsynchronizować powiadomień w tej chwili. Upewnij się, że można synchronizować powiadomienia na %1$s w Ustawieniach > Interakcja urządzeń Xiaomi > Powiadomienia między urządzeniami > Synchronizuj.</string>
     <string name="dialog_incoming_call_instruction">Odbierz na %1$s</string>
@@ -136,6 +196,7 @@ Działa z aplikacjami do dostarczania jedzenia i przewozu osób na telewizorach,
 %2$d. Aby odnaleźć niektóre telewizory, należy na nich włączyć udostępnianie ekranu. Aby dowiedzieć się wiecej, dotknij opcji \"Wyświetl pomoc\"."</string>
     <string name="dialog_scanning_close_dual_wifi_china">Aby móc dokonywać projekcji, wyłącz funkcję \"Zwiększenie prędkości sieci (dwupasmowe Wi-Fi)\". Zrobić to teraz?</string>
     <string name="dialog_scanning_precondition_new_1">Przesyłanie ekranu wymaga Wi-Fi i usług lokalizacji. Włączyć je?</string>
+    <string name="dialog_show_help_v1">Wyświetl pomoc</string>
     <string name="disconnect_access">Rozłącz</string>
     <string name="dist_camera_pad_switch_off_toast_button_text">Rozumiem</string>
     <string name="dist_camera_pad_switch_off_toast_subtitle">Włącz współdzielony aparat na swoim tablecie w Ustawieniach > Łączność.</string>
@@ -176,6 +237,8 @@ Działa z aplikacjami do dostarczania jedzenia i przewozu osób na telewizorach,
     <string name="guide_mask_title">Zupełnie nowy Xiaomi Smart Hub</string>
     <string name="headset_circulate_card_default_title">Połączono słuchawki</string>
     <string name="headset_circulate_card_glasses_title">Połączono okulary</string>
+    <string name="health_indexer_selected_talk_back_str">Wybrano: %s</string>
+    <string name="health_indexer_unselected_talk_back_str">Nie wybrano: %s</string>
     <string name="help_page_text_06">"%1$d. Telewizory Mi TV, dekodery i projektory Mi:
 Aby osiągnąć najlepsze rezultaty, połącz telefon i zewnętrzny monitor z tą samą siecią Wi-Fi. Jeśli urządzenia są połączone z różnymi sieciami, do odnalezienia i połączenia się z zewnętrznym monitorem może być potrzebne więcej czasu.
 Uwaga: Starsze telewizory mogą nie wspierać przesyłania ekranu pomiędzy różnymi sieciami.
@@ -227,8 +290,10 @@ Połącz swoje urządzenie i zewnętrzny monitor (np. telewizor) z tą samą sie
     <string name="no_device_enable_hint">Automatycznie odnajduj urządzenia w pobliżu i łącz się z nimi, aby wykonywać różne zadania na wielu urządzeniach.</string>
     <string name="no_device_hint">Automatycznie odnajduj urządzenia w pobliżu zalogowane na Twoje konto Xiaomi i łącz się z nimi, aby wykonywać różne zadania na wielu urządzeniach.</string>
     <string name="no_device_title">Zaloguj się na swoje konto Xiaomi</string>
+    <string name="not_support_toast_split_screen">Projekcja aplikacji nie jest wspierana w Podziale ekranu</string>
     <string name="noti_device_off">Wył.</string>
     <string name="noti_device_on">Wł.</string>
+    <string name="notification_channel_description_2">Zarządzaj preferencjami powiadomień</string>
     <string name="notification_channel_subtitle_ref_call_1">Połączenie z %1$s</string>
     <string name="notification_channel_subtitle_ref_call_2">Przychodzące połączenie na %1$s</string>
     <string name="notification_channel_subtitle_ref_dingtalk_2">Powiadomienie DingTalk na %1$s</string>
@@ -240,6 +305,7 @@ Połącz swoje urządzenie i zewnętrzny monitor (np. telewizor) z tą samą sie
     <string name="notification_channel_subtitle_ref_wework_2">Powiadomienie WeCom na %1$s</string>
     <string name="notification_channel_subtitle_ref_xin_1">Wiadomość WeChat z %1$s</string>
     <string name="notification_channel_subtitle_ref_xin_2">Powiadomienie WeChat na %1$s</string>
+    <string name="notification_channel_title_name_2">Powiadomienia z innych urządzeń</string>
     <string name="notification_copy">Kopiuj</string>
     <string name="notification_incoming_call_to_reply">Połączenie. Odbierz na %1$s.</string>
     <string name="notification_permission_accept">Zezwól</string>
@@ -247,8 +313,8 @@ Połącz swoje urządzenie i zewnętrzny monitor (np. telewizor) z tą samą sie
     <string name="notification_permission_client_title">Przyznaj uprawnienia na %1$s</string>
     <string name="notification_permission_content_v2">Zezwolić na wyświetlanie połączeń, SMS-ów i powiadomień z aplikacji z tego urządzenia na %1$s?</string>
     <string name="notification_permission_deny">Nie zezwalaj</string>
-    <string name="notification_permission_request_content">Odblokuj telefon, aby potwierdzić</string>
-    <string name="notification_permission_request_title">%1$s żąda pozwolenia na korzystanie z powiadomień</string>
+    <string name="notification_permission_request_content">Odblokuj, aby zezwolić na dostęp</string>
+    <string name="notification_permission_request_title">Zezwól na dostęp do powiadomień dla %1$s</string>
     <string name="notification_permission_title">Przyznaj uprawnienia dot. powiadomień dla %1$s</string>
     <string name="notification_send_page_pad_disabled">Zezwól na powiadomienia z aplikacji na swoim %1$s w Ustawieniach > Łączność > Powiadomienia między urządzeniami</string>
     <string name="notification_send_page_pad_offline">Upewnij się, że %1$s jest zalogowany na to samo konto Xiaomi i połączony z tą samą siecią co to urządzenie, i zezwól na powiadomienia z aplikacji w Ustawieniach > Łączność > Powiadomienia między urządzeniami.</string>
@@ -276,6 +342,10 @@ Połącz swoje urządzenie i zewnętrzny monitor (np. telewizor) z tą samą sie
     <string name="path_setting_cast_demo_game">Więcej ustawień sieci/Projekcja/Demonstracje/Gry</string>
     <string name="path_setting_cast_feature">Więcej ustawień sieci/Projekcja/Specjalne funkcje</string>
     <string name="path_setting_cast_help">Więcej ustawień sieci/Projekcja/Pomoc</string>
+    <string name="permissionx_access_background_location">Lokalizacja w tle</string>
+    <string name="permissionx_manage_external_storage">Dostęp do wszystkich plików</string>
+    <string name="permissionx_system_alert_window">Wyświetlanie nad innymi aplikacjami</string>
+    <string name="permissionx_write_settings">Modyfikacja ustawień systemu</string>
     <string name="pin_device_header">Przypięte urządzenia</string>
     <string name="pin_hint">Przypnij</string>
     <string name="privacy_permission_wlan_china">Włączanie i wyłączanie Wi-Fi</string>
@@ -306,15 +376,34 @@ Przeczytaj i zaakceptuj &lt;a href=%1$s>Umowy użytkownika&lt;/a> i &lt;a href=%
     <string name="start_btn">Włącz</string>
     <string name="switch_cast_mode">Dotknij, aby zmienić tryb projekcji</string>
     <string name="synergy_text">Interakcja urządzeń Xiaomi</string>
+    <string name="time_update_just_now">Teraz</string>
+    <string name="time_update_time_before">%1$s temu</string>
     <string name="to_login">Zaloguj się</string>
     <string name="toast_local_not_install">Ta aplikacja nie jest zainstalowana.</string>
     <string name="toast_notification_device_not_found">Upewnij się, że %1$s jest zalogowany na to samo konto Xiaomi co to urządzenie</string>
     <string name="toast_remote_not_install">"Ta aplikacja nie jest zainstalowana na Twoim %1$s."</string>
+    <string name="toast_watch_app_not_install">Zainstaluj tę aplikację i spróbuj ponownie</string>
     <string name="tv_remote_auth_cancel">Anuluj</string>
     <string name="tv_remote_auth_title">Wprowadź kod weryfikacyjny telewizora</string>
     <string name="unpin_hint">Odepnij</string>
     <string name="verification_code_flow_title">Kod weryfikacyjny %1$s</string>
     <string name="verification_code_list_title">Kod</string>
+    <string name="watch_app_category_title">Wspierane aplikacje</string>
+    <string name="watch_call_sync_desc">Odbieraj połączenia przekierowane z tego urządzenia</string>
+    <string name="watch_call_sync_title">Połączenia</string>
+    <string name="watch_dynamic_island_desc">Synchronizuj dane o podróży, nawigacji, dostawie jedzenia itp. w czasie rzeczywistym</string>
+    <string name="watch_dynamic_island_page_title">Synchronizuj powiadomienia z Xiaomi HyperIsland na Apple Watchu</string>
+    <string name="watch_health_data_desc">Synchronizuj dane o ćwiczeniach i zdrowiu z Apple Watcha Mi Fitness</string>
+    <string name="watch_health_data_title">Dane o zdrowiu</string>
+    <string name="watch_notification_sync_desc">Synchronizuj powiadomienia z tego urządzenia</string>
+    <string name="watch_notification_sync_page_title">Synchronizuj powiadomienia z tego urządzenia na Apple Watchu</string>
+    <string name="watch_notification_sync_title">Powiadomienia</string>
+    <string name="watch_page_description">"Otrzymuj połączenia, wiadomości, powiadomienia i dane w czasie rzeczywistym z Xiaomi HyperIsland z tego urządzenia na Apple Watchu. Możesz również synchronizować dane dot. ćwiczeń i zdrowia z Apple Watcha z Mi Fitness.
+* Aby użyć wszystkich funkcji łączności, przyznaj niezbędne uprawnienia."</string>
+    <string name="watch_page_description_global">"Otrzymuj połączenia, wiadomości i powiadomienia z tego urządzenia na Apple Watchu.
+* Aby użyć wszystkich funkcji łączności, przyznaj niezbędne uprawnienia."</string>
+    <string name="watch_status_enabled">Wł.</string>
+    <string name="watch_status_not_enabled">Wył.</string>
     <string name="wifi_disabled_dialog_message">Włącz Wi-Fi na urządzeniu, aby korzystać z funkcji Współdzielonego aparatu.</string>
     <string name="wifi_disabled_dialog_message_gl">Włącz Wi-Fi, aby użyć współdzielonego aparatu.</string>
     <string name="window_card_pin_device_offline_group_cancel">Anulowano odtwarzanie w całym domu</string>

@@ -126,6 +126,8 @@
     <string name="path_voip_setting">Aplikacje/Inne ustawienia/Systemowe/Telefon/VoIP settings</string>
     <string name="preference_check_privacy">Wyświetl Politykę prywatności</string>
     <string name="relay_call_fallback_to_original_device">Poprzednia rozmowa została przełączona z powrotem na %s</string>
+    <string name="roaming">Włącz roaming danych</string>
+    <string name="roaming_reenable_message">Nie znajdujesz się już w swojej lokalnej sieci. Aby użyć danych mobilnych, włącz roaming danych. Aby dowiedzieć się więcej o opłatach za roaming, skontaktuj się z operatorem.</string>
     <string name="satellite_area_requirement_message">Ta funkcja jest dostępna tylko dla urządzeń kupionych w Chinach kontynentalnych i Hongkongu i może być używana tylko w tych regionach.</string>
     <string name="satellite_area_requirement_title">Gdzie można korzystać z tej funkcji?</string>
     <string name="satellite_call_failed">Sygnał przerwany. Spróbuj ponownie.</string>

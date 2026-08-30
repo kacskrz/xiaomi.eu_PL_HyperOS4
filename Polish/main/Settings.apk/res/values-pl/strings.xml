@@ -34,6 +34,7 @@
     <string name="add_fingerprint_put_finger_msg">Umieść palec na czytniku, a następnie go podnieś, i powtarzaj ten proces.</string>
     <string name="advanced_screen_paper_mode_title_eye_comfort">Komfort oczu</string>
     <string name="after_sale_service">Usługi posprzedażowe</string>
+    <string name="ai_notification_settings_new">Podsumowanie powiadomień</string>
     <string name="airpods_auto_connect_help">Poradnik automatycznego łączenia</string>
     <string name="airpods_auto_connect_help_step_one">%1$s. Połącz swoje AirPodsy z urządzeniem Apple</string>
     <string name="airpods_auto_connect_help_step_one_summary">Po połączeniu AirPodsów, otwórz stronę szczegółów w Ustawieniach > Bluetooth > AirPods.</string>
@@ -124,6 +125,9 @@ Nie łączono się wcześniej z urządzeniem %2$s."</string>
     <string name="bluetooth_scan_for_devices">Wyszukaj urządzenia</string>
     <string name="bluetooth_talkback_input_peripheral">Peryferyjne urządzenie wejściowe</string>
     <string name="bluetooth_unlock_title">Odblokuj przez Bluetooth</string>
+    <string name="bluetooth_unpair_failed">Nie udało się rozparować</string>
+    <string name="bluetooth_unpairing">Rozparowywanie…</string>
+    <string name="bluetooth_watch_not_synced_unpair_manually">Nie zsynchronizowano zegarka. Rozparuj ręcznie.</string>
     <string name="bootloader_device_bind_no_data_network">Wyłącz Wi-Fi i dodaj swoje konto i urządzenie, używając transmisji danych.</string>
     <string name="bootloader_summary">Zainstaluj oprogramowanie przez USB</string>
     <string name="breathing_light_color_summary">Kolor diody, gdy otrzymano nowe powiadomienie</string>
@@ -246,6 +250,11 @@ Aby go wyłączyć, wyłącz Oszczędzanie baterii lub włącz optymalizacje sys
     <string name="enrol_swipe_fingerprint_title_talkback">Przesuwaj palec w lewo i prawo. Czytnik linii papilarnych znajduje się w przycisku zasilania.</string>
     <string name="extended_power_menu">Rozszerzone menu zasilania (3-way reboot)</string>
     <string name="external_ram_dialog_btn_ok">Zrestartuj</string>
+    <string name="eye_care_adjust_mode">Styl dostosowywania</string>
+    <string name="eye_care_classic_mode">Klasyczny</string>
+    <string name="eye_care_learn_more">Dowiedz się więcej o komforcie oczu</string>
+    <string name="eye_care_mode_description">\"Rytm\" automatycznie dopasowuje temperaturę kolorów na podstawie czasu i scenariusza użytkowania. Będzie ona bardziej naturalna w ciągu dnia i cieplejsza wieczorem. \"Klasyczny\" używa stałej temperatury kolorów i musi być zmieniany ręcznie.</string>
+    <string name="eye_care_rhythmic_mode">Rytm</string>
     <string name="eye_paper_protection">Ustawienia Trybu czytania</string>
     <string name="eye_protection_technology">Technologia</string>
     <string name="eyes_protect_certification_summary_10">Low Blue Light (Hardware Solution) i Circadian Friendly</string>
@@ -260,6 +269,7 @@ Aby go wyłączyć, wyłącz Oszczędzanie baterii lub włącz optymalizacje sys
     <string name="face_unlock_app_lock_desc">Możesz używać danych twarzy do odblokowywania aplikacji.</string>
     <string name="face_unlock_by_notification_screen_on_msg">Możesz odblokować telefon, korzystając z danych twarzy, gdy ekran podświetla się informacją o powiadomieniu. Może to zwiększyć użycie baterii.</string>
     <string name="face_unlock_in_low_light_msg">Zwiększ jasność ekranu w słabym świetle, aby poprawić rozpoznawanie twarzy</string>
+    <string name="face_unlock_in_low_light_tip">Gdy Komfort oczu w nocy jest włączony, funkcja \"Zoptymalizuj rozpoznawanie w słabym świetle\" nie będzie rozjaśniać ekranu</string>
     <string name="face_unlock_in_low_light_title">Zoptymalizuj rozpoznawanie w słabym świetle</string>
     <string name="face_unlock_prompt">"Rejestruj dane twarzy,
 patrząc na zewnętrzny ekran"</string>
@@ -275,6 +285,8 @@ patrząc na zewnętrzny ekran"</string>
     <string name="fmt_date_long_year_month_day">d MMMM yyyy</string>
     <string name="fmt_date_short_year_month_day">d MMM yyyy</string>
     <string name="focus_title">Skupienie powiadomień</string>
+    <string name="font_preview_text_content_new">"Przykładowy tekst:
+Xiaomi nieustannie tworzy niesamowite produkty w uczciwych cenach, aby każdy na świecie mógł cieszyć się lepszym życiem dzięki innowacyjnej technologii."</string>
     <string name="font_setting_weight_toast">Obecna czcionka nie wspiera zmiany jej grubości</string>
     <string name="fonts_management_installed_app">Instaluj i zarządzaj czcionkami, których będziesz używać w aplikacjach</string>
     <string name="fonts_manager">Zarządzaj czcionkami</string>
@@ -342,6 +354,7 @@ Naciśnij przycisk \”Pływające okna\” w menu ostatnio otwartych aplikacji,
     <string name="hover_mode_name">Tryb kieszonkowy</string>
     <string name="icon_display_customization_action">Ikony paska statusu</string>
     <string name="imitate_real_keyboard_summary">Wygodna, gdy urządzenie leży na płaskiej przestrzeni</string>
+    <string name="import_manager_font_summary">Importuj i zarządzaj czcionkami dla aplikacji</string>
     <string name="impunity_declaration_content">Skaner musi korzystać z Twojego aparatu i przetwarzać wykonane przez Ciebie zdjęcia podczas korzystania z tej aplikacji. Nie używaj Skanera do wykonywania zdjęć obiektów zawierających Twoje prywatne dane. Dotykając opcji \"Zgadzam się\", wyrażasz zgodę na warunki &lt;font color=\"#ff32b4ff\">&lt;a href=\"%1$s\" style=\"color:#ff32b4ff;\">Polityki prywatności&lt;/a>&lt;/font> Xiaomi i zezwalasz Skanerowi na łączenie się z Internetem."</string>
     <string name="infinity_display_title">Nawigacja systemowa</string>
     <string name="input_method_quick_paste_summary">Zobacz skopiowane elementy, dotykając ikony schowka</string>
@@ -571,7 +584,7 @@ Jeśli zgubisz urządzenie, to dodatkowe sprawdzenie wciąż może zapobiec zmia
     <string name="night_display_auto_mode_custom">Własny harmonogram</string>
     <string name="night_display_auto_mode_never">Nigdy</string>
     <string name="night_display_auto_mode_twilight">Od zachodu do wschodu słońca</string>
-    <string name="night_eye_protection_summary">Automatycznie zredukuj jasność po zaśnięciu, aby zapewnić komfort po obudzeniu się w nocy i spojrzeniu na ekran</string>
+    <string name="night_eye_protection_summary">Automatycznie zredukuj jasność, gdy pójdziesz spać, dla lepszego komfortu w sytuacji, gdy obudzisz się i spojrzysz na urządzenie w nocy</string>
     <string name="night_eye_protection_title">Komfort oczu w nocy</string>
     <string name="no_internet_access_text">Sieć %1$s nie ma dostępu do internetu. Nadal chcesz się z nią łączyć?</string>
     <string name="normal_smartcover_title">Bez okienka</string>
@@ -613,6 +626,8 @@ Ustawienia > Bezpieczeństwo i tryb alarmowy > Alerty o zagrożeniu"</string>
     <string name="password_set_success_hint">Możesz teraz odblokować urządzenie nową blokadą ekranu</string>
     <string name="pc_hidemode_performance_chip_title">Wydajność (overclocking)</string>
     <string name="pc_power_mode_has_performance_chip">Ulepszona wydajność (overclocking)</string>
+    <string name="peep_protection_v2_banner_summary">Wypróbuj funkcje prywatności wyświetlacza ekskluzywne dla tego modelu</string>
+    <string name="peep_protection_v2_main_tile_label">Inteligentny prywatny wyświetlacz</string>
     <string name="permit_full_screen_intent">Zezwól na powiadomienia pełnoekranowe z tej aplikacji</string>
     <string name="personal_audio_adaptation_retry">Zacznij od nowa</string>
     <string name="personal_audio_adapted_desc">Adaptacja ukończona. Dotknij opcji \"Zacznij od nowa\", aby rozpocząć proces ponownie.</string>
@@ -633,6 +648,12 @@ Ustawienia > Bezpieczeństwo i tryb alarmowy > Alerty o zagrożeniu"</string>
     <string name="pluto_miheadset_immersion_summary">Redukcja szumów połączona z kojącymi dźwiękami dla spokojniejszego transportu</string>
     <string name="pluto_one_ear_toast">Najpierw załóż obie słuchawki</string>
     <string name="pluto_open_immersion_toast">Odtwarzanie muzyki wstrzyma Immersyjny transport. Wznowi się po zatrzymaniu muzyki.</string>
+    <string name="pocket_musician_battery_toast_both">Zanim zaktualizujesz oprogramowanie, naładuj to urządzenie i Xiaomi Pocket Guitar</string>
+    <string name="pocket_musician_battery_toast_device">Zanim zaktualizujesz oprogramowanie, naładuj Xiaomi Pocket Guitar</string>
+    <string name="pocket_musician_battery_toast_phone">Podłącz ładowarkę do tego urządzenia i spróbuj ponownie zaktualizować oprogramowanie</string>
+    <string name="pocket_musician_ota_connect_first">Połącz Xiaomi Pocket Guitar, aby uzyskać dane dot. aktualizacji</string>
+    <string name="pocket_musician_ota_dialog_text">Aktualizowanie…</string>
+    <string name="pocket_musician_ota_summary">Zrestartuj ręcznie to akcesorium po aktualizacji</string>
     <string name="poco_launcher_privacy_policy">Polityka prywatności POCO Launcher</string>
     <string name="poco_launcher_user_agreement">Umowa użytkownika POCO Launcher</string>
     <string name="post_reset_google_verification">Po resecie do ustawień fabrycznych zaloguj się na konto Google, które było wcześniej używane na tym urządzeniu, aby ustawić hasło.</string>
@@ -857,6 +878,8 @@ lub posiadających złącze mini-jack (3,5 mm)."</string>
     <string name="var_font_switch_dialog_summary">Aby zmienić to ustawienie, konieczne jest ponowne uruchomienie urządzenia.</string>
     <string name="var_font_switch_dialog_title">Uruchomić ponownie?</string>
     <string name="var_font_switch_title">Zmienna grubość czcionki</string>
+    <string name="video_codec_floating_window_summary">Wyświetlaj informacje o kodeku wideo w pływającym oknie</string>
+    <string name="video_codec_floating_window_title">Pływające okno z informacją o kodeku wideo</string>
     <string name="voice_assist_summary">Twój osobisty inteligentny asystent</string>
     <string name="vpn_first_always_on_vpn_message">Po włączeniu tego ustawienia utracisz połączenie z Internetem do czasu nawiązania połączenia przez VPN</string>
     <string name="welcomeBtn">Start</string>
@@ -872,6 +895,9 @@ lub posiadających złącze mini-jack (3,5 mm)."</string>
     <string name="wifi_region_title">Region Wi-Fi</string>
     <string name="wifi_share_close_button_description">Zamknij</string>
     <string name="wifi_share_qr_code_description">Kod QR</string>
+    <string name="wifi_wakeup_privacy_agree">Zgadzam się</string>
+    <string name="wifi_wakeup_privacy_disagree">Anuluj</string>
+    <string name="wifi_wakeup_privacy_title">Stanowisko dot. prywatności</string>
     <string name="wlan_switch_tips_message">W trakcie przełączania się między dodatkową i główną siecią Wi-Fi urządzenie tymczasowo rozłączy się z dodatkową siecią. Przełączyć?</string>
     <string name="work_profile_sound_category_title">Dźwięk profilu służbowego</string>
     <string name="xiaomi_confirm_enable_16k_erase_checkbox_text">Rozumiem ryzyko i akceptuję potencjalne konsekwencje</string>

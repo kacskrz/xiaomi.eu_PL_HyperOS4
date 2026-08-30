@@ -190,7 +190,9 @@ z przedniego aparatu"</string>
     <string name="wallpaper_and_signature_title">Tapety i podpisy</string>
     <string name="wallpaper_bright_title">Blask</string>
     <string name="wallpaper_floral_arrangement_title">Kwiaty</string>
+    <string name="wallpaper_group_ai_companion_title">Towarzysz SI</string>
     <string name="wallpaper_group_ai_zone_title">Tapety SI</string>
+    <string name="wallpaper_group_animation_effect_title">Dynamiczne efekty</string>
     <string name="wallpaper_group_big_numbers_title">Wielkie liczby</string>
     <string name="wallpaper_group_black_gobi_title">Piaski Gobi</string>
     <string name="wallpaper_group_black_white_title">Czarny i biały</string>
@@ -202,11 +204,13 @@ z przedniego aparatu"</string>
     <string name="wallpaper_group_fun_wallpapers_title">Zabawne tapety</string>
     <string name="wallpaper_group_glassy_light_title">Warstwy ze szkła</string>
     <string name="wallpaper_group_light_cycles_title">Neonowe okręgi</string>
+    <string name="wallpaper_group_light_painting_title">Malowanie światłem</string>
     <string name="wallpaper_group_macaron_title">Galaretki</string>
     <string name="wallpaper_group_molten_glass_title">Stopione szkło</string>
     <string name="wallpaper_group_new_year_title">Chiński Nowy Rok</string>
     <string name="wallpaper_group_sgn_mountain_title">Góra Siguniang</string>
     <string name="wallpaper_group_shadow_geometry_title">Geometria cieni</string>
+    <string name="wallpaper_group_sparkle_title">Blask</string>
     <string name="wallpaper_group_system_wallpaper_title">Tapety systemowe</string>
     <string name="wallpaper_group_time_watch_title">Zegary</string>
     <string name="wallpaper_manying_title">Cienie</string>

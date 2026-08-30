@@ -40,6 +40,7 @@ nie są tworzone w Drugiej przestrzeni"</string>
     <string name="dynamic_ringtone_desc">"Zbadaliśmy różne ekosystemy i odtworzyliśmy ich dźwięki. Zacznij badać dźwięki natury razem z nami!"</string>
     <string name="fmt_date_long_year_month_day">d MMMM yyyy</string>
     <string name="fmt_date_short_year_month_day">d MMM yyyy</string>
+    <string name="font_import_failed_exist">Nie udało się zaimportować. Ta czcionka już istnieje.</string>
     <string name="footer_global_fps">"
 %1$d. Gdy włączysz Tryb wydajności, zostanie ustawiona najwyższa możliwa częstotliwość odświeżania (%2$d Hz). Ustawienia korzystania przez aplikacje z wysokiej częstotliwości odświeżania będą tymczasowo niedostępne."</string>
     <string name="fps_save_battery_tips">Włączono Oszczędzanie baterii. Częstotliwość odświeżania wynosi obecnie %d Hz.</string>

@@ -78,6 +78,7 @@
     <string name="month_september_short">wrz</string>
     <string name="month_september_shortest">W</string>
     <string name="monthly_on_day_count">Co miesiąc (%1$s miesiąca)</string>
+    <string name="no_title">Bez tytułu</string>
     <string name="panel_title_end">Koniec</string>
     <string name="panel_title_start">Początek</string>
     <string name="pass_day">Minęło</string>

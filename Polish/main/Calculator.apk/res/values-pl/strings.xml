@@ -9,7 +9,6 @@
     <string name="full_window">Maksymalizuj</string>
     <string name="miuix_appcompat_accessibility_start_edit_action_mode">Wejdź w tryb edycji</string>
     <string name="new_privacy_string"><Data>"Witaj w Kalkulatorze!&lt;br/>Aplikacja zawiera następujące funkcje:&lt;br/>• Podstawowy kalkulator&lt;br/>• Kalkulator naukowy&lt;br/>• Uniwersalny konwerter (np. kursów walut, jednostek miary czy danych)&lt;br/>• Kalkulatory dot. inwestycji, pożyczek i innych opcji&lt;br/>Możesz dowiedzieć się, jak Xiaomi przetwarza te dane w ramach &lt;a href= \"%1$s\">Polityki prywatności&lt;/a>. Przed skorzystaniem z Kalkulatora przeczytaj i zaakceptuj &lt;a href=\"%2$s\">Umowę użytkownika&lt;/a> oraz &lt;a href=\"%3$s\">Politykę prywatności&lt;/a>. Możesz cofnąć swoją zgodę na warunki Polityki prywatności w ustawieniach aplikacji w dowolnym momencie. Jeśli to zrobisz, niektóre funkcje aplikacji staną się niedostępne, niemniej dalej będzie można korzystać z jej podstawowych opcji."</Data></string>
-    <string name="preference_percentage_proportion_discount_comments">Najpierw pomnóż procent przez poprzedni wynik, a następnie dodaj lub odejmij — często używane do obliczania obniżek</string>
     <string name="preference_privacy_title">Polityka prywatności</string>
     <string name="preference_view_privacy_title">Wyświetl Politykę prywatności</string>
     <string name="release_to_refresh">Puść, aby zobaczyć historię</string>
