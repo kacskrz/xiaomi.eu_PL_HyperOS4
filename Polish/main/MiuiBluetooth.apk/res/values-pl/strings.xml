@@ -44,7 +44,6 @@
     <string name="finddevice_update_title">Zaktualizuj Znajdź urządzenie</string>
     <string name="glasses_download_title">Zainstaluj aplikację \"Xiaomi Smart Glasses\"</string>
     <string name="headset_autoswitch_switched">Przełączono</string>
-    <string name="headset_device_error_muilt_mma_connected">Ze słuchawek korzysta już inne urządzenie. Spróbuj ponownie później.</string>
     <string name="headset_incall_answer">Odbierz</string>
     <string name="headset_incall_reject">Anuluj</string>
     <string name="headset_incall_summary">Odebrać połączenie na %1$s za pomocą słuchawek? Pozostaną one połączone z tym urządzeniem po zakończeniu rozmowy.</string>

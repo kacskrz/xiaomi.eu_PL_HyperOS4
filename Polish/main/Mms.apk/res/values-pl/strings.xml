@@ -38,7 +38,6 @@ do Listy blokowanych"</string>
     <string name="dialog_message_fake_cell_detect_error">Poprawić informacje o tej wiadomości? Aby to zrobić, Xiaomi musi pobrać numer telefonu (%1$s), zawartość wiadomości i informacje o pobliskiej lokalizacji na swoje serwery.</string>
     <string name="dialog_title_correct_as_ad">Przenieś do reklam</string>
     <string name="dock_content_text">Przywróć ikonę aplikacji SMS na Ekranie głównym do jej domyślnej pozycji, aby łatwo i szybko ją znaleźć. Zrobić to teraz?</string>
-    <string name="emergency_alert_history_records">Historia ostrzeżeń alarmowych</string>
     <string name="emergency_label">Kontakt alarmowy</string>
     <string name="enable_classify_tip_dialog_content">Ta opcja spowoduje ponowne uruchomienie aplikacji SMS.</string>
     <string name="english_subject_limit">Limit 40 znaków</string>

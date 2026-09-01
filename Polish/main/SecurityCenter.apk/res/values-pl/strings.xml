@@ -31,7 +31,6 @@
     <string name="adb_install_open_error">"Nie można zezwolić. Sprawdź połączenie z siecią."</string>
     <string name="adb_install_reject_notiy_desc">Możesz zezwolić na instalację przez USB w Opcjach programistycznych</string>
     <string name="add_auto_task_desktop_icon">Dodaj skrót na Ekranie głównym</string>
-    <string name="add_game_notification_title">Dodano %s do Game Space</string>
     <string name="add_miservice_dialog_content">"Aplikacja %s chce dodać usługę sieciową Xiaomi do wyjątków. Możesz otrzymywać powiadomienia z systemowych aplikacji."</string>
     <string name="add_to_whitelist_button">Wyjątki w roamingu</string>
     <string name="added_game_notification_summary">Zacznij grać</string>
@@ -334,9 +333,6 @@ Jeśli jej jeszcze nie ustawiono, postępuj zgodnie z instrukcjami, aby to zrobi
     <string name="auto_task_voice_dialog_call_title">Połączenia, powiadomienia, przypomnienia</string>
     <string name="auto_task_voice_dialog_media_title">Muzyka, gry, multimedia</string>
     <string name="back_sound_support_china">Wyłącz Wi-Fi</string>
-    <string name="background_virus_scan_notification_summary">Wiele aplikacji, w tym %s. Dotknij, aby wyświetlić.</string>
-    <string name="background_virus_scan_notification_summary_one">Dotknij, aby wyświetlić</string>
-    <string name="background_virus_scan_notification_title_one">Wykryto groźną aplikację %s</string>
     <string name="battery_and_property_ordinary_notify">Regularne powiadomienia o baterii</string>
     <string name="battery_desc_ambient_display">Użycie baterii przez tryb Ekran zawsze włączony</string>
     <string name="battery_low_percent_format_save_mode_open">"Pozostało ci mniej niż %1$s baterii. Włącz Oszczędzanie baterii, aby zyskać %2$s czasu."</string>
@@ -410,7 +406,6 @@ Możesz włączyć i wyłączyć tę funkcję w Centrum funkcji."</string>
     <string name="connected_devices_permission">Interakcja urządzeń Xiaomi i uprawnienia</string>
     <string name="connected_devices_permission_settings">Interakcja urządzeń Xiaomi i uprawnienia</string>
     <string name="connected_interconnection">Interakcja urządzeń Xiaomi</string>
-    <string name="contacts_will_also_be_blocked">W tym kontakty</string>
     <string name="convenient_summary">Nie wymagaj hasła po tym, jak odblokowano min. 1 aplikację</string>
     <string name="cs_camera_bubble">Wykryto dostępny aparat. <annotation key="action" value="switchCamera">Dotknij, aby się przełączyć.</annotation></string>
     <string name="cs_pickup_enhance">Ulepszona</string>
@@ -642,8 +637,6 @@ Gdy włączony jest Inteligentny klatkaż, narzędzia wykrywające klatkaż (w g
     <string name="gamebooster_network_dialog_message">Zezwolić Panelowi sterowania na połączenie z siecią w celu użycia wszystkich funkcji Game Turbo?</string>
     <string name="gamebox_ai_accelerate">Przyspieszenie danych mobilnych z SI</string>
     <string name="gamebox_filter_alpha_tip">Przeźroczystość</string>
-    <string name="gamebox_func_start_gyroscope_international">Aby użyć tej funkcji, włącz żyroskop w ustawieniach gry</string>
-    <string name="gamebox_gyroscope_acceleration_international">Przyspieszenie żyroskopu</string>
     <string name="gamebox_macro">Kombosy</string>
     <string name="gamebox_net_optimize_description">Zmniejsz opóźnienia sieci Wi-Fi oraz ich zmienność. Aby cieszyć się specjalnymi trybami zwiększania prędkości, użyj routera Xiaomi lub Redmi.</string>
     <string name="gamebox_recent_task_expand_fail">Aplikacje, które działają ze skrótami, nie są zainstalowane</string>
@@ -877,9 +870,6 @@ Przytrzymaj pasek, aby przesuwać okno."</string>
     <string name="in_delete">Usuwanie…</string>
     <string name="in_recover">Przywracanie…</string>
     <string name="info_unantispam_phone_sms">Zezwól na połączenia i SMS</string>
-    <string name="intercept_accessibility_virus_notifiction_summary">Wiele aplikacji, w tym %s, nadużywa uprawnień ułatwień dostępu</string>
-    <string name="intercept_accessibility_virus_notifiction_summary_one">Ta aplikacja nadużywa uprawnień ułatwień dostępu. Dotknij, aby wyświetlić.</string>
-    <string name="intercept_accessibility_virus_notifiction_title_one">Zablokowano groźną aplikację %s</string>
     <string name="international_roaming_setting">Roaming</string>
     <string name="intl_perm_intro_message">Dotknij, aby dostosować uprawnienia - pozwoli to uniknąć wycieku danych</string>
     <string name="intl_perm_privacy_control_calendar">"Aplikacja może uzyskać dostęp bądź zedytować elementy w kalendarzu tylko wtedy, gdy z niej korzystasz"</string>
@@ -1273,7 +1263,6 @@ Jako uzupełnienie ograniczenia widoczności pod kątem, system może ostrzec Ci
     <string name="permission_action_allow_for_compatibility">Tylko sieć lokalna</string>
     <string name="permission_action_virtual_phone_summary">"Nadaj aplikacjom odpowiednie uprawnienia, ale nie zezwól im na dostęp do numeru telefonu z karty SIM"</string>
     <string name="permission_allow_for_compatibility_note">Umożliwia aplikacji komunikację tylko z urządzeniami w tej samej sieci lokalnej. Bluetooth i inne metody łączności nie są obsługiwane.</string>
-    <string name="permission_changed_retry">Zmieniono uprawnienia. Uruchom ponownie aplikacje.</string>
     <string name="permission_close_permission_control_dialog_msg">Kiedy \"Zarządzanie uprawnieniami\" jest wyłączone, aplikacje nie będą prosić o pozwolenie na czytanie kontaktów, wyświetlanie historii połączeń, zmianę ustawień systemowych, dostęp do aparatu czy innych zasobów systemowych.</string>
     <string name="permission_compatibility_dialog_message">Ta aplikacja została zaprojektowana dla starszej wersji Androida. Odmowa uprawnień może spowodować, że nie będzie ona działać zgodnie z przeznaczeniem.</string>
     <string name="permission_compatibility_dialog_negative_btn">Anuluj</string>
@@ -1681,11 +1670,8 @@ Wycofać zgodę?"</string>
     <string name="privacy_screen_share_sheet_protect_label">Ochrona zawartości ekranu %s</string>
     <string name="privacy_screen_share_sheet_stop">Zatrzymaj udostępnianie</string>
     <string name="privacy_screen_share_sheet_summary_auto_hide">Pływające powiadomienia są automatycznie ukrywane</string>
-    <string name="privacy_screen_share_v2_land_subtitle">\"%s\" uzyskuje dostęp do zawartości ekranu</string>
     <string name="privacy_screen_share_v2_notification_content">\"%s\" uzyskuje dostęp do zawartości ekranu</string>
     <string name="privacy_screen_share_v2_notification_protect_title">Zawartość ekranu jest chroniona</string>
-    <string name="privacy_screen_share_v2_notification_title">Rzutowanie zawartości ekranu</string>
-    <string name="privacy_screen_share_v2_small_island_title">Udostępnianie ekranu</string>
     <string name="privacy_search_key_8">Ochrona przed śledzeniem</string>
     <string name="privacy_search_keyword_4">Ukryj skróty Ekranu głównego</string>
     <string name="privacy_thumbnail_blur_top_tip">Wybierz aplikacje, których podglądy w menu ostatnio otwartych aplikacji będą zamazane</string>
@@ -1708,7 +1694,6 @@ Wycofać zgodę?"</string>
     <string name="reject_usb_install">Odrzucono instalacje przez USB</string>
     <string name="release_meminfo">Zwolniono %d MB</string>
     <string name="reminder_click_to_close_tips">Możesz włączać i wyłączać ostrzeżenia dot. użycia danych w Panelu sterowania > Zużycie danych > Ustawienia.</string>
-    <string name="repeated_stranger_number_summary">Nie blokuj drugiego połączenia z tego samego nieznanego numeru w ciągu %d minut</string>
     <string name="reset_data_dialog_message">"Urządzenie nie jest powiązane z kontem Xiaomi. Nie można przywrócić lub zmienić hasła. Skopiuj wszystkie ważne dane i wykonaj reset do ustawień fabrycznych. Proces ten usunie wszystkie dane z urządzenia - w tym także z nośnika USB."</string>
     <string name="reset_data_dialog_ok">Ustawienia fabryczne</string>
     <string name="reset_data_title">"Nie można przywrócić hasła"</string>
@@ -1725,11 +1710,7 @@ Wycofać zgodę?"</string>
     <string name="screen_share_protection_negative_button">"Nie udostępniaj"</string>
     <string name="screen_share_protection_summary">"Aplikacja, której używasz, zawiera Twoje prywatne dane, które mogą być widoczne dla innych osób w trakcie projekcji. Udostępniać ją mimo to?"</string>
     <string name="screen_share_protection_title">Uwaga</string>
-    <string name="screen_share_protection_warning_icon_title">Ochrona przed oszustwami</string>
     <string name="screen_share_protection_warning_positive_button">Udostępnij</string>
-    <string name="screen_share_search_keyword_1">Udostępnianie ekranu</string>
-    <string name="screen_share_search_keyword_2">Udostępnij ekran</string>
-    <string name="screen_share_search_title">Ochrona udostępniania ekranu</string>
     <string name="screen_share_warning_button">Rozumiem</string>
     <string name="screen_share_warning_positive_button">Zatrzymaj</string>
     <string name="screen_share_warning_summary">"Zawartość ekranu jest teraz nagrywana lub przesyłana w ramach projekcji. Powiadomienia będą ukryte podczas tego procesu"</string>
@@ -1900,7 +1881,6 @@ Wycofać zgodę?"</string>
     <string name="status_bar_network_flow_content">"Dziś: %1$s | Pozostało: %2$s"</string>
     <string name="status_bar_network_flow_content_not_setting">"Dziś: %1$s | W tym miesiącu: %2$s"</string>
     <string name="status_bar_network_flow_exceed_content">"Dziś: %1$s | Przekroczone: %2$s/%3$s"</string>
-    <string name="still_need_start">Blokuj</string>
     <string name="stop_collecting_data">"Klawiatura nie będzie uczyć się Twoich nawyków"</string>
     <string name="stop_collecting_data_detail">"Klawiatura nie będzie gromadzić danych w celu poprawiania przewidywań dot. pisania i sugerowania częstych zwrotów w oparciu o Twoje nawyki."</string>
     <string name="storage_activity_title">Przestrzeń na dane</string>
@@ -2039,8 +2019,6 @@ Wycofać zgodę?"</string>
     <string name="tips_of_app_manage">Usuń rzadko używane aplikacje</string>
     <string name="tips_of_auto_launch_manage">Dostosuj autostart aplikacji</string>
     <string name="title_app_lock_disable">Blokada dostępu</string>
-    <string name="title_block_calls_from_cantacts">Nie odebrałeś połączeń od swoich kontaktów?</string>
-    <string name="title_block_calls_from_strangers">Nie odebrałeś ważnych połączeń?</string>
     <string name="title_cloud_space_almost_full">Kończy się miejsce w Chmurze Xiaomi.</string>
     <string name="title_condition_absorbed">Tryb skupienia</string>
     <string name="title_condition_alarm">Alarm</string>

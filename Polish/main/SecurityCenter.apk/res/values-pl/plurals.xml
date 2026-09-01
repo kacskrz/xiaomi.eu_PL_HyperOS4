@@ -30,11 +30,6 @@
         <item quantity="few">Aktualizuj %d aplikacje</item>
         <item quantity="one">Aktualizuj %d aplikację</item>
     </plurals>
-    <plurals name="background_virus_scan_notification_title">
-        <item quantity="other">Wykryto %d groźnych aplikacji</item>
-        <item quantity="few">Wykryto %d groźne aplikacje</item>
-        <item quantity="one">Wykryto %d groźną aplikację</item>
-    </plurals>
     <plurals name="found_apps_title">
         <item quantity="other">Znaleziono %d aplikacji</item>
         <item quantity="zero">Nie znaleziono aplikacji</item>
@@ -86,11 +81,6 @@
         <item quantity="other">Usuń %d obrazów</item>
         <item quantity="one">Usuń %d obraz</item>
         <item quantity="few">Usuń %d obrazy</item>
-    </plurals>
-    <plurals name="intercept_accessibility_virus_notifiction_title">
-        <item quantity="other">Zablokowano %d groźnych aplikacji</item>
-        <item quantity="few">Zablokowano %d groźne aplikacje</item>
-        <item quantity="one">Zablokowano %d groźną aplikację</item>
     </plurals>
     <plurals name="intl_perm_privacy_control_message_count">
         <item quantity="other">Możesz ochronić %d elementów</item>
@@ -152,11 +142,6 @@
         <item quantity="other">%d widocznych powiadomień</item>
         <item quantity="few">%d widoczne powiadomienia</item>
         <item quantity="one">%d widoczne powiadomienie</item>
-    </plurals>
-    <plurals name="opt_antivirus_scan_multi_antivirus_notification_title">
-        <item quantity="other">%2$d aplikacji (w tym %1$s) może być złośliwych</item>
-        <item quantity="few">%2$d aplikacje (w tym %1$s) mogą być złośliwe</item>
-        <item quantity="one">%2$d aplikacja (%1$s) może być złośliwa</item>
     </plurals>
     <plurals name="pc_extreme_mode_count_down_title_new">
         <item quantity="other">Słaba bateria. Urządzenie przejdzie w Tryb hibernacji za %1$d sekund. Wydajność i siła sygnału mogą być nieco słabsze.</item>

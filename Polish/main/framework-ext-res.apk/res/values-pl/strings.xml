@@ -134,9 +134,6 @@
     <string name="permlab_manageFingerprint">zarządzanie czytnikiem linii papilarnych</string>
     <string name="permlab_useBiometric">używanie sprzętu biometrycznego</string>
     <string name="permlab_useFingerprint">używanie czytnika linii papilarnych</string>
-    <string name="presentation_payphone">Płatny</string>
-    <string name="presentation_private">Prywatny numer</string>
-    <string name="presentation_unknown">Nieznany numer</string>
     <string name="projection_disable_camera_toast">Ta aplikacja nie pozwala na korzystanie z aparatu innego połączonego urządzenia podczas projekcji. Przełącz się na swój telefon.</string>
     <string name="rescueparty_package_tips">Wykryto uszkodzenie usługi systemowej {0}</string>
     <string name="resolver_offical_recommend">Oficjalna</string>
