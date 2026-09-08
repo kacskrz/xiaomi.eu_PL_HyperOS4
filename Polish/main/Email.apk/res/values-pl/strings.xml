@@ -48,7 +48,6 @@ Aby w pełni zrozumieć swoje prawa jako użytkownika, a także metody, w ramach
     <string name="account_settings_notifications">Powiadomienia</string>
     <string name="account_settings_notify_label">Powiadomienia o e-mailach</string>
     <string name="account_settings_op_title">Zarządzanie e-mailami</string>
-    <string name="account_settings_param">Ustawienia konta</string>
     <string name="account_settings_preference_att_save_path">Domyślna lokalizacja załączników</string>
     <string name="account_settings_preference_head_icon">Zdjęcia profilowe</string>
     <string name="account_settings_preference_head_icon_summary">Na liście e-maili wyświetlany jest awatar nadawcy</string>
@@ -165,7 +164,6 @@ IMAP"</string>
     <string name="att_mgr_title_order_name">Nazwa</string>
     <string name="att_mgr_title_order_rev_date">Data</string>
     <string name="att_mgr_title_order_sender">Nadawca</string>
-    <string name="attached_message">Dołączona wiadomość</string>
     <string name="attachment_application_msword">Dokument</string>
     <string name="attachment_application_vnd_ms_excel">Arkusz kalkulacyjny</string>
     <string name="attachment_application_vnd_ms_powerpoint">Prezentacja</string>
@@ -229,7 +227,6 @@ IMAP"</string>
     <string name="certificate_password_prompt_title">Uzyskaj certyfikat</string>
     <string name="certificate_password_tips">Wprowadź hasło, aby uzyskać certyfikat</string>
     <string name="certificate_password_tips_w">Wprowadzone hasło jest nieprawidłowe</string>
-    <string name="change_sync_settings">Zmień ustawienia synchronizacji</string>
     <string name="changepw_dialog_auth_tips">Wprowadź ponownie kod autoryzacyjny dla %s</string>
     <string name="changepw_dialog_tips">Wpisz ponownie hasło dla \"%s\"</string>
     <string name="chat_item_msg_people_unit">osób</string>
@@ -312,7 +309,6 @@ IMAP"</string>
     <string name="default_opening_attchemnt_mode">Otwieraj załączniki za pomocą domyślnych aplikacji</string>
     <string name="default_setup">USTAWIENIA DOMYŚLNE</string>
     <string name="default_signature">Wysłano z urządzenia Xiaomi</string>
-    <string name="default_signature_2">Wysłano z %s</string>
     <string name="default_signature_pad">Wysłane z urządzenia Xiaomi</string>
     <string name="default_signature_phone">Wysłano z urządzenia Xiaomi</string>
     <string name="delete">Usuń</string>
@@ -322,7 +318,6 @@ IMAP"</string>
     <string name="delete_message_dialog_right_button">Tylko usuń</string>
     <string name="delete_message_dialog_title">Usuwanie e-maila</string>
     <string name="delete_message_event">Usunąć to zaproszenie?</string>
-    <string name="device_activity_lint_str">Włącz pełną aktualizację usługi poczty oraz uaktywnij ustawienia bezpieczeństwa</string>
     <string name="dialog_agree">Zgadzam się</string>
     <string name="dialog_change_sync_lookback">Poczta otrzymana %s temu zostanie automatycznie usunięta. Dotknij, aby to zmienić.</string>
     <string name="dialog_disagree">Anuluj</string>
@@ -407,7 +402,6 @@ IMAP"</string>
     <string name="error_message_respond_revert_25">Sprawdź połączenie z siecią i spróbuj ponownie.</string>
     <string name="error_message_respond_revert_26">Twoje konto zostało zablokowane. Zaloguj się na pocztę Sohu w przeglądarce, aby je aktywować.</string>
     <string name="error_message_respond_revert_27">Hasło wygasło. Zaloguj się na pocztę Sohu w przeglądarce, aby uzyskać hasło wygenerowane przez serwer.</string>
-    <string name="exchange_login_hint">Dotknij, aby zalogować się na konto Exchange</string>
     <string name="exchange_name">Firma (Exchange)</string>
     <string name="expand_recipient_details">Rozwiń szczegóły odbiorcy</string>
     <string name="exposed_dropdown_menu_content_description">Pokaż rozwijane menu</string>
@@ -430,7 +424,6 @@ IMAP"</string>
     <string name="filter_title_me">%s [Wysłano do mnie]</string>
     <string name="filter_title_unread">%s [Nieprzeczytane]</string>
     <string name="folder">Foldery</string>
-    <string name="folder_list_current_account">Obecne konto</string>
     <string name="folder_list_switch_account">Przełącz</string>
     <string name="folder_no_mails">Brak maili</string>
     <string name="folder_notification_setting_tip">W swojej skrzynce masz kilka folderów. Ustaw powiadomienia dot. nowych wiadomości dla konkretnych folderów.</string>
@@ -490,10 +483,7 @@ IMAP"</string>
     <string name="icloud_login_tips">Możesz utworzyć hasło, które będziesz używać na swoim koncie iCloud, na stronie: iCloud.com</string>
     <string name="icoud_login_pw_hint">Wprowadź hasło</string>
     <string name="imap_password_error">Hasło do serwera poczty przychodzącej jest nieprawidłowe</string>
-    <string name="info_item_hide">Usuń</string>
     <string name="inline_picture_deleted">Pobieranie brakujących obrazów</string>
-    <string name="install_mime_encrypt_cert">Dodaj certyfikat szyfrowania S/MIME</string>
-    <string name="install_mime_sign_cert">Dodaj certyfikat sygnatury S/MIME</string>
     <string name="invalid_recipient_dialog_message">Wprowadź prawidłowy adres e-mail odbiorcy</string>
     <string name="invalid_recipient_dialog_title">Nie udało się wysłać</string>
     <string name="invoice_card_amount">Suma</string>
@@ -513,37 +503,25 @@ IMAP"</string>
     <string name="local_folder_prefix">"To urządzenie: "</string>
     <string name="location_hint">Lokalizacja</string>
     <string name="login">Zaloguj</string>
-    <string name="login_cancelled">Anulowano próbę logowania</string>
     <string name="login_des_126">Zaloguj się do 126 Mail</string>
     <string name="login_des_163">Zaloguj się do 163 Mail</string>
     <string name="login_des_exchange">Zaloguj się do Exchange</string>
     <string name="login_des_gmail">Zaloguj się do Gmaila</string>
-    <string name="login_des_hotmail">Zaloguj się do Hotmaila</string>
     <string name="login_des_icloud">Zaloguj się na konto iCloud</string>
-    <string name="login_des_mail_ru">Zaloguj się do Mail.ru</string>
     <string name="login_des_office365">Zaloguj się do Office 365</string>
     <string name="login_des_others">Zaloguj się do innych ważnych klientów poczty</string>
-    <string name="login_des_outlook">Zaloguj się do Outlooka</string>
     <string name="login_des_qq">Zaloguj się do QQ Mail</string>
-    <string name="login_des_rediff">Zaloguj się do Rediffmail</string>
-    <string name="login_des_yahoo">Zaloguj się do Yahoo Mail</string>
-    <string name="login_des_yangdex">Zaloguj się do Yandex Mail</string>
     <string name="login_err_message">Jeśli wybrano taką opcję poprzednio, użyj autoryzowanych kodów weryfikacyjnych do zalogowania się do %1$s. Aby zresetować hasło bądź kod, wejdź na https://email.163.com/.</string>
     <string name="login_err_outlook_msg">"%s
 Ten problem może być spowodowany przez uwierzytelnianie dwuskładnikowe Twojego konta. Spróbuj wpisać swoje hasło lub wyłączyć to uwierzytelnianie."</string>
     <string name="login_err_sina_message">Jeśli wybrano taką opcję poprzednio, użyj autoryzowanych kodów weryfikacyjnych do zalogowania się do %1$s. Aby zresetować hasło bądź kod, wejdź na https://mail.sina.com.cn/.</string>
-    <string name="login_failed">Nie udało się zalogować</string>
     <string name="login_failed_ticker">Nie udało się zalogować na konto %s.</string>
-     <string name="login_failed_tip">"Aby uzyskać pomoc, skontaktuj się z nami na WeChacie: "</string>
     <string name="login_failed_title">Nie można się zalogować</string>
     <string name="login_mail">Zaloguj się</string>
     <string name="login_manual">Ustawienia manualne</string>
     <string name="login_qq_psw">Wprowadź kod ręcznie</string>
     <string name="login_tip">Domyślnie do logowania się będzie wykorzystywany protokół %s. Jeśli chcesz użyć innego protokołu, wybierz go ręcznie w ustawieniach logowania.</string>
     <string name="mail_header_network_not_available">Brak połączenia z siecią.</string>
-    <string name="mail_outlook_login_tips">Zgodnie z wymaganiami firmy Microsoft zostaniesz przekierowany na stronę logowania tej firmy.</string>
-    <string name="mail_outlook_oauth_login">"Zaloguj się za pomocą OAuth
-(osoby prywatne nie mogą synchronizować kalendarzy Outlooka przy logowaniu w ten sposób)"</string>
     <string name="mail_outlook_psw_login">Zaloguj się hasłem</string>
     <string name="mail_spam_notify_title">Informuj o spamie</string>
     <string name="mailbox_folder">Foldery</string>
@@ -563,7 +541,6 @@ Ten problem może być spowodowany przez uwierzytelnianie dwuskładnikowe Twojeg
     <string name="mailbox_settings_mailbox_sync_window_label">Dni do synchronizacji</string>
     <string name="mailbox_settings_sync_enabled_label">Zsynchronizuj ten folder</string>
     <string name="mailbox_settings_sync_enabled_summary">Wiadomości zostaną pobrane po nawiązaniu połączenia</string>
-    <string name="manual_sync">Synchronizuj</string>
     <string name="mark_read">Przeczytane</string>
     <string name="mark_unread">Nieprzeczytane</string>
     <string name="me_object_pronun">ja</string>
@@ -664,7 +641,6 @@ Tymczasowe:
     <string name="no_search_results">Nie znaleziono wyników</string>
     <string name="not_install_qq_tip">Pomyślnie skopiowano. Otwórz QQ i znajdź tę grupę, aby do niej dołączyć.</string>
     <string name="not_subject">Brak tematu</string>
-    <string name="not_synced_title">Konto nie jest zsynchronizowane</string>
     <string name="notification_action_archive">Archiwizuj</string>
     <string name="notification_action_delete">Usuń</string>
     <string name="notification_action_remove_label">Usuń etykietę</string>
@@ -755,7 +731,6 @@ limit skrzynki odbiorczej"</string>
     <string name="pdf_signature_select">Wybierz sygnaturę</string>
     <string name="pdf_viewer_file_damage_toast">Plik PDF jest uszkodzony. Sprawdź go i spróbuj ponownie.</string>
     <string name="pdf_viewer_new_email">Wyślij</string>
-    <string name="pdf_viewer_reply">Odpowiedz</string>
     <string name="pdf_viewer_save_signature">Zapisz sygnaturę</string>
     <string name="pdf_viewer_sign_file_damage_toast">Plik nie istnieje</string>
     <string name="pdf_viewer_signature">Podpisz plik PDF</string>
@@ -963,7 +938,6 @@ Poczekaj, aż skrzynka zostanie w pełni zsynchronizowana lub zobacz tą wiadomo
     <string name="user_privacy_settings_title">Stanowisko dot. prywatności Poczty</string>
     <string name="verify_code">Kod weryfikacyjny</string>
     <string name="version_string">Wersja: %s</string>
-    <string name="wait_for_manual_sync_body">Konto nie jest skonfigurowane do automatycznej synchronizacji.</string>
     <string name="wait_for_sync_title">Czekam na synchronizację</string>
     <string name="web_view_load_error_tip">Twoja przeglądarka przestała działać. Pobierz najnowszą wersję Android System WebView ze Sklepu Play, aby pomóc rozwiązać ten problem.</string>
     <string name="webview_logout">Możesz spróbować ponownie się zalogować</string>

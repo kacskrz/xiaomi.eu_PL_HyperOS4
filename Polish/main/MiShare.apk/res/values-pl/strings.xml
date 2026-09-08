@@ -47,6 +47,10 @@ Inne urządzenia z Androidem: tę funkcję mogą wspierać urządzenia vivo, rea
     <string name="share_show_nfc_position"><Data>&lt;a href=%1$s>Wyświetl obszar NFC telefonów Xiaomi&lt;/a></Data></string>
     <string name="sub_title_mishare_switch_mine">Możesz odbierać pliki z urządzeń zalogowanych na Twoje konto Xiaomi</string>
     <string name="switch_mode_sameaccount">Z mojego konta Xiaomi</string>
+    <string name="tap_share_audio_transfer_describe">Podczas odtwarzania dźwięku otwórz kartę Xiaomi Smart Play lub aplikację do obsługi multimediów, a następnie zbliż telefon do tagu NFC w pojeździe</string>
+    <string name="tap_share_audio_transfer_title">Przesyłaj postęp odtwarzania</string>
+    <string name="tap_share_car_card_describe">Gdy nie odtwarzasz dźwięku, zbliż telefon do tagu NFC w pojeździe</string>
+    <string name="tap_share_car_card_title">Kontrolowanie pojazdu</string>
     <string name="tap_share_contact_person_title">Udostępniaj kontakt</string>
     <string formatted="false" name="tap_share_content_describe">"Nadawca może użyć funkcji Dotknij, aby udostępnić na następujące sposoby:
 %d. Udostępnianie zdjęć i filmów poprzez wyświetlenie pełnego obrazu w Galerii, na stronie wyboru lub przez dotknięcie opcji \"Wyślij\", która otworzy okno pop-up udostępniania.
@@ -67,10 +71,12 @@ Inne urządzenia z Androidem: tę funkcję mogą wspierać urządzenia vivo, rea
     <string name="tap_share_file_title">Udostępniaj pliki</string>
     <string name="tap_share_game_team_up_title">Gra grupowa</string>
     <string name="tap_share_help_title">Pomoc</string>
+    <string name="tap_share_help_with_car">Udostępnianie z Xiaomi Auto</string>
     <string name="tap_share_help_with_other_android_iphone">Użyj opcji Dotknij, aby udostępnić z innymi urządzeniami z Androidem</string>
     <string name="tap_share_help_with_phone_iphone">Udostępnianie z telefonem Xiaomi lub iPhonem</string>
     <string name="tap_share_image_and_video_describe">Aby użyć opcji Dotknij, aby udostępnić, wyświetl pełen obraz w Galerii lub naciśnij i przytrzymaj, aby otworzyć stronę wyboru, albo dotknij opcji \"Wyślij\", aby otworzyć menu udostępniania.</string>
     <string name="tap_share_image_and_video_title">Udostępniaj zdjęcia i filmy</string>
+    <string name="tap_share_image_describe_with_car">Zbliż telefon do tagu NFC w pojeździe, aby przesłać dźwięk lub uzyskać dostęp do kontroli pojazdu</string>
     <string name="tap_share_navigation_address_describe">Aby użyć opcji Dotknij, aby udostępnić, otwórz szczegóły lokalizacji w aplikacji Baidu Maps lub dotknij opcji \"Wyślij\", aby otworzyć menu udostępniania. Najpierw zaktualizuj aplikację Baidu Maps do wersji %1$s lub nowszej.</string>
     <string name="tap_share_navigation_address_title">Udostępniaj adres</string>
     <string name="tap_share_network_page_describe">Aby użyć opcji Dotknij, aby udostępnić, otwórz stronę internetową w Przeglądarce Mi lub dotknij opcji \"Wyślij\", aby otworzyć menu udostępniania.</string>
@@ -85,6 +91,9 @@ Inne urządzenia z Androidem: tę funkcję mogą wspierać urządzenia vivo, rea
     <string name="tap_share_tips_desc_generic">Aby przesłać elementy, zbliż tył telefonu do obszaru NFC innego urządzenia</string>
     <string name="tap_share_wifi_password_title">Udostępniaj hasło do sieci Wi-Fi</string>
     <string name="tap_share_wifi_password_title_china">Udostępniaj hasło do sieci Wi-Fi</string>
+    <string name="tap_share_with_car_condition_describe_os4">"%1$d. Zainstaluj i skonfiguruj oficjalny tag NFC w swoim Xiaomi Auto zgodnie z instrukcjami.
+%2$d. Zaktualizuj telefon Xiaomi do Xiaomi HyperOS w wersji 4.0.1 lub nowszej. Możesz również wyszukać opcję \"Dotknij, aby udostępnić\" w Ustawieniach, aby dowiedzieć się, czy Twój telefon ją obsługuje.
+%4$d. Upewnij się, że ekrany telefonu i pojazdu są odblokowane, a następnie włącz NFC, Bluetooth, Wi-Fi oraz Dotknij, aby udostępnić."</string>
     <string name="tap_share_with_other_android_phone_condition_describe_os4">"%1$d. Zaktualizuj telefon Xiaomi do wersji Xiaomi HyperOS 4.0.1 lub nowszej.
 %2$d. Zaktualizuj telefony OPPO, vivo i Honor do najnowszej wersji. Aby znaleźć ich obszar NFC, sprawdź ustawienia swojego telefonu.
 %4$d. Upewnij się, że oba urządzenia są odblokowane i mają włączone opcje NFC, Bluetooth, Wi-Fi i Dotknij, aby udostępnić."</string>

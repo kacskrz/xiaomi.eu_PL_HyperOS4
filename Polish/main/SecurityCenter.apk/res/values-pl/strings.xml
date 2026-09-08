@@ -1179,6 +1179,10 @@ Ultraoszczędzania baterii"</string>
 Gdy wyświetlasz treści w HDR, kompensacja jasności Inteligentnego prywatnego wyświetlacza zostanie wstrzymana, aby zapewnić odpowiednią jakość ekranu.
 Prywatność wyświetlacza zostanie wstrzymana w trybie poziomym i wznowi się automatycznie, gdy powrócisz do trybu pionowego.
 Niektóre motywy stron trzecich nie wspierają jeszcze prywatności wyświetlacza dla powiadomień Ekranu blokady."</string>
+    <string name="peep_protection_v2_learn_more_limits_desc_global_hdr">"Ta funkcja może nieznacznie zwiększyć zużycie energii. Gdy włączone jest Oszczędzanie baterii, zostanie ona tymczasowo wyłączona, aby oszczędzać baterię.
+Gdy wyświetlacz treści w HDR, prywatność wyświetlacza zostanie wstrzymana, aby zapewnić odpowiednią jakość ekranu.
+Prywatność wyświetlacza zostanie wstrzymana w trybie poziomym i wznowi się automatycznie, gdy powrócisz do trybu pionowego.
+Niektóre motywy stron trzecich nie wspierają jeszcze prywatności wyświetlacza dla powiadomień Ekranu blokady."</string>
     <string name="peep_protection_v2_learn_more_limits_title">Ograniczenia i szczególne przypadki</string>
     <string name="peep_protection_v2_learn_more_privacy_desc">"Gdy ta funkcja jest włączona, urządzenie może użyć przedniego aparatu do wykonywania zdjęć i wykrywania twarzy lub kierunku spoglądania lokalnie, gdy włączone jest wykrywanie spojrzeń. Jest to wykorzystywane do identyfikowania, gdy ktoś inny niż Ty patrzy na ekran, i informowania Cię o tym.
 Wszystkie dane są przetwarzane na Twoim urządzeniu i nie będą przesyłane do Chmury Xiaomi lub innej chmury strony trzeciej."</string>
@@ -1245,6 +1249,7 @@ Jako uzupełnienie ograniczenia widoczności pod kątem, system może ostrzec Ci
     <string name="peep_protection_v2_strategy_action_enable_global">Włącz Prywatny wyświetlacz na całym urządzeniu</string>
     <string name="peep_protection_v2_strategy_action_enable_target">Włącz prywatny wyświetlacz dla %s</string>
     <string name="peep_protection_v2_strategy_action_fallback">Ochrona przed podglądaniem</string>
+    <string name="peep_protection_v2_strategy_notify_on_trigger">Informuj, gdy włączony jest prywatny wyświetlacz</string>
     <string name="peep_protection_v2_thermal_paused_toast">Wykrywanie spojrzeń zostanie wznowione, gdy urządzenie się schłodzi</string>
     <string name="peep_protection_v2_tile_label">Prywatny wyświetlacz na całym urządzeniu</string>
     <string name="peep_protection_v2_title">Inteligentny prywatny wyświetlacz</string>

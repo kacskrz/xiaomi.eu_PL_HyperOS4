@@ -515,7 +515,6 @@ Jeśli zgubisz urządzenie, to dodatkowe sprawdzenie wciąż może zapobiec zmia
     <string name="mimotion_pwm_enable">Adaptacyjne odświeżanie Pro</string>
     <string name="mimotion_pwm_title">Ruch Xiaomi</string>
     <string name="minors_control_title">Tryb dziecięcy</string>
-    <string name="miui_lab_features">Testowe funkcje</string>
     <string name="miui_nfc_dialog_message">"Po wyłączeniu NFC nie będzie można korzystać z funkcji wymagających tej technologii. Wyłączyć mimo to?"</string>
     <string name="miui_nfc_dialog_message_gl">Jeśli wyłączysz NFC, nie będzie można korzystać z funkcji NFC, w tym odczytywania i zapisywania tagów NFC, używania kart dostępu itd. Wyłączyć mimo to?</string>
     <string name="miui_sos_call_fire">Straż pożarna</string>
@@ -704,6 +703,7 @@ Ustawienia > Bezpieczeństwo i tryb alarmowy > Alerty o zagrożeniu"</string>
     <string name="screen_dark_mode_time_summary">Ciemny motyw zostanie włączony o zaplanowanym czasie, gdy wyłączysz ekran</string>
     <string name="screen_dark_mode_time_title">Zaplanuj włączenie Ciemnego motywu</string>
     <string name="screen_effect_tip">Odpowiednia paleta kolorów zostanie automatycznie dopasowana do zawartości. Wspiera sRGB, P3 i BT.2020.</string>
+    <string name="screen_enhance_engine_dualDPU_title">Ulepszona grafika</string>
     <string name="screen_enhance_engine_memc_note">"Nie można ulepszyć filmów, gdy włączona jest superrozdzielczość. Włączając ulepszanie filmów, wyłączysz superrozdzielczość."</string>
     <string name="screen_enhance_engine_sr_for_video_note">"Superrozdzielczość nie działa z ulepszonymi filmami. Włączając superrozdzielczość, wyłączysz ulepszanie filmów."</string>
     <string name="screen_enhance_engine_sr_title">Superrozdzielczość</string>
