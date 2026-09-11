@@ -557,6 +557,7 @@ Wszystkie dane na urządzeniu mogą zostać wymazane, a hasło ekranu blokady - 
     <string name="exit_dialog_homepage_optimise_message">"Poziom wydajności tego urządzenia spadł poniżej 80 punktów. Zoptymalizować teraz?"</string>
     <string name="exit_dialog_scan_message">"Poziom wydajności tego urządzenia spadł poniżej 75 punktów. Zoptymalizować system teraz?"</string>
     <string name="face_unlock">Odblokuj twarzą</string>
+    <string name="face_unlock_bad_lighting">Przenieś się w dobrze oświetlone miejsce</string>
     <string name="finger_or_face_unlock">Odblokuj odciskiem palca lub twarzą</string>
     <string name="finger_unlock">Odblokuj odciskiem palca</string>
     <string name="fingerprint_to_lock_summary">Odblokuj dostęp do aplikacji odciskiem palca</string>
@@ -1130,7 +1131,7 @@ Ultraoszczędzania baterii"</string>
     <string name="peep_protection_v2_app_notification_protection_desc">Powiadomienia z wybranych aplikacji będą uaktywniać prywatny wyświetlacz</string>
     <string name="peep_protection_v2_app_protection_desc">Włącz prywatny wyświetlacz w wybranych aplikacjach</string>
     <string name="peep_protection_v2_banner_summary">Wypróbuj funkcje prywatności wyświetlacza ekskluzywne dla tego modelu</string>
-    <string name="peep_protection_v2_banner_title">Inteligentny prywatny wyświetlacz</string>
+    <string name="peep_protection_v2_banner_title">Prywatny wyświetlacz Xiaomi</string>
     <string name="peep_protection_v2_batch_disable">Wyłącz</string>
     <string name="peep_protection_v2_batch_enable">Włącz</string>
     <string name="peep_protection_v2_category_capability">Możliwości funkcji</string>
@@ -1143,27 +1144,27 @@ Ultraoszczędzania baterii"</string>
     <string name="peep_protection_v2_category_smart">Inteligentne</string>
     <string name="peep_protection_v2_category_social">Sieci społecznościowe</string>
     <string name="peep_protection_v2_category_suggest">Zalecane</string>
-    <string name="peep_protection_v2_color_inversion_closed_msg">Ta funkcja nie działa z odwróceniem kolorów. Wyłączono Inteligentny prywatny wyświetlacz.</string>
+    <string name="peep_protection_v2_color_inversion_closed_msg">Ta funkcja nie działa z odwróceniem kolorów. Wyłączono Prywatny wyświetlacz Xiaomi.</string>
     <string name="peep_protection_v2_color_inversion_closed_reopen">Włącz</string>
-    <string name="peep_protection_v2_color_inversion_closed_title">Wyłączono Inteligentny prywatny wyświetlacz</string>
+    <string name="peep_protection_v2_color_inversion_closed_title">Wyłączono Prywatny wyświetlacz Xiaomi</string>
     <string name="peep_protection_v2_color_inversion_conflict_msg">Ta funkcja nie działa z odwróceniem kolorów. Najpierw wyłącz odwrócenie kolorów.</string>
     <string name="peep_protection_v2_color_inversion_conflict_title">Wyłącz odwrócenie kolorów</string>
     <string name="peep_protection_v2_cue_byapp_reason">Włącz prywatność wyświetlacza w tej aplikacji</string>
     <string name="peep_protection_v2_cue_byapp_title">Włącz prywatność wyświetlacza dla %s</string>
     <string name="peep_protection_v2_cue_global_reason">Wypróbuj funkcje prywatności ekskluzywne dla tego modelu</string>
-    <string name="peep_protection_v2_cue_global_title">Włącz Inteligentny prywatny wyświetlacz</string>
+    <string name="peep_protection_v2_cue_global_title">Włącz Prywatny wyświetlacz Xiaomi</string>
     <string name="peep_protection_v2_cue_summary">Ta funkcja jest dostępna tylko dla tego modelu</string>
     <string name="peep_protection_v2_deep_mode">Rozszerzona prywatność</string>
     <string name="peep_protection_v2_deep_mode_desc">Spraw, aby inne osoby nie mogły łatwo spoglądać na Twój ekran</string>
     <string name="peep_protection_v2_face_need_input_hint">Wymagane dane twarzy</string>
-    <string name="peep_protection_v2_first_close_message">Dodaj Inteligentny prywatny wyświetlacz w Centrum funkcji > Edytuj > Przełączniki systemowe, aby go szybko włączać i wyłączać.</string>
-    <string name="peep_protection_v2_first_close_title">Szybko włączaj Inteligentny prywatny wyświetlacz</string>
+    <string name="peep_protection_v2_first_close_message">Dodaj Prywatny wyświetlacz Xiaomi w Centrum funkcji > Edytuj > Przełączniki systemowe, aby go szybko włączać i wyłączać.</string>
+    <string name="peep_protection_v2_first_close_title">Szybko włączaj Prywatny wyświetlacz Xiaomi</string>
     <string name="peep_protection_v2_first_close_title_v2">Przełączniki</string>
-    <string name="peep_protection_v2_global_first_open_msg">Dodaj Prywatny wyświetlacz na całym urządzeniu w Centrum funkcji > Edytuj > Przełączniki systemowe, aby go szybko włączać i wyłączać.</string>
-    <string name="peep_protection_v2_global_first_open_title">Szybko włączaj Prywatny wyświetlacz na całym urządzeniu</string>
-    <string name="peep_protection_v2_global_hint">Gdy Prywatny wyświetlacz na całym urządzeniu jest włączony, nie można wykrywać spojrzeń innych osób</string>
-    <string name="peep_protection_v2_global_no_aon_hint">Aby oszczędzać baterię, spojrzenia innych osób nie będą wykrywane, gdy włączony jest Prywatny wyświetlacz na całym urządzeniu</string>
-    <string name="peep_protection_v2_global_protection">Prywatny wyświetlacz na całym urządzeniu</string>
+    <string name="peep_protection_v2_global_first_open_msg">Dodaj Prywatność na całym ekranie w Centrum funkcji > Edytuj > Przełączniki systemowe, aby go szybko włączać i wyłączać.</string>
+    <string name="peep_protection_v2_global_first_open_title">Szybko włączaj Prywatność na całym ekranie</string>
+    <string name="peep_protection_v2_global_hint">Gdy Prywatność na całym ekranie jest włączona, nie można wykrywać spojrzeń innych osób</string>
+    <string name="peep_protection_v2_global_no_aon_hint">Aby oszczędzać baterię, spojrzenia innych osób nie będą wykrywane, gdy włączona jest Prywatność na całym ekranie</string>
+    <string name="peep_protection_v2_global_protection">Prywatność na całym ekranie</string>
     <string name="peep_protection_v2_global_protection_desc">Użyj prywatności wyświetlacza w różnych sytuacjach na swoim urządzeniu</string>
     <string name="peep_protection_v2_global_protection_desc_v2">Wyświetlacz pozostaje prywatny na całym urządzeniu</string>
     <string name="peep_protection_v2_header_desc_v2">Widoczność ekranu pod kątem będzie ograniczona. Urządzenie powiadomi Cię, gdy wykryje spojrzenie innych osób. (click)Dowiedz się więcej(/click)</string>
@@ -1176,7 +1177,7 @@ Ultraoszczędzania baterii"</string>
     <string name="peep_protection_v2_intro_smart_page_title">Różne scenariusze</string>
     <string name="peep_protection_v2_learn_more">Dowiedz się więcej</string>
     <string name="peep_protection_v2_learn_more_limits_desc_global">"Ta funkcja może nieznacznie zwiększyć zużycie energii. Gdy włączone jest Oszczędzanie baterii, zostanie ona tymczasowo wyłączona, aby oszczędzać baterię.
-Gdy wyświetlasz treści w HDR, kompensacja jasności Inteligentnego prywatnego wyświetlacza zostanie wstrzymana, aby zapewnić odpowiednią jakość ekranu.
+Gdy wyświetlasz treści w HDR, prywatność wyświetlacza zostanie wstrzymana, aby zapewnić odpowiednią jakość ekranu.
 Prywatność wyświetlacza zostanie wstrzymana w trybie poziomym i wznowi się automatycznie, gdy powrócisz do trybu pionowego.
 Niektóre motywy stron trzecich nie wspierają jeszcze prywatności wyświetlacza dla powiadomień Ekranu blokady."</string>
     <string name="peep_protection_v2_learn_more_limits_desc_global_hdr">"Ta funkcja może nieznacznie zwiększyć zużycie energii. Gdy włączone jest Oszczędzanie baterii, zostanie ona tymczasowo wyłączona, aby oszczędzać baterię.
@@ -1187,72 +1188,72 @@ Niektóre motywy stron trzecich nie wspierają jeszcze prywatności wyświetlacz
     <string name="peep_protection_v2_learn_more_privacy_desc">"Gdy ta funkcja jest włączona, urządzenie może użyć przedniego aparatu do wykonywania zdjęć i wykrywania twarzy lub kierunku spoglądania lokalnie, gdy włączone jest wykrywanie spojrzeń. Jest to wykorzystywane do identyfikowania, gdy ktoś inny niż Ty patrzy na ekran, i informowania Cię o tym.
 Wszystkie dane są przetwarzane na Twoim urządzeniu i nie będą przesyłane do Chmury Xiaomi lub innej chmury strony trzeciej."</string>
     <string name="peep_protection_v2_learn_more_privacy_title">Stanowisko dot. prywatności</string>
-    <string name="peep_protection_v2_learn_more_scope_desc_global">"Możesz wybrać, jak ma działać Inteligentny prywatny wyświetlacz: na całym urządzeniu, w wybranych aplikacjach czy w powiadomieniach.
+    <string name="peep_protection_v2_learn_more_scope_desc_global">"Możesz wybrać, jak ma działać Prywatny wyświetlacz Xiaomi: na całym urządzeniu, w wybranych aplikacjach czy w powiadomieniach.
 
-Prywatny wyświetlacz na całym urządzeniu:
+Prywatność na całym ekranie:
 Prywatność wyświetlacza będzie włączona w każdej sytuacji, aby pomóc chronić wszystko, co wyświetlacz. Gdy ta funkcja jest włączona, nie będą wykrywane spojrzenia innych osób.
 
-Prywatny wyświetlacz w aplikacjach:
-Wybierz aplikacje, które chcesz chronić. Gdy są one wyświetlane na ekranie, Inteligentny prywatny wyświetlacz zredukuje jego widoczność z boku i będzie sprawdzać, czy nie patrzy na niego ktoś inny.
+Wybrane aplikacje:
+Wybierz aplikacje, które chcesz chronić. Gdy są one wyświetlane na ekranie, Prywatny wyświetlacz Xiaomi zredukuje jego widoczność z boku i będzie sprawdzać, czy nie patrzy na niego ktoś inny.
 
-Prywatny wyświetlacz w powiadomieniach:
+Powiadomienia z aplikacji:
 Powiadomienia z wybranych przez Ciebie aplikacji będą wyświetlane z częściową ochroną prywatności, aby zapobiec zobaczeniu wrażliwych informacji przez inne osoby."</string>
     <string name="peep_protection_v2_learn_more_scope_title">Zakres działania prywatnego wyświetlacza</string>
-    <string name="peep_protection_v2_learn_more_understand_desc">"Inteligentny prywatny wyświetlacz łączy zredukowaną widoczność pod kątem z wykrywaniem spojrzeń, aby pomóc chronić Cię zarówno przed podglądaniem ekranu zarówno pod szerokim kątem, jak i z bliskiej odległości pod węższymi kątami, zapewniając w ten sposób pełniejszą ochronę prywatności.
+    <string name="peep_protection_v2_learn_more_understand_desc">"Prywatny wyświetlacz Xiaomi łączy zredukowaną widoczność pod kątem z wykrywaniem spojrzeń, aby pomóc chronić Cię zarówno przed podglądaniem ekranu zarówno pod szerokim kątem, jak i z bliskiej odległości pod węższymi kątami, zapewniając w ten sposób pełniejszą ochronę prywatności.
 
-Prywatny wyśweitlacz:
+Zredukowana widoczność pod kątem:
 Dzięki regulacji jasności ekranu na poziomie pikseli zawartość ekranu staje się coraz trudniejsza do odczytania wraz ze wzrostem kąta widzenia. Pomaga to zmniejszyć ryzyko, że inne osoby zobaczą Twoje dane.
 
-Wykrywanie spojrzenia:
+Powiadomienie dot. prywatności:
 Jako uzupełnienie ograniczenia widoczności pod kątem, system może ostrzec Cię, gdy wykryje, że ktoś inny niż Ty patrzy na ekran z tyłu lub pod innym wąskim kątem."</string>
-    <string name="peep_protection_v2_learn_more_understand_title">O Inteligentnym prywatnym wyświetlaczu</string>
+    <string name="peep_protection_v2_learn_more_understand_title">O Prywatnym wyświetlaczu Xiaomi</string>
     <string name="peep_protection_v2_main_body">Widoczność ekranu pod kątem będzie ograniczona. Urządzenie będzie sprawdzać, czy ktoś inny patrzy na ekran i powiadomi Cię, gdy wykryje spojrzenie innych osób. (click)Dowiedz się więcej(/click)</string>
     <string name="peep_protection_v2_main_desc">Chroń ekran przed spojrzeniami innych osób</string>
-    <string name="peep_protection_v2_main_switch">Inteligentny prywatny wyświetlacz</string>
-    <string name="peep_protection_v2_main_switch_desc">Użyj prywatnego wyświetlacz i wykryj spojrzenie innych osób</string>
+    <string name="peep_protection_v2_main_switch">Prywatny wyświetlacz Xiaomi</string>
+    <string name="peep_protection_v2_main_switch_desc">Użyj prywatnego wyświetlacza i wykryj spojrzenie innych osób</string>
     <string name="peep_protection_v2_main_switch_desc_v2">Zezwól na włączanie przez urządzenie prywatnego wyświetlacza w zależności od wybranego scenariusza</string>
-    <string name="peep_protection_v2_main_switch_title_v2">Inteligentny prywatny wyświetlacz</string>
-    <string name="peep_protection_v2_main_tile_label">Inteligentny prywatny wyświetlacz</string>
+    <string name="peep_protection_v2_main_switch_title_v2">Prywatny wyświetlacz Xiaomi</string>
+    <string name="peep_protection_v2_main_tile_label">Prywatny wyświetlacz Xiaomi</string>
     <string name="peep_protection_v2_move_app_title_v2">Przenieś %s do</string>
     <string name="peep_protection_v2_move_app_to_category">Przenieś %s do grupy</string>
     <string name="peep_protection_v2_notification_protection">Prywatny wyświetlacz w powiadomieniach</string>
     <string name="peep_protection_v2_notification_protection_desc">Powiadomienia z wybranych aplikacji będą uaktywniać prywatny wyświetlacz</string>
     <string name="peep_protection_v2_notification_protection_desc_v2">Powiadomienia z wybranych przez Ciebie aplikacji będą wyświetlane z częściową ochroną prywatności</string>
     <string name="peep_protection_v2_notify_type_desc">Otrzymasz informację, gdy wykryte zostanie spojrzenie kogoś innego</string>
-    <string name="peep_protection_v2_notify_type_title">Wykrywaj spojrzenia innych osób</string>
+    <string name="peep_protection_v2_notify_type_title">Powiadomienie dot. prywatności</string>
     <string name="peep_protection_v2_peep_detection_desc_v2">Wykrywaj spojrzenie i otrzymuj alerty</string>
     <string name="peep_protection_v2_peep_island_action_dismiss_v2">Ignoruj</string>
     <string name="peep_protection_v2_peep_island_subtitle_v2">Nie przypominaj ponownie</string>
     <string name="peep_protection_v2_privacy_statement">Ta funkcja używa danych twarzy do wykrywania spojrzeń. Wszystkie dane są przetwarzane na Twoim urządzeniu i nie będą udostępniane.</string>
     <string name="peep_protection_v2_recommend_title">Zalecane aplikacje</string>
-    <string name="peep_protection_v2_search_app">Prywatny wyświetlacz w aplikacjach;prywatność wyświetlacza dla aplikacji</string>
+    <string name="peep_protection_v2_search_app">Prywatny wyświetlacz w aplikacjach;prywatność wyświetlacza dla aplikacji;Wybrane aplikacje</string>
     <string name="peep_protection_v2_search_empty_hint">Tu pojawią się wyniki wyszukiwania</string>
-    <string name="peep_protection_v2_search_global">Prywatny wyświetlacz na całym urządzeniu;na całym urządzeniu</string>
+    <string name="peep_protection_v2_search_global">Prywatność na całym ekranie;cały ekran</string>
     <string name="peep_protection_v2_search_hint">Wyszukaj aplikacje</string>
     <string name="peep_protection_v2_search_keywords_1">Prywatny wyświetlacz</string>
     <string name="peep_protection_v2_search_keywords_2">Piksel</string>
     <string name="peep_protection_v2_search_keywords_3">Spojrzenie</string>
     <string name="peep_protection_v2_search_no_result">Nie znaleziono rezultatów</string>
-    <string name="peep_protection_v2_search_notification">Prywatny wyświetlacz w powiadomieniach;prywatność wyświetlacza dla powiadomień</string>
-    <string name="peep_protection_v2_search_notify_type">Detekcja spojrzeń;wykrywaj spojrzenia;ochrona prywatności;alert o spojrzeniu</string>
-    <string name="peep_protection_v2_select_apps">Prywatny wyświetlacz w aplikacjach</string>
+    <string name="peep_protection_v2_search_notification">Prywatny wyświetlacz w powiadomieniach;prywatność wyświetlacza dla powiadomień;Powiadomienia z aplikacji</string>
+    <string name="peep_protection_v2_search_notify_type">Powiadomienie dot. prywatności;wykrywaj spojrzenia;ochrona prywatności;alert o spojrzeniu</string>
+    <string name="peep_protection_v2_select_apps">Wybrane aplikacje</string>
     <string name="peep_protection_v2_status_off">Wył.</string>
     <string name="peep_protection_v2_status_on">Wł.</string>
     <string name="peep_protection_v2_strategy_action_disable_category">Wyłącz prywatny wyświetlacz dla %s</string>
     <string name="peep_protection_v2_strategy_action_disable_deep">Wyłącz Rozszerzoną prywatność</string>
     <string name="peep_protection_v2_strategy_action_disable_default">Wyłącz prywatny wyświetlacz</string>
-    <string name="peep_protection_v2_strategy_action_disable_global">Wyłącz Prywatny wyświetlacz na całym urządzeniu</string>
+    <string name="peep_protection_v2_strategy_action_disable_global">Wyłącz Prywatność na całym ekranie</string>
     <string name="peep_protection_v2_strategy_action_disable_target">Wyłącz prywatny wyświetlacz dla %s</string>
     <string name="peep_protection_v2_strategy_action_enable_category">Włącz prywatny wyświetlacz dla %s</string>
     <string name="peep_protection_v2_strategy_action_enable_deep">Włącz Rozszerzoną prywatność</string>
     <string name="peep_protection_v2_strategy_action_enable_default">Włącz prywatny wyświetlacz</string>
-    <string name="peep_protection_v2_strategy_action_enable_global">Włącz Prywatny wyświetlacz na całym urządzeniu</string>
+    <string name="peep_protection_v2_strategy_action_enable_global">Włącz Prywatność na całym ekranie</string>
     <string name="peep_protection_v2_strategy_action_enable_target">Włącz prywatny wyświetlacz dla %s</string>
     <string name="peep_protection_v2_strategy_action_fallback">Ochrona przed podglądaniem</string>
     <string name="peep_protection_v2_strategy_notify_on_trigger">Informuj, gdy włączony jest prywatny wyświetlacz</string>
-    <string name="peep_protection_v2_thermal_paused_toast">Wykrywanie spojrzeń zostanie wznowione, gdy urządzenie się schłodzi</string>
-    <string name="peep_protection_v2_tile_label">Prywatny wyświetlacz na całym urządzeniu</string>
-    <string name="peep_protection_v2_title">Inteligentny prywatny wyświetlacz</string>
+    <string name="peep_protection_v2_thermal_paused_toast">Powiadomienie dot. prywatności zostanie wznowione, gdy urządzenie się schłodzi</string>
+    <string name="peep_protection_v2_tile_label">Prywatność na całym ekranie</string>
+    <string name="peep_protection_v2_title">Prywatny wyświetlacz Xiaomi</string>
     <string name="performance_frame_enhance_super_display_tips">"Poprawiony klatkaż i superrozdzielczość nie mogą działać w tym samym czasie. Włączenie jednej z tych funkcji wyłączy drugą."</string>
     <string name="performance_frame_insert_super_display_tips">"Inteligentna częstotliwość odświeżania oraz superrozdzielczość nie mogą działać w tym samym czasie. Włączenie jednej funkcji wyłączy drugą."</string>
     <string name="perm_desc_accessibility">To uprawnienie jest wymagane do wyświetlenia i kontrolowania ekranu, obsługiwania aplikacji i czujników zgodnie z Twoimi instrukcjami, a także interakcji z aplikacjami w Twoim imieniu.</string>

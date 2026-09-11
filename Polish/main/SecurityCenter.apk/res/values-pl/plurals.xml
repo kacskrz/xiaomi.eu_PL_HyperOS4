@@ -529,6 +529,10 @@
         <item quantity="other">Zoptymalizuj uprawnienia %d aplikacji</item>
         <item quantity="one">Zoptymalizuj uprawnienia %d aplikacji</item>
     </plurals>
+    <plurals name="prem_optimization_notify_action_nomore_text">
+        <item quantity="other">Nie przypominaj ponownie przez %d dni</item>
+        <item quantity="one">Nie przypominaj ponownie przez %d dzień</item>
+    </plurals>
     <plurals name="prem_optimization_notify_total_app_need_optimize">
         <item quantity="other">Dla Twojego bezpieczeństwa zoptymalizuj uprawnienia %d aplikacji</item>
         <item quantity="one">Dla Twojego bezpieczeństwa zoptymalizuj uprawnienia %d aplikacji</item>

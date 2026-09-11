@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="photo_agent_ai_points_cancel_dialog_notice">
+        <item quantity="other">Wykorzystano %d darmowej próby. Przerwać mimo to?</item>
+        <item quantity="one">Wykorzystano %d darmową próbę. Przerwać mimo to?</item>
+        <item quantity="few">Wykorzystano %d darmowe próby. Przerwać mimo to?</item>
+        <item quantity="many">Wykorzystano %d darmowych prób. Przerwać mimo to?</item>
+    </plurals>
+    <plurals name="video_ai_auto_limit2">
+        <item quantity="other">Nie można przetwarzać klipów dłuższych niż %d minuty</item>
+        <item quantity="one">Nie można przetwarzać klipów dłuższych niż %d minuta</item>
+        <item quantity="few">Nie można przetwarzać klipów dłuższych niż %d minuty</item>
+        <item quantity="many">Nie można przetwarzać klipów dłuższych niż %d minut</item>
+    </plurals>
+</resources>
