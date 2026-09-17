@@ -1,9 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="ai_assist_only_support_one_call">Nie można dodać więcej połączeń, gdy asystent SI odpowiada</string>
     <string name="apple_answer_relay_call_text">"Połączenie przełączone z powrotem na iPhone'a"</string>
     <string name="default_dialer_reset_prompt">"Wygląda na to, że w trakcie używania aplikacji %s wystąpiło wiele błędów. Czy chcesz, aby dialer Xiaomi był Twoją domyślną aplikacją telefonu?"</string>
     <string name="dial_conference_fail_prompt">"Nie można nawiązać połączenia konferencyjnego. Aktualna sieć nie wspiera VoLTE."</string>
     <string name="esim_not_support_dialing">Karta SIM, której używasz, nie wspiera wykonywania połączeń</string>
+    <string name="fmt_date_long_year_month_day">d MMMM yyyy</string>
+    <string name="fmt_date_short_year_month_day">d MMM yyyy</string>
     <string name="month_april_short">kwi</string>
     <string name="month_august_short">sie</string>
     <string name="month_december_short">gru</string>

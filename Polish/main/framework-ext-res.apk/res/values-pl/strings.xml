@@ -42,7 +42,6 @@
     <string name="fingerprint_face_password_unlock_new">Odciski palca, dane twarzy i blokada ekranu</string>
     <string name="fingerprint_password_unlock">Odciski palca i blokada ekranu</string>
     <string name="fingerprint_double_tap">Dwukrotnie dotknij czytnika linii papilarnych</string>
-    <string name="fold_outer_app_blocked">Kontynuuj na ekranie wewnętrznym</string>
     <string name="freeform_guide_tip_dock_browser">Przytrzymaj ikonę, aby otworzyć nowe okno</string>
     <string name="freeform_guide_tip_dock_email">Przytrzymaj ikonę, aby otworzyć nowe okno</string>
     <string name="freeform_guide_tip_dock_note">Przytrzymaj ikonę, aby otworzyć nowe okno</string>
@@ -117,10 +116,6 @@
     <string name="monet">Staw z liliami</string>
     <string name="mountainspring">Górska wiosna</string>
     <string name="mute">Tryb cichy</string>
-    <string name="night_wakeup_notification_exit">Wyłącz</string>
-    <string name="night_wakeup_notification_message">Zmieniamy jasność, aby chronić Twoje oczy</string>
-    <string name="night_wakeup_notification_summary">Włączanie…</string>
-    <string name="night_wakeup_notification_title">Włączono Komfort oczu w nocy</string>
     <string name="notification_channel_hotspot">Powiadomienie o hotspocie</string>
     <string name="nps_ContentText">Dotknij, aby sprawdzić szczegóły</string>
     <string name="nps_ContentTitle">Wyszukiwanie GPS</string>
@@ -138,13 +133,6 @@
     <string name="rescueparty_package_tips">Wykryto uszkodzenie usługi systemowej {0}</string>
     <string name="resolver_offical_recommend">Oficjalna</string>
     <string name="sc_size_compat_control_unsupported_toast">Działa tylko w niektórych aplikacjach w trybie pionowym</string>
-    <string name="screen_on_cover_guide_summary_for_back_screen">"Aby użyć tylnego wyświetlacza,
-naciśnij przycisk Zasilania"</string>
-    <string name="screen_on_cover_guide_summary_for_main_screen">"Na tylnym wyświetlaczu trwa rozgrywka.
-Aby użyć przedniego ekranu, nacisnij przycisk Zasilania."</string>
-    <string name="screen_on_proximity_sensor_summary_for_back_screen">"Aby wyłączyć Tryb kieszonkowy,
-usuń przeszkody z czerwonego obszaru
-lub naciśnij przycisk Głośność+"</string>
     <string name="screen_on_proximity_sensor_hint">Aby wyłączyć tę funkcję, naciśnij jednocześnie przyciski Wstecz oraz Głośność+.</string>
     <string name="screen_on_proximity_sensor_hint_has_navigation_bar">Aby wyłączyć tę funkcję, naciśnij przycisk Głośność+.</string>
     <string name="screen_on_proximity_sensor_summary_text">"Jak usunąć tę informację?
@@ -184,32 +172,22 @@ z przedniego aparatu"</string>
     <string name="under_keyguard">Przy wył. ekranie</string>
     <string name="wallpaper_Fragrant_title">Kwiaty</string>
     <string name="wallpaper_Geometrically_irregular_title">Abstrakcja w geometrii</string>
-    <string name="wallpaper_and_signature_title">Tapety i podpisy</string>
     <string name="wallpaper_bright_title">Blask</string>
     <string name="wallpaper_floral_arrangement_title">Kwiaty</string>
     <string name="wallpaper_group_ai_companion_title">Towarzysz SI</string>
-    <string name="wallpaper_group_ai_zone_title">Tapety SI</string>
-    <string name="wallpaper_group_animation_effect_title">Dynamiczne efekty</string>
-    <string name="wallpaper_group_big_numbers_title">Wielkie liczby</string>
     <string name="wallpaper_group_black_gobi_title">Piaski Gobi</string>
     <string name="wallpaper_group_black_white_title">Czarny i biały</string>
     <string name="wallpaper_group_color_move_title">Płynne kolory</string>
-    <string name="wallpaper_group_creative_time_title">Kreatywne zegary</string>
     <string name="wallpaper_group_crystallization_subtitle">Piękno nauki</string>
     <string name="wallpaper_group_crystallization_title">Krystalizacja</string>
     <string name="wallpaper_group_curves_title">Krzywe</string>
-    <string name="wallpaper_group_fun_wallpapers_title">Zabawne tapety</string>
     <string name="wallpaper_group_glassy_light_title">Warstwy ze szkła</string>
     <string name="wallpaper_group_light_cycles_title">Neonowe okręgi</string>
-    <string name="wallpaper_group_light_painting_title">Malowanie światłem</string>
     <string name="wallpaper_group_macaron_title">Galaretki</string>
     <string name="wallpaper_group_molten_glass_title">Stopione szkło</string>
-    <string name="wallpaper_group_new_year_title">Chiński Nowy Rok</string>
     <string name="wallpaper_group_sgn_mountain_title">Góra Siguniang</string>
     <string name="wallpaper_group_shadow_geometry_title">Geometria cieni</string>
-    <string name="wallpaper_group_sparkle_title">Blask</string>
     <string name="wallpaper_group_system_wallpaper_title">Tapety systemowe</string>
-    <string name="wallpaper_group_time_watch_title">Zegary</string>
     <string name="wallpaper_manying_title">Cienie</string>
     <string name="wifi_5ghz_sap_start_failed_by_region">Nie można użyć tetheringu podczas korzystania z sieci Wi-Fi 5 GHz.</string>
     <string name="wifi_disable_micar_p2p_dialog_message_carwith_china">Łączenie się z nową siecią Wi-Fi rozłączy to urządzenie z CarWith. Rozłączyć?</string>

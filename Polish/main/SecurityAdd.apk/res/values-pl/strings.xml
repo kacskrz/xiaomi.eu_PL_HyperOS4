@@ -5,6 +5,8 @@
     <string name="fastboot_locked_question_1">Dlaczego Fastboot powinien być zablokowany?</string>
     <string name="fastboot_locked_question_2">Czy są jakieś ryzyka związane z odblokowaniem Fastboota?</string>
     <string name="fastboot_status_locked_summary">"Nie można uzyskać uprawnień roota"</string>
+    <string name="fmt_date_long_year_month_day">d MMMM yyyy</string>
+    <string name="fmt_date_short_year_month_day">d MMM yyyy</string>
     <string name="gamebooster_network_dialog_message">Czy chcesz zezwolić Panelowi sterowania na połączenie się z siecią, aby móc skorzystać ze wszystkich funkcji trybu Game Turbo?</string>
     <string name="gamebooster_network_dialog_message_pad">Zezwolić Panelowi sterowania na połączenie z Internetem w celu skorzystania ze wszystkich funkcji Game Turbo?</string>
     <string name="gb_adv_touch_custom2">Czułość dotyku</string>

@@ -42,10 +42,6 @@
         <item quantity="other">%1$d min</item>
         <item quantity="one">%1$d min</item>
     </plurals>
-    <plurals name="mj_module_card_name_light_desc_pattern">
-        <item quantity="other">Pokoje z włączonym światłem: %d</item>
-        <item quantity="one">Pokoje z włączonym światłem: %d</item>
-    </plurals>
     <plurals name="report_unit_seconds_1">
         <item quantity="other">s</item>
         <item quantity="one">s</item>

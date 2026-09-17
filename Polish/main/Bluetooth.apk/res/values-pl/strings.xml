@@ -4,6 +4,8 @@
     <string name="bluetooth_and_wifi_stays_on_title">Wi-Fi i Bluetooth są włączone</string>
     <string name="bluetooth_enabled_apm_message">"Jeśli pozostawisz włączone Bluetooth, urządzenie nie wyłączy go, gdy ponownie włączysz tryb samolotowy"</string>
     <string name="bluetooth_stays_on_message">"Twoje urządzenie pozostawia włączone Bluetooth w trybie samolotowym. Jeśli nie chcesz, aby tak było, wyłącz tę funkcję."</string>
+    <string name="fmt_date_long_year_month_day">d MMMM yyyy</string>
+    <string name="fmt_date_short_year_month_day">d MMM yyyy</string>
     <string name="notification_received">Otrzymano %1$s</string>
     <string name="notification_receiving">Otrzymywanie %1$s</string>
     <string name="notification_sending">Przesyłanie %1$s</string>

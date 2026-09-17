@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="fmt_date_long_year_month_day">d MMMM yyyy</string>
+    <string name="fmt_date_short_year_month_day">d MMM yyyy</string>
     <string name="record_meeting_card_button_2_2">Włącz</string>
     <string name="record_meeting_card_subtitle">Automatycznie nagrywaj, transkrybuj w czasie rzeczywistym i generuj podsumowania</string>
     <string name="record_meeting_card_title">Włączyć Podsumowanie audio SI?</string>
