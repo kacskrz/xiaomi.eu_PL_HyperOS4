@@ -174,13 +174,16 @@ z przedniego aparatu"</string>
     <string name="wallpaper_Geometrically_irregular_title">Abstrakcja w geometrii</string>
     <string name="wallpaper_bright_title">Blask</string>
     <string name="wallpaper_floral_arrangement_title">Kwiaty</string>
-    <string name="wallpaper_group_ai_companion_title">Towarzysz SI</string>
+    <string name="wallpaper_group_ai_companion_title">Inteligentny towarzysz</string>
     <string name="wallpaper_group_black_gobi_title">Piaski Gobi</string>
     <string name="wallpaper_group_black_white_title">Czarny i biały</string>
+    <string name="wallpaper_group_butterfly_title">Motyle</string>
     <string name="wallpaper_group_color_move_title">Płynne kolory</string>
+    <string name="wallpaper_group_creatures_title">Stworzenia natury</string>
     <string name="wallpaper_group_crystallization_subtitle">Piękno nauki</string>
     <string name="wallpaper_group_crystallization_title">Krystalizacja</string>
     <string name="wallpaper_group_curves_title">Krzywe</string>
+    <string name="wallpaper_group_fold_dynamic_title">Dynamiczne tapety dla składanych urządzeń</string>
     <string name="wallpaper_group_glassy_light_title">Warstwy ze szkła</string>
     <string name="wallpaper_group_light_cycles_title">Neonowe okręgi</string>
     <string name="wallpaper_group_macaron_title">Galaretki</string>

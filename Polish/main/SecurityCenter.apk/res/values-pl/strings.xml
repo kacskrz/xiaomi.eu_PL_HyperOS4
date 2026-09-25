@@ -180,6 +180,7 @@ Całość przetwarzania odbywa się na Twoim urządzeniu i nie będzie przesyła
     <string name="applock_header_text_less_than_half">Za mało miejsca dla aplikacji. Przesuń suwak dalej.</string>
     <string name="applock_lock_mode_locked_or_exit_or_wait_summary">Zablokuj aplikacje %1$d min po ich opuszczeniu, zamknięciu lub przełączeniu się na inną aplikację</string>
     <string name="applock_lock_mode_locked_or_exit_summary">Zablokuj aplikacje, gdy tylko je opuścisz, zamkniesz lub przełączysz się na inną aplikację</string>
+    <string name="applock_mirroring_biometric_paused">Aktywne przesyłanie ekranu. Wstrzymano uwierzytelnianie biometryczne.</string>
     <string name="applock_password_set_luck_comment">Aby używać prywatnych funkcji na tym urządzeniu, musisz ustawić blokadę ekranu.</string>
     <string name="applock_password_set_luck_message">"Aby bezpiecznie uzyskiwać dostęp do prywatnych funkcji na tym urządzeniu, Xiaomi HyperOS domyślnie używa Twojej blokady ekranu do weryfikacji tożsamości.
 
@@ -553,6 +554,8 @@ Wszystkie dane na urządzeniu mogą zostać wymazane, a hasło ekranu blokady - 
     <string name="game_toolbox_ai_service_desc">Ulepszone granie z SI</string>
     <string name="game_toolbox_ai_upgrade_dialog_desc">Dostępna jest aktualizacja usług grania SI. Zanim użyjesz powiązanych z nimi funkcji, zaktualizuj je.</string>
     <string name="game_toolbox_ai_upgrade_dialog_title">Aktualizacja</string>
+    <string name="game_toolbox_d2_185hz_conflict_disabled">Aktualny klatkaż i rozdzielczość są zbyt wysokie. Dyskretny GPU jest wyłączony.</string>
+    <string name="game_toolbox_d2_185hz_conflict_reject">Aktualny klatkaż i rozdzielczość są zbyt wysokie, aby włączyć Dyskretny GPU</string>
     <string name="game_toolbox_display_enhance_view_frc_notice">"Uwaga:
 Gdy włączony jest Inteligentny klatkaż, narzędzia wykrywające klatkaż (w grze oraz zewnętrzne) mogą niedokładnie odczytywać liczbę klatek. Aby uzyskać aktualną liczbę klatek, przejdź do panelu wydajności."</string>
     <string name="game_toolbox_display_enhance_view_frc_notice_new">"Uwaga:
@@ -1746,8 +1749,15 @@ Wycofać zgodę?"</string>
     <string name="special_perm_virtual_title">Zarządzanie wirtualnym identyfikatorem</string>
     <string name="special_perm_vr_title">Używanie asystenta VR</string>
     <string name="special_perm_window_title">Wyświetlanie elementów w trybie Obraz w obrazie</string>
+    <string name="st_confirm_call_all_dialog_message_all_open_summary">Połączenia z numerów, które nie znajdują się w Twoich wyjątkach numerów i regionów, będą automatycznie odrzucane. Dotyczy to również Twoich kontaktów. Zablokować?</string>
+    <string name="st_confirm_call_all_dialog_message_strange_open_summary">Połączenia z numerów, które nie znajdują się w Twoich wyjątkach numerów i regionów lub w kontaktach, będą automatycznie odrzucane. Zablokować?</string>
     <string name="st_confirm_call_all_dialog_strange_open_summary">Połączenia od numerów nieznajdujących się na liście wyjątków lub w kontaktach będą blokowane. Zablokować?</string>
+    <string name="st_confirm_dialog_btn_positive">Zablokuj</string>
+    <string name="st_confirm_dialog_summary_message_oversea_call">Połączenia ze wszystkich międzynarodowych numerów będą automatycznie odrzucane. Zablokować mimo to?</string>
     <string name="st_confirm_dialog_summary_stranger_call">Połączenia z numerów, które nie znajdują się w Twoich wyjątkach lub w kontaktach, zostaną zablokowane. Włączyć?</string>
+    <string name="st_confirm_dialog_title_oversea_call">Zablokować połączenia międzynarodowe?</string>
+    <string name="st_intercept_all_dialog_title">Zablokować wszystkie połączenia?</string>
+    <string name="st_intercept_dialog_strange_title">Zablokować połączenia od nieznajomych?</string>
     <string name="st_mark_call_intercept_threshold_summary">Automatycznie blokuj numery zgłaszane określoną liczbę razy</string>
     <string name="st_msg_keyword_black_summary">Blokuj wiadomości od nieznanych osób zawierające słowa kluczowe</string>
     <string name="st_msg_keyword_white_summary">Zezwalaj na wiadomości od nieznanych osób zawierające słowa kluczowe</string>

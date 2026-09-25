@@ -26,6 +26,7 @@
     <string name="fingerprint_double_tap">Dwukrotnie dotknij czytnika linii papilarnych</string>
     <string name="fmt_date_long_year_month_day">d MMMM yyyy</string>
     <string name="fmt_date_short_year_month_day">d MMM yyyy</string>
+    <string name="freeform_guide_dialog_got_it_button">Rozumiem</string>
     <string name="function_not_support">Nieobsługiwane na tym urządzeniu</string>
     <string name="gms_title">Sklonuj usługi Google</string>
     <string name="home_app">Launcher</string>

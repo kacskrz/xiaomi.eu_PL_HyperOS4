@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="accessibility_tab_statedesc_unselect">Niezaznaczone</string>
+    <string name="appcirculate_alert_transfer_busy_text">Przesyłanie e elementów. Poczekaj minutę lub dwie i spróbuj ponownie.</string>
     <string name="appcirculate_fragment_circulate_device_card_switch_title_1">Włącz Wi-Fi i Bluetooth</string>
     <string name="appcirculate_toast_high_temperature">Poczekaj, aż urządzenie ostygnie</string>
     <string name="appcirculate_toast_loading">Przełączanie na inne urządzenie…</string>
@@ -87,6 +88,7 @@
     <string name="circulate_network_share_launcher_phone_tips">Upewnij się, że włączono tę funkcję w Ustawieniach > Łączność na Twoim telefonie Xiaomi.</string>
     <string name="circulate_public_device_title_format">%2$s (%1$s)</string>
     <string name="circulate_ringfind_button_hint_stop">Zatrzymaj dźwięk</string>
+    <string name="circulate_speaker_control_view">Z %1$s</string>
     <string name="circulate_synergy_telephone">Odbieranie połączenia</string>
     <string name="common_hint_device_removed">Usunięto urządzenie</string>
     <string name="common_hint_unkonwn_error">Wystąpił błąd systemu. Spróbuj ponownie później.</string>

@@ -1,5 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="airdrop_apple_device_bluetooth_off_subtitle">Aby odnaleźć urządzenia Apple, włącz Bluetooth</string>
+    <string name="airdrop_apple_device_bluetooth_off_title">Włącz Bluetooth</string>
+    <string name="airdrop_apple_device_guide_summary">"Przesyłaj pliki na oraz z iPhone'a, iPada i Maca"</string>
+    <string name="airdrop_apple_device_not_found_subtitle">"%1$d. Włącz Bluetooth na tym urządzeniu.
+%2$d. Ustaw opcję AirDrop na urządzeniu Apple na \"Wszyscy przez %3$d minut\"."</string>
+    <string name="airdrop_apple_device_not_found_title">"Nie znaleziono urządzeń Apple'a?"</string>
+    <string name="airdrop_apple_device_receive">"Otrzymuj pliki z urządzeń Apple'a"</string>
+    <string name="airdrop_apple_device_receive_condition_describe_os4">"%1$d. Włącz Bluetooth na tym urządzeniu i otwórz tę stronę, aby otrzymywać pliki z urządzeń Apple'a poprzez AirDrop.
+%2$d. Aby upewnić się, że urządzenie Apple'a zostanie znalezione, możesz również zainstalować i otworzyć na nim aplikację Xiaomi Interconnectivity."</string>
+    <string name="airdrop_apple_device_receive_file">"Otrzymuj pliki z urządzeń Apple'a"</string>
+    <string name="airdrop_apple_device_searching_subtitle">"Ustaw AirDrop w Centrum kontroli na urządzeniu Apple'a na \"Wszyscy przez %d minut\""</string>
+    <string name="airdrop_apple_device_searching_title">"Wyszukiwanie urządzeń Apple'a…"</string>
+    <string name="airdrop_apple_device_send_condition_describe_os4">"%1$d. Wybierz zdjęcia, filmy lub pliki na tym urządzeniu, które chcesz przesłać na urządzenia Apple'a.
+%2$d. Aby upewnić się, że urządzenie Apple'a zostanie znalezione, możesz również zainstalować i otworzyć na nim aplikację Xiaomi Interconnectivity."</string>
+    <string name="airdrop_apple_device_send_title">"Przesyłaj pliki na urządzenia Apple'a"</string>
+    <string name="airdrop_apple_device_share_page_title">"Przesyłaj na urządzenia Apple'a"</string>
+    <string name="airdrop_apple_device_subtitle">"Przesyłaj pliki na oraz z iPhone'a, iPada i Maca"</string>
+    <string name="airdrop_apple_device_title">"Przesyłaj na oraz z urządzeń Apple'a"</string>
+    <string name="airdrop_apple_device_wlan_disconnect_note">"Podczas oczekiwania na otrzymanie lub wysłanie plików na urządzenie Apple'a to urządzenie tymczasowo rozłączy się z siecią Wi-Fi %d GHz"</string>
+    <string name="airdrop_back">Wstecz</string>
     <string name="app_function_display_description">Usługa transferu plików Mi Share</string>
     <string name="custom_define_permission_desc_android.permission_group.LOCATION">W celu transferu elementów za pomocą Bluetooth i Wi-Fi</string>
     <string name="error_msg_network_error_china">"Nie udało się połączyć z siecią. Sprawdź połączenia Wi-Fi i Bluetooth na obu urządzeniach."</string>
@@ -38,6 +58,22 @@ Inne urządzenia z Androidem: tę funkcję mogą wspierać urządzenia vivo, rea
     <string name="progress_notification_downloading">Progres: %d%%</string>
     <string name="progress_notification_name">Pobieranie wtyczki</string>
     <string name="required_permissions_desc">W celu wysyłania i odbierania plików;W celu przesyłania plików za pomocą Bluetooth i Wi-Fi;W celu odnajdowania dostępnych urządzeń w pobliżu za pomocą Bluetooth;W celu odnajdywania dostępnych urządzeń w pobliżu i przesyłania plików za pomocą Wi-Fi;W celu sprawdzania, czy aplikacje są zainstalowane, aby otworzyć je po otrzymaniu danych</string>
+    <string name="sharop_accept">Zaakceptuj</string>
+    <string name="sharop_cancel">Zatrzymaj</string>
+    <string name="sharop_decline">Odrzuć</string>
+    <string name="sharop_file_received">Otrzymano %1$s</string>
+    <string name="sharop_incoming_request">Przychodzący AirDrop</string>
+    <string name="sharop_no_receive_history">Brak otrzymanych plików</string>
+    <string name="sharop_notification_channel_name">Usługa AirDrop</string>
+    <string name="sharop_notification_text">Gotowość do otrzymywania plików przez AirDrop</string>
+    <string name="sharop_notification_title">Uruchomiono AirDrop</string>
+    <string name="sharop_receive_disabled">Wyłączono otrzymywanie przez AirDrop</string>
+    <string name="sharop_receive_enabled">Włączono otrzymywanie przez AirDrop</string>
+    <string name="sharop_receive_history">Historia otrzymywania</string>
+    <string name="sharop_receive_title">Otrzymywanie przez AirDrop</string>
+    <string name="sharop_tab_receive">Otrzymywanie</string>
+    <string name="sharop_tab_send">Wysyłanie</string>
+    <string name="sharop_wants_to_send">%1$s chce wysłać %2$s</string>
     <string name="sub_title_mishare_switch_mine">Możesz odbierać pliki z urządzeń zalogowanych na Twoje konto Xiaomi</string>
     <string name="switch_mode_sameaccount">Z mojego konta Xiaomi</string>
     <string name="tap_share_contact_person_title">Udostępniaj kontakt</string>

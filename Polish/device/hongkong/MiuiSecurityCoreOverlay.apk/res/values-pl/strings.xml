@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gesture_shortcut_ai_key_function_none">Brak</string>
+    <string name="gesture_shortcut_ai_key_guide_button_more">Dowiedz się więcej</string>
+    <string name="gesture_shortcut_ai_key_guide_button_setting">Ustawienia</string>
+    <string name="gesture_shortcut_ai_key_guide_info_1_g">Wyszukuj dowolne rzeczy, które widzisz na ekranie, bez przełączania się między aplikacjami</string>
+    <string name="gesture_shortcut_ai_key_guide_info_2_g">Dostosuj w Ustawieniach > Przycisk SI > \"Naciśnij przycisk SI\" lub \"Przytrzymaj przycisk SI\"</string>
+    <string name="gesture_shortcut_ai_key_guide_title_1_g">Naciśnij przycisk SI, aby otworzyć menu Zakreśl, aby wyszukać</string>
+    <string name="gesture_shortcut_ai_key_guide_title_2_g">Zupełnie nowy przycisk SI</string>
+    <string name="gesture_shortcut_ai_key_install_n_message">Notatki to aplikacja zasilana przez SI dla Twojego telefonu. Po jej pobraniu możesz używać przycisku SI, aby nagrywać dźwięk, zbierać pomysły i automatycznie organizować je w notatki SI.</string>
+    <string name="gesture_shortcut_ai_key_install_n_title">Zainstalować Notatki?</string>
+    <string name="gesture_shortcut_ai_key_option1">Naciśnij przycisk SI</string>
+    <string name="gesture_shortcut_ai_key_option1_function_2">Zakreśl, aby wyszukać</string>
+    <string name="gesture_shortcut_ai_key_option2">Przytrzymaj przycisk SI</string>
+    <string name="gesture_shortcut_ai_key_option2_function_1">Tryb cichy</string>
+    <string name="gesture_shortcut_ai_key_option2_function_2">Nie przeszkadzać</string>
+    <string name="gesture_shortcut_ai_key_option2_function_3">Prywatny wyświetlacz na całym urządzeniu</string>
+    <string name="gesture_shortcut_ai_key_option2_function_4">Notatki głosowe</string>
+    <string name="gesture_shortcut_ai_key_option2_function_8">Tłumaczenie konwersacji SI</string>
+    <string name="gesture_shortcut_ai_key_title">Przycisk SI</string>
+</resources>

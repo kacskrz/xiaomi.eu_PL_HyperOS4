@@ -117,6 +117,16 @@
         <item quantity="one">%d minutę temu</item>
         <item quantity="few">%d minuty temu</item>
     </plurals>
+    <plurals name="group_photo_select_bg_title">
+        <item quantity="other">Wybierz %1$d teł %2$s</item>
+        <item quantity="few">Wybierz %1$d tła %2$s</item>
+        <item quantity="one">Wybierz %1$d tło %2$s</item>
+    </plurals>
+    <plurals name="group_photo_select_person_title">
+        <item quantity="other">Wybierz %1$d obiektów %2$s</item>
+        <item quantity="few">Wybierz %1$d obiekty %2$s</item>
+        <item quantity="one">Wybierz %1$d obiekt %2$s</item>
+    </plurals>
     <plurals name="guide_used_number">
         <item quantity="other">Zastosowano na %1$d urządzeniach</item>
         <item quantity="one">Zastosowano %1$d urządzeniu</item>
@@ -160,6 +170,21 @@
         <item quantity="few">Zapłać %1$s Mi Coiny</item>
         <item quantity="one">Zapłać %1$s Mi Coin</item>
     </plurals>
+    <plurals name="rear_ai_app_pic_count_limit_toast">
+        <item quantity="other">Wybierz maks. %d obrazów</item>
+        <item quantity="few">Wybierz maks. %d obrazy</item>
+        <item quantity="one">Wybierz maks. %d obraz</item>
+    </plurals>
+    <plurals name="rear_ai_companion_generate_too_frequent_toast">
+        <item quantity="other">Zbyt wiele prób. Spróbuj ponownie za %1$d minut.</item>
+        <item quantity="few">Zbyt wiele prób. Spróbuj ponownie za %1$d minuty.</item>
+        <item quantity="one">Zbyt wiele prób. Spróbuj ponownie za minutę.</item>
+    </plurals>
+    <plurals name="rear_screen_ai_app_added_count">
+        <item quantity="other">%d aplikacji</item>
+        <item quantity="few">%d aplikacje</item>
+        <item quantity="one">%d aplikacja</item>
+    </plurals>
     <plurals name="rear_screen_batch_has_update_text">
         <item quantity="other">Dostępna aktualizacja dla %1$d elementów tylnego wyświetlacza</item>
         <item quantity="one">Dostępna aktualizacja dla %1$d elementu tylnego wyświetlacza</item>
@@ -167,6 +192,14 @@
     <plurals name="rear_screen_batch_updating_text">
         <item quantity="other">Aktualizowanie %1$d elementów tylnego wyświetlacza</item>
         <item quantity="one">Aktualizowanie %1$d elementu tylnego wyświetlacza</item>
+    </plurals>
+    <plurals name="rear_screen_free_count">
+        <item quantity="other">Wciąż możesz wygenerować %d razy</item>
+        <item quantity="one">Wciąż możesz wygenerować %d raz</item>
+    </plurals>
+    <plurals name="rear_screen_total_count">
+        <item quantity="other">Łącznie %d razy</item>
+        <item quantity="one">Łącznie %d raz</item>
     </plurals>
     <plurals name="rear_signature_max_text_size">
         <item quantity="other">Wprowadź maks. %1$d znaków</item>
