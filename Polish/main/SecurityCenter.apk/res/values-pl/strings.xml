@@ -544,6 +544,11 @@ Wszystkie dane na urządzeniu mogą zostać wymazane, a hasło ekranu blokady - 
     <string name="function_oncall_not_close_network">Nie odbieraj połączeń</string>
     <string name="game_center_network_setting_tip">Zezwól Panelowi sterowania na łączenie się z Internetem w Ustawieniach</string>
     <string name="game_center_network_setting_tip_pad">Zezwól Panelowi sterowania na łączenie się z Internetem w Ustawieniach</string>
+    <string name="game_island_channel_name">Powiadomienia z gry</string>
+    <string name="game_island_click_enter_game">Dotknij, aby otworzyć grę</string>
+    <string name="game_island_enter_game">Otwórz</string>
+    <string name="game_island_revived">Odrodzono</string>
+    <string name="game_island_reviving">Odradzanie</string>
     <string name="game_perf_config_display_desc_enabled">Zmień rozdzielczość i klatkaż</string>
     <string name="game_perf_config_motion_desc">Zmień czułość dotyku w grach</string>
     <string name="game_perf_config_network_desc">Zmniejsz opóźnienie i zakłócenia sieci</string>
@@ -709,7 +714,7 @@ Rejestruj sekwencje i używaj ich w dowolnym momencie!"</string>
     <string name="gb_perf_launch_cooling_fan_guide_message">Przejdź do Ustawień > Chłodzenie i włącz scenariusz gry</string>
     <string name="gb_perf_launch_cooling_fan_guide_title">Uwaga</string>
     <string name="gb_perf_launch_cooling_fan_title">Chłodzenie</string>
-    <string name="gb_perf_launch_mute_start_desc">Dźwięk będzie automatycznie wyciszany przy starcie gry. Działa tylko z aktualną grą.</string>
+    <string name="gb_perf_launch_mute_start_desc">Dźwięk będzie automatycznie wyciszany przy starcie gry. Nie działa z pływającymi oknami lub Podziałem ekranu.</string>
     <string name="gb_perf_launch_mute_start_title">Cisza</string>
     <string name="gb_perf_margin_restrain_description">Dostosuj obszar niereagujący na dotyk, aby zredukować przypadkowe dotknięcia na krawędziach</string>
     <string name="gb_perf_mode_balanced">Tryb zbalansowany</string>
@@ -971,6 +976,10 @@ Przytrzymaj pasek, aby przesuwać okno."</string>
     <string name="open_applock_tip_item3_title">Masz wybór</string>
     <string name="open_applock_tips">Blokuj aplikacje i weryfikuj swoją tożsamość podczas ich otwierania. Blokada aplikacji ma dwa rodzaje haseł i wspiera weryfikację biometryczną.</string>
     <string name="open_extreme_power_save_mode_title">Włącz Ultraoszczędzanie baterii</string>
+    <string name="open_screen_resolution_tip_cancel">Anuluj</string>
+    <string name="open_screen_resolution_tip_content">Zanim przejdziesz dalej, ustaw rozdzielczość ekranu na WQHD+ w Ustawieniach.</string>
+    <string name="open_screen_resolution_tip_set">Ustawienia</string>
+    <string name="open_screen_resolution_tip_title">Uwaga</string>
     <string name="optimize_manage_title">Zarządzanie pamięcią</string>
     <string name="optimize_result_button_onekey_restore">Przywróć</string>
     <string name="optmizingbar_title_system">Zabezpieczenia systemu</string>
@@ -1081,6 +1090,8 @@ Ultraoszczędzania baterii"</string>
     <string name="peep_protection_v2_cue_global_reason">Wypróbuj funkcje prywatności ekskluzywne dla tego modelu</string>
     <string name="peep_protection_v2_cue_global_title">Włącz Prywatny wyświetlacz Xiaomi</string>
     <string name="peep_protection_v2_cue_summary">Ta funkcja jest dostępna tylko dla tego modelu</string>
+    <string name="peep_protection_v2_enhanced_effect_summary">Zredukuj jasność ekranu, aby utrudnić spoglądanie na ekran przez innych</string>
+    <string name="peep_protection_v2_enhanced_effect_title">Ulepszona prywatność</string>
     <string name="peep_protection_v2_first_close_message">Dodaj Prywatny wyświetlacz Xiaomi w Centrum funkcji > Edytuj > Przełączniki systemowe, aby go szybko włączać i wyłączać.</string>
     <string name="peep_protection_v2_first_close_title">Szybko włączaj Prywatny wyświetlacz Xiaomi</string>
     <string name="peep_protection_v2_global_first_open_msg">Dodaj Prywatność na całym ekranie w Centrum funkcji > Edytuj > Przełączniki systemowe, aby go szybko włączać i wyłączać.</string>
@@ -1759,8 +1770,8 @@ Wycofać zgodę?"</string>
     <string name="st_intercept_all_dialog_title">Zablokować wszystkie połączenia?</string>
     <string name="st_intercept_dialog_strange_title">Zablokować połączenia od nieznajomych?</string>
     <string name="st_mark_call_intercept_threshold_summary">Automatycznie blokuj numery zgłaszane określoną liczbę razy</string>
-    <string name="st_msg_keyword_black_summary">Blokuj wiadomości od nieznanych osób zawierające słowa kluczowe</string>
-    <string name="st_msg_keyword_white_summary">Zezwalaj na wiadomości od nieznanych osób zawierające słowa kluczowe</string>
+    <string name="st_msg_keyword_black_summary">Blokuj wiadomości od nieznanych osób zawierające określone słowa kluczowe</string>
+    <string name="st_msg_keyword_white_summary">Nie blokuj wiadomości od nieznanych osób zawierających określone słowa kluczowe</string>
     <string name="st_title_back_sound_busy">Sygnał zajętego numeru</string>
     <string name="status_bar_network_flow_content">"Dziś: %1$s | Pozostało: %2$s"</string>
     <string name="status_bar_network_flow_content_not_setting">"Dziś: %1$s | W tym miesiącu: %2$s"</string>

@@ -1026,6 +1026,7 @@ Potrwa to ok. 3 minuty"</string>
     <string name="rear_screen_ai_app">Generuj karty aplikacji z pomocą SI</string>
     <string name="rear_screen_ai_app_added_count">%d aplikacji</string>
     <string name="rear_screen_ai_app_already_added">Ta karta aplikacji znajduje się już na tylnym wyświetlaczu</string>
+    <string name="rear_screen_ai_app_edit_subtitle">Opisz swój pomysł za pomocą słów kluczowych, aby szybko utworzyć aplikację</string>
     <string name="rear_screen_ai_app_edit_title">Lekka aplikacja SI</string>
     <string name="rear_screen_ai_app_empty_alert">Nie można wyświetlić zawartości</string>
     <string name="rear_screen_ai_app_generate_failed_content">Nie udało się wygenerować karty aplikacji. Poczekaj minutę lub dwie i spróbuj ponownie.</string>
@@ -1055,9 +1056,15 @@ Potrwa to ok. 3 minuty"</string>
     <string name="rear_screen_companion_audit_violation">Ta treść narusza wytyczne Xiaomi. Zedytuj ją i spróbuj ponownie.</string>
     <string name="rear_screen_companion_input_empty_error">Najpierw wprowadź nazwę</string>
     <string name="rear_screen_companion_nickname_auditing">Trwa przegląd. Proszę czekać…</string>
+    <string name="rear_screen_confirm_generate">Wygenerować teraz?</string>
+    <string name="rear_screen_credits_insufficient_message">Ta funkcja zużywa punkty Xiaomi Hyper XiaoAi points. Ulepsz swoje członkostwo, aby uzyskać więcej punktów.</string>
+    <string name="rear_screen_credits_insufficient_title">Za mało punktów</string>
+    <string name="rear_screen_credits_later">Nie teraz</string>
+    <string name="rear_screen_credits_upgrade_membership">Ulepsz</string>
     <string name="rear_screen_delete_confirm_free_usage_message">Użyto %d darmowej próby. Jeśli usuniesz ten element, nie będzie można go przywrócić.</string>
     <string name="rear_screen_delete_confirm_message">Usunięte elementy zostaną skasowane ze wszystkich Twoich urządzeń, a także z chmury.</string>
     <string name="rear_screen_delete_confirm_title">Usunąć wybrane aplikacje?</string>
+    <string name="rear_screen_delete_selected_resource_title">Usunąć wybrane elementy?</string>
     <string name="rear_screen_delete_template">Usunąć ten szablon?</string>
     <string name="rear_screen_demo_device_unsupported">Ta funkcja nie jest wspierana na urządzeniach demonstracyjnych.</string>
     <string name="rear_screen_device_untrusted">Aby użyć tej funkcji, zweryfikuj to urządzenie</string>
@@ -1074,6 +1081,7 @@ Potrwa to ok. 3 minuty"</string>
     <string name="rear_screen_free_usage_remaining_normal_sale">%1$s za darmo w tym miesiącu.</string>
     <string name="rear_screen_gaze_detection_summary">Gdy patrzysz na ekran, tylny ekran pozostanie włączony</string>
     <string name="rear_screen_gaze_detection_title">Wyświetlacz świadomy uwagi</string>
+    <string name="rear_screen_generate_no_more_reminder">Nie przypominaj ponownie</string>
     <string name="rear_screen_guide_text">"Spersonalizuj swój tylny wyświetlacz.
 Dostępne są zupełnie nowe style."</string>
     <string name="rear_screen_manage_wallpaper">Zarządzaj</string>

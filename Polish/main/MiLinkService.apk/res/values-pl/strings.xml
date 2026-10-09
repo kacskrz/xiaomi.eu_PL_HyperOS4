@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="accessibility_tab_statedesc_unselect">Niezaznaczone</string>
-    <string name="appcirculate_alert_transfer_busy_text">Przesyłanie e elementów. Poczekaj minutę lub dwie i spróbuj ponownie.</string>
+    <string name="appcirculate_alert_transfer_busy_text">Przesyłanie elementów. Poczekaj minutę lub dwie i spróbuj ponownie.</string>
     <string name="appcirculate_fragment_circulate_device_card_switch_title_1">Włącz Wi-Fi i Bluetooth</string>
     <string name="appcirculate_toast_high_temperature">Poczekaj, aż urządzenie ostygnie</string>
     <string name="appcirculate_toast_loading">Przełączanie na inne urządzenie…</string>

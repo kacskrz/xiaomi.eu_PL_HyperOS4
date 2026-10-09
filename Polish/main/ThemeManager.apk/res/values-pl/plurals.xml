@@ -193,9 +193,29 @@
         <item quantity="other">Aktualizowanie %1$d elementów tylnego wyświetlacza</item>
         <item quantity="one">Aktualizowanie %1$d elementu tylnego wyświetlacza</item>
     </plurals>
+    <plurals name="rear_screen_delete_confirm_credits_message">
+        <item quantity="other">Zużyto %d punktów Xiaomi Hyper XiaoAi - nie zostaną one zwrócone po usunięciu tego elementu.</item>
+        <item quantity="few">Zużyto %d punkty Xiaomi Hyper XiaoAi - nie zostaną one zwrócone po usunięciu tego elementu.</item>
+        <item quantity="one">Zużyto %d punkt Xiaomi Hyper XiaoAi - nie zostanie on zwrócony po usunięciu tego elementu.</item>
+    </plurals>
     <plurals name="rear_screen_free_count">
         <item quantity="other">Wciąż możesz wygenerować %d razy</item>
         <item quantity="one">Wciąż możesz wygenerować %d raz</item>
+    </plurals>
+    <plurals name="rear_screen_generate_cost_super_ai_credits">
+        <item quantity="other">Będzie to kosztować %d punktów Xiaomi Hyper XiaoAi.</item>
+        <item quantity="few">Będzie to kosztować %d punkty Xiaomi Hyper XiaoAi.</item>
+        <item quantity="one">Będzie to kosztować %d punkt Xiaomi Hyper XiaoAi.</item>
+    </plurals>
+    <plurals name="rear_screen_generate_cost_super_ai_credits_message">
+        <item quantity="other">Będzie to kosztować %d punktów Xiaomi Hyper XiaoAi.</item>
+        <item quantity="few">Będzie to kosztować %d punkty Xiaomi Hyper XiaoAi.</item>
+        <item quantity="one">Będzie to kosztować %d punkt Xiaomi Hyper XiaoAi.</item>
+    </plurals>
+    <plurals name="rear_screen_stop_generate_credits_message">
+        <item quantity="other">Zużyto %d punktów Xiaomi Hyper XiaoAi - nie zostaną one zwrócone po zatrzymaniu tego generowania.</item>
+        <item quantity="few">Zużyto %d punkty Xiaomi Hyper XiaoAi - nie zostaną one zwrócone po zatrzymaniu tego generowania.</item>
+        <item quantity="one">Zużyto %d punkt Xiaomi Hyper XiaoAi - nie zostanie on zwrócony po zatrzymaniu tego generowania.</item>
     </plurals>
     <plurals name="rear_screen_total_count">
         <item quantity="other">Łącznie %d razy</item>
