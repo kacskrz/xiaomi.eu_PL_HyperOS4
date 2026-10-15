@@ -459,6 +459,7 @@ Jeśli zgubisz urządzenie, to dodatkowe sprawdzenie wciąż może zapobiec zmia
     <string name="miui_sos_msg_call_log_prefix">"Tutaj historia rozmów z ostatniej godziny:"</string>
     <string name="miui_sos_remind_close">Włączony jest tryb Alarmowy SOS. Czy chcesz go wyłączyć (wraz z odpowiednimi funkcjonalnościami)?</string>
     <string name="miui_sos_remind_infocontent">"Dodałem Cię jako mój alarmowy kontakt. Dostaniesz SMS z moją lokalizacją, gdy będę w niebezpieczeństwie. [Mi Emergency SOS]"</string>
+    <string name="miui_sos_settings_alert_contacts_too_many_new">Możesz dodać do %d kontaktów</string>
     <string name="miuix_appcompat_accessibility_start_edit_action_mode">Wejdź w tryb edycji</string>
     <string name="modern_control_center_desc">Przeciągnij pasek stanu po lewej stronie, aby wyświetlić powiadomienia, bądź po prawej stronie w celu wyświetlenia Centrum funkcji</string>
     <string name="monday_shortest">P</string>

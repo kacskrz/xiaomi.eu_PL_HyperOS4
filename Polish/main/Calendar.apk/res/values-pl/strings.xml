@@ -12,6 +12,7 @@
     <string name="desk_calendar">Specjalny kalendarz na biurko</string>
     <string name="desk_calendar_view">Kalendarz na biurko</string>
     <string name="desk_image_cannot_slip_hint">Na razie to wszystko</string>
+    <string name="fmt_calendar_date_picker_header_date">d.MM.yyyy</string>
     <string name="fmt_date_long_year_month_day">d MMMM yyyy</string>
     <string name="fmt_date_short_year_month_day">d MMM yyyy</string>
     <string name="focus_notification_open_setting_message">Włącz Skupienie powiadomień dla Kalendarza, aby móc korzystać z przypomnień o odliczaniu.</string>

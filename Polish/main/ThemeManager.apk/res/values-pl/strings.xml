@@ -47,14 +47,14 @@
     <string name="ai_group_photo_audit_title">Nieudany przegląd zdjęć</string>
     <string name="ai_group_photo_error_title">Zdjęcie grupowe SI</string>
     <string name="ai_group_photo_generate_error">Nie udało się wygenerować zdjęcia grupowego SI</string>
-    <string name="ai_group_photo_notify_complete">Wygenerowano zdjęcie grupowe SI</string>
+    <string name="ai_group_photo_notify_complete">Pomyślnie wygenerowano zdjęcie grupowe</string>
     <string name="ai_group_photo_notify_title">Zdjęcie grupowe SI</string>
     <string name="ai_group_photo_pic_type_check_fail_title">Niepoprawne zdjęcie</string>
     <string name="ai_image_format_does_not_support_generation">Niewspierany format</string>
     <string name="ai_image_size_too_large">Za duży obraz</string>
     <string name="ai_in_line">Jesteś w kolejce…</string>
     <string name="ai_inquire_apply_wallpaper">Zastosować tę tapetę?</string>
-    <string name="ai_mate">Towarzysz SI</string>
+    <string name="ai_mate">Inteligentny towarzysz</string>
     <string name="ai_moving_your_wallpaper_new">Wypróbuj nowe style i dodaj dynamiczne efekty do swoich ulubionych tapet</string>
     <string name="ai_pet">Zwierzaki SI</string>
     <string name="ai_pet_account_service_unavailable">Błąd konta</string>
@@ -958,8 +958,8 @@ Możesz nadać to uprawnienie w Ustawieniach > Prywatność."</string>
     <string name="rear_ai_app_upper_limit_toast">Nie można dodać więcej kart aplikacji. Usuń część z nich i spróbuj ponownie.</string>
     <string name="rear_ai_companion_ai_watermark">Wygenerowane z pomocą SI</string>
     <string name="rear_ai_companion_analyzing_image">Analizowanie obrazu…</string>
-    <string name="rear_ai_companion_building_profile_eta">"Tworzenie animacji
-Potrwa to ok. 3 minuty"</string>
+    <string name="rear_ai_companion_building_profile_eta">"Generowanie animacji…
+Pozostało %d min."</string>
     <string name="rear_ai_companion_card_generating">Generowanie…</string>
     <string name="rear_ai_companion_confirm_exit_title">Anulować zadanie?</string>
     <string name="rear_ai_companion_confirm_image_button">Dalej</string>
@@ -970,18 +970,18 @@ Potrwa to ok. 3 minuty"</string>
     <string name="rear_ai_companion_delete_confirm_title">Usunąć tę postać?</string>
     <string name="rear_ai_companion_delete_selected_title">Usunąć wybrane postaci?</string>
     <string name="rear_ai_companion_description_hint">Wprowadź opisy</string>
-    <string name="rear_ai_companion_description_invalid_message">AKtualny opis koliduje z tylnym wyświetlaczem. Zmień go.</string>
-    <string name="rear_ai_companion_description_invalid_retry">Wprowadź ponownie</string>
+    <string name="rear_ai_companion_description_invalid_message">Nie można użyć tego opisu dla tego efektu tylnego wyświetlacza. Spróbuj ponownie.</string>
+    <string name="rear_ai_companion_description_invalid_retry">Nie można użyć tego opisu</string>
     <string name="rear_ai_companion_description_invalid_title">Opis nie spełnia wymagań</string>
     <string name="rear_ai_companion_description_max_char_toast">Wprowadź maks. %1$d znaków</string>
     <string name="rear_ai_companion_description_violation_toast">Opis narusza wytyczne Xiaomi. Zedytuj go i spróbuj ponownie.</string>
     <string name="rear_ai_companion_detail_greeting_tts">Miło Cię w końcu widzieć. Możesz zmienić mój pseudonim, to, jak się do Ciebie zwracam, moją osobowość oraz głos.</string>
     <string name="rear_ai_companion_determine_need_confirm_message">To zdjęcie może nie dać dobrych wyników. Prześlij wyraźniejsze zdjęcie przedstawiające tylko jeden obiekt.</string>
-    <string name="rear_ai_companion_determine_need_confirm_title">Kontynuować generowanie postaci?</string>
+    <string name="rear_ai_companion_determine_need_confirm_title">Kontynuować generowanie?</string>
     <string name="rear_ai_companion_determine_not_allowed_message">Prześlij wyraźne zdjęcie z jednym obiektem, którego nic nie zasłania.</string>
     <string name="rear_ai_companion_determine_not_allowed_negative">Zatrzymaj</string>
     <string name="rear_ai_companion_determine_not_allowed_positive">Prześlij</string>
-    <string name="rear_ai_companion_determine_not_allowed_title">Nie można użyć tego obrazu</string>
+    <string name="rear_ai_companion_determine_not_allowed_title">Nie można użyć tego obrazu lub opisu</string>
     <string name="rear_ai_companion_generate_disclaimer">Wyniki mogą różnić się od podanego opisu. Decydujące znaczenie ma rzeczywisty wynik.</string>
     <string name="rear_ai_companion_generate_exit_confirm">Zatrzymaj</string>
     <string name="rear_ai_companion_generate_exit_title">Zatrzymać generowanie?</string>
@@ -1001,7 +1001,7 @@ Potrwa to ok. 3 minuty"</string>
     <string name="rear_ai_companion_notify_generating">Generowanie Twojej postaci…</string>
     <string name="rear_ai_companion_notify_image_failed">Nie udało się wygenerować obrazu awatara. Spróbuj ponownie.</string>
     <string name="rear_ai_companion_notify_image_generating">Generowanie…</string>
-    <string name="rear_ai_companion_notify_image_success">Wygenerowano obraz awatara. Dotknij, aby zobaczyć.</string>
+    <string name="rear_ai_companion_notify_image_success">Wygenerowano pomyślnie. Dotknij, aby zobaczyć.</string>
     <string name="rear_ai_companion_notify_success">Twój towarzysz jest gotowy!</string>
     <string name="rear_ai_companion_notify_title">Inteligentny towarzysz</string>
     <string name="rear_ai_companion_notify_video_generating">Generowanie animacji postaci…</string>
@@ -1051,11 +1051,11 @@ Potrwa to ok. 3 minuty"</string>
     <string name="rear_screen_apply_fail">Nie udało się zastosować</string>
     <string name="rear_screen_apply_success">Pomyślnie zastosowano</string>
     <string name="rear_screen_companion_add_fail_retry">Nie udało się dodać. Spróbuj ponownie.</string>
-    <string name="rear_screen_companion_audit_fail_message">Wprowadzona treść może naruszać wytyczne Xiaomi.</string>
-    <string name="rear_screen_companion_audit_fail_title">Nieudany przegląd</string>
+    <string name="rear_screen_companion_audit_fail_message">Ta treść może naruszać wytyczne Xiaomi.</string>
+    <string name="rear_screen_companion_audit_fail_title">Nie udało się zapisać</string>
     <string name="rear_screen_companion_audit_violation">Ta treść narusza wytyczne Xiaomi. Zedytuj ją i spróbuj ponownie.</string>
     <string name="rear_screen_companion_input_empty_error">Najpierw wprowadź nazwę</string>
-    <string name="rear_screen_companion_nickname_auditing">Trwa przegląd. Proszę czekać…</string>
+    <string name="rear_screen_companion_nickname_auditing">Chwileczkę…</string>
     <string name="rear_screen_confirm_generate">Wygenerować teraz?</string>
     <string name="rear_screen_credits_insufficient_message">Ta funkcja zużywa punkty Xiaomi Hyper XiaoAi points. Ulepsz swoje członkostwo, aby uzyskać więcej punktów.</string>
     <string name="rear_screen_credits_insufficient_title">Za mało punktów</string>
