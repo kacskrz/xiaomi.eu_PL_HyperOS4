@@ -23,8 +23,6 @@
     <string name="doodle_pencil_stroke_5">Bardzo gruba</string>
     <string name="exceed_todo_text_limitation">Opis zadania jest za długi.</string>
     <string name="excerpted_to_note">Zapisano fragment w Notatkach</string>
-    <string name="fmt_date_long_year_month_day">d MMMM yyyy</string>
-    <string name="fmt_date_short_year_month_day">d MMM yyyy</string>
     <string name="foregound_content">Widżet tekstu Mi SI pracuje…</string>
     <string name="foregound_tile">Tekst SI</string>
     <string name="miuix_appcompat_accessibility_collapse_state">Zwinięto</string>

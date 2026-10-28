@@ -222,6 +222,7 @@
     <string name="favor_list_title">Ulubione</string>
     <string name="favor_success">Pomyślnie dodano do ulubionych</string>
     <string name="feed_article_entrance_about">O \"%s\"</string>
+    <string name="fmt_calendar_date_picker_header_date">d.MM.yyyy</string>
     <string name="from_migallerylockscreen">" "</string>
     <string name="get_account_no_permission">Zezwól Tapetom blokady na dostęp do kont na tym urządzeniu przed zalogowaniem.</string>
     <string name="goto_confirm">Ustawienia</string>

@@ -19,7 +19,6 @@
     <string name="record_back_pressed_hint">Naciśnij ponownie, aby zatrzymać nagrywanie</string>
     <string name="record_scenes_summaries_HD">Technologia wysokiego zakresu dynamicznego umożliwia nagrywanie lepszej jakości dźwięku</string>
     <string name="record_scenes_summaries_stereo_HD">Technologia wysokiego zakresu dynamicznego umożliwia nagrywanie lepszej jakości dźwięku</string>
-    <string name="search_tip_rename">Nazywaj nagrania ręcznie</string>
     <string name="text_play_speed_0_5">Odtwarzanie 0,5x</string>
     <string name="text_play_speed_1_0">Normalne</string>
     <string name="text_play_speed_1_5">Odtwarzanie 1,5x</string>
